@@ -65,7 +65,7 @@ Wer sich nach dem Besuch des Linux Presentation Day dafür entscheidet, Linux au
 <td style="width: 20%; text-align: right;" >**HINWEIS**
 </td>
 
-<td >Der Linux Presentation Day findet auch von 10 bis 18 Uhr bei "bcs kommunikationslösungen", Harz 51, Haus 1 statt: [Guckst du hier!](http://halle.it/linux-presentation-day/)
+<td >Der Linux Presentation Day findet auch von 10 bis 18 Uhr bei "bcs kommunikationslösungen", Harz 51, Haus 1 statt: [Guckst du hier!](https://halle.it/linux-presentation-day/)
 </td>
 </tr>
 <tr >

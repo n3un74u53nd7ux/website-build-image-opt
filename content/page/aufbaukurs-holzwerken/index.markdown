@@ -102,7 +102,7 @@ url: /aufbaukurs-holzwerken/
 
 
 
- 	  * [Fotoimpressionen vom 22.06.2014 (Vielen Dank an Hardy)](http:/https://www.hardy-krause.de/Projekte/Eigenbaukombinat/Aufbaukurs_Kirsche/index.html)
+ 	  * [Fotoimpressionen vom 22.06.2014 (Vielen Dank an Hardy)](https://www.hardy-krause.de/Projekte/Eigenbaukombinat/Aufbaukurs_Kirsche/index.html)
  	  * [Nachlese vom 23.02.2014](/nachlese-1-aufbaukurs-holzwerken/)
  	  * [Nachlese vom 11.10.2015](/nachlese-6-aufbaukurs-holzwerken/)
  	  * [Nachlese vom 09.11.2018](/nachlese-6-aufbaukurs-holzwerken/)

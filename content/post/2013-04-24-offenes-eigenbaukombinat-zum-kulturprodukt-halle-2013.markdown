@@ -18,7 +18,7 @@ Herzstück des Kunstfestes sind die offenen Ateliers und Künstlerhäuser am 4. 
 **...UND DAS EIGENBAUKOMBINAT IST AUCH DABEI!**
 
 
-![](/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
+
 Am 4. und 5 Mai von 11 bis 18 Uhr bieten wir Euch:
 
 
@@ -31,7 +31,7 @@ Am 4. und 5 Mai von 11 bis 18 Uhr bieten wir Euch:
 
 Nutze die Chance, komm' vorbei und lerne uns unverbindlich kennen!
 
-Nähere Infos zum Kulturprodukt findest Du unter [http:/https://www.kulturprodukt-halle.de](http:/https://www.kulturprodukt-halle.de/)
+Nähere Infos zum Kulturprodukt findest Du unter [https://www.kulturprodukt-halle.de](https://www.kulturprodukt-halle.de/)
 
 Wo Du uns finden kannst erfährst Du [hier](/kontakt/anfahrt/)
 

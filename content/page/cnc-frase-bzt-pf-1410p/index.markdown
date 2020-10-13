@@ -18,25 +18,25 @@ categories:
 	  * Standard-Fräser in 1.2mm, 2mm, 3mm lang (15mm), 6mm
 	  * Steuerung BZT ST 63.1, 3 Achsen, 6 Ampere, 1/8 Microschritt
 	  * Fräse BZT PF-1410P mit Kugelumlaufspindeln
-	  * Rechner Intel Atom D510 Dualcore mit [LinuxCNC 2.5 Distribution](http://linuxcnc.org)
+	  * Rechner Intel Atom D510 Dualcore mit [LinuxCNC 2.5 Distribution](https://linuxcnc.org)
 	  * Monitor 19" TFT Eizo S1920
 
 **SOFTWARE**
 
 
 
-	  * **[QCad](http://qcad.org)** Seit Version 3.1 wieder OpenSource!! ([Download hier](http://qcad.org/de/qcad-downloads-trial))
-	  * **Cut2D** Tutorials zu Cut2D: [VIDEO Teil 1](http:/https:/https://www.youtube.com/watch?v=WmbxOpfgGFI), [VIDEO Teil 2](http:/https:/https://www.youtube.com/watch?v=r7Y7ViTkUXA)
-	  * **[LinuxCNC](http://linuxcnc.org/)**
+	  * **[QCad](https://qcad.org)** Seit Version 3.1 wieder OpenSource!! ([Download hier](https://qcad.org/de/qcad-downloads-trial))
+	  * **Cut2D** Tutorials zu Cut2D: [VIDEO Teil 1](https://www.youtube.com/watch?v=WmbxOpfgGFI), [VIDEO Teil 2](https://www.youtube.com/watch?v=r7Y7ViTkUXA)
+	  * **[LinuxCNC](https://linuxcnc.org/)**
 
 **LINKS**
 
 
 
-	  * [ein anderer Nutzer mit Aufbau unter LinuxCNC](http://builditbrakeitfixit.wordpress.com/bzt-cnc-router-with-linux-cnc-emc/)
-	  * [Infos über Chinaspindeln bei Estlcam.de](http:/https://www.estlcam.de/chinaspindel.php)
-	  * [Legierungsübersicht Fräsbarkeit ALUMINIUM](http:/https://www.alu-verkauf.de/Werkstoffe)
-	  * [GARANT Zerspanungshandbuch (PDF)](http:/https://www.karstenschneider.de/download-ebook-garant-zerspanungshandbuch.html), Formelsammlung und Praxistabellen
+	  * [ein anderer Nutzer mit Aufbau unter LinuxCNC](https://builditbrakeitfixit.wordpress.com/bzt-cnc-router-with-linux-cnc-emc/)
+	  * [Infos über Chinaspindeln bei Estlcam.de](https://www.estlcam.de/chinaspindel.php)
+	  * [Legierungsübersicht Fräsbarkeit ALUMINIUM](https://www.alu-verkauf.de/Werkstoffe)
+	  * [GARANT Zerspanungshandbuch (PDF)](https://www.karstenschneider.de/download-ebook-garant-zerspanungshandbuch.html), Formelsammlung und Praxistabellen
 
 **NACHRÜSTEN EINEN LÄNGEN-SENSORS**
 

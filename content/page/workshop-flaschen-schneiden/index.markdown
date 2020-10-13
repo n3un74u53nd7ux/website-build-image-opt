@@ -66,7 +66,7 @@ tags:
 <td style="width: 20%; text-align: right;" >**INHALT**
 </td>
 
-<td style="text-align: left;" >Dank der Zusammenarbeit mit dem [Makerspace Leipzig](http://makerspace-leipzig.de/) können wir Euch diesen neuen Kurs anbieten: **Workshop Flaschen schneiden und gravieren**!
+<td style="text-align: left;" >Dank der Zusammenarbeit mit dem [Makerspace Leipzig](https://makerspace-leipzig.de/) können wir Euch diesen neuen Kurs anbieten: **Workshop Flaschen schneiden und gravieren**!
 
 Von wegen Müll… In diesem Workshop zeigen wir Euch, was man alles aus alten Glasflaschen zaubern kann. Trinkgläser, Teelicht-Halter zum Stellen oder Hängen, Kerzenständer, kleine Vasen, Servietten-Ringe oder sogar Eierbecher - und Euch fällt bestimmt auch noch etwas ein.
 

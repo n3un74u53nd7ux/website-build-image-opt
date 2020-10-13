@@ -8,7 +8,7 @@ url: /kontakt/
 ---
 
 Falls du eine tolle Projektidee hast, oder Hilfe für dein laufendes Projekt suchst, kannst du dich unter
-[http://lists.eigenbaukombinat.de/listinfo/diskussion](http://lists.eigenbaukombinat.de/listinfo/diskussion)
+[https://lists.eigenbaukombinat.de/listinfo/diskussion](https://lists.eigenbaukombinat.de/listinfo/diskussion)
 auf unserer Mailingliste anmelden, indem du die Felder unter "Abonnieren von Diskussion" ausfüllst. Nach einer Bestätigung per E-Mail kannst du eine E-Mail an diskussion@lists.eigenbaukombinat.de senden. Diese erreicht dann alle Empfänger der Liste. Dies sind ein Großteil unserer Mitglieder sowie einige Interessenten und Freunde.
 
 Für Anfragen zu Veranstaltungen, insbesondere für Kurs- und Workshopanmeldungen, wende dich an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de).

@@ -13,7 +13,7 @@ tags:
 ---
 
 
-	  * [ARTIKEL: Bartendro: Ein Cocktailmixer auf RaspPi-Basis](http://neuerdings.com/2013/03/08/bartendro-raspberry-pi/)
-	  * [BILDER: Eine besondere Krawatte, Nachbaugefahr!](http://geekologie.com/2013/03/electroluminescent-wire-light-up-neck-ti.php)
-	  * [BILDER: 31 Days of Creativity with Food by Hong Yi](http:/https://www.boredpanda.org/every-day-food-art-project-hong-yi/)
+	  * [ARTIKEL: Bartendro: Ein Cocktailmixer auf RaspPi-Basis](https://neuerdings.com/2013/03/08/bartendro-raspberry-pi/)
+	  * [BILDER: Eine besondere Krawatte, Nachbaugefahr!](https://geekologie.com/2013/03/electroluminescent-wire-light-up-neck-ti.php)
+	  * [BILDER: 31 Days of Creativity with Food by Hong Yi](https://www.boredpanda.org/every-day-food-art-project-hong-yi/)
 

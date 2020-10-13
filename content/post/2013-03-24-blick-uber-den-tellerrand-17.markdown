@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Ein 17x17x17 Rubik's Cube.](http://geekologie.com/2011/01/unsolvable-the-17x17x17-rubiks.php)
-	  * [BILDER: Hübsche Ideen für Spielzeugbauernhöfe und -puppenhäuser.](http://roterholzwurm.de/Deutsch/Spielzeug_Bauernhof%20Pferdestall.php)
-	  * [ARTIKEL: Endlich, ein Quadcopter mit Greifarm!](http:/https://www.spiegel.de/wissenschaft/technik/quadrokopter-drohne-greift-beute-wie-ein-adler-a-889497.html)
+	  * [BILDER: Ein 17x17x17 Rubik's Cube.](https://geekologie.com/2011/01/unsolvable-the-17x17x17-rubiks.php)
+	  * [BILDER: Hübsche Ideen für Spielzeugbauernhöfe und -puppenhäuser.](https://roterholzwurm.de/Deutsch/Spielzeug_Bauernhof%20Pferdestall.php)
+	  * [ARTIKEL: Endlich, ein Quadcopter mit Greifarm!](https://www.spiegel.de/wissenschaft/technik/quadrokopter-drohne-greift-beute-wie-ein-adler-a-889497.html)
 

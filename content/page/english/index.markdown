@@ -13,8 +13,8 @@ Eigenbaukombinat is a hack- and makespace in the city of Halle (Saale), Germany.
 
 While not having designated opening hours, you can check for announced events where doors should be open. Refer to the "Aktuelle Termine" column you find on our homepage for the next events.  If you would like to visit the Eigenbaukombinat for the first time, drop by on a Tuesday at around 7 p.m. We give tours on request.
 
-Using the makespace is contingent on a membership, which is open to everybody. Membership rates are between 18 and 24 euros a month. Application for membership is [available online](/mitgliedwerden.eigenbaukombinat.de). Membership is not required for participating in any of our [events](/unsere-veranstaltungen/).
+Using the makespace is contingent on a membership, which is open to everybody. Membership rates are between 18 and 24 euros a month. Application for membership is [available online](https://mitgliedwerden.eigenbaukombinat.de). Membership is not required for participating in any of our [events](/unsere-veranstaltungen/).
 
-If you don't live in Halle, you may also be interested in the [Verbund Offener Werkstätten](http:/https://www.offene-werkstaetten.org/), an alliance of makespaces in German-speaking countries and regions.
+If you don't live in Halle, you may also be interested in the [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org/), an alliance of makespaces in German-speaking countries and regions.
 
 In case you have any questions or comments, feel free to [contact](/kontakt/) us.

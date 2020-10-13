@@ -70,7 +70,7 @@ Gäste und Besucher sind herzlich willkommen!
 
 [gallery link="file" ids="7058,3219,7061"]
 
-Fragen per E-Mail an unsere [Mailingliste](http://lists.eigenbaukombinat.de/listinfo/diskussion).
+Fragen per E-Mail an unsere [Mailingliste](https://lists.eigenbaukombinat.de/listinfo/diskussion).
 </td>
 </tr>
 <tr >

@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Der MagicShifter, ein cooles universales LED-Spielzeug](http://magicshifter.net/)
-	  * [ARTIKEL: Wie eine Orgel entsteht](http:/https://www.die-orgelseite.de/orgelbau.htm)
-	  * [BILDER: Ein interessantes Regalsystem zum Stecken](http:/https://www.xaviercoenen.eu/realisations.html)
+	  * [VIDEO: Der MagicShifter, ein cooles universales LED-Spielzeug](https://magicshifter.net/)
+	  * [ARTIKEL: Wie eine Orgel entsteht](https://www.die-orgelseite.de/orgelbau.htm)
+	  * [BILDER: Ein interessantes Regalsystem zum Stecken](https://www.xaviercoenen.eu/realisations.html)
 

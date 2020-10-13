@@ -77,7 +77,7 @@ Auf den Bildern unten seht ihr ein paar meiner Kürbisse der letzten Jahre.
 <td style="width: 20%; text-align: right;" >**ANMELDUNG**
 </td>
 
-<td style="text-align: left;" >Email an ![](http://kellerautomat.com/ebkmail/ebkmail.php?a=veranstaltungen)
+<td style="text-align: left;" >Email an ![](https://kellerautomat.com/ebkmail/ebkmail.php?a=veranstaltungen)
 
 </td>
 </tr>

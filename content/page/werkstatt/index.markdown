@@ -53,7 +53,7 @@ Weitere Möglichkeiten wie Buchbinden sind in den Startlöchern und werden je na
 
 
 
-Um einen räumlichen Eindruck zu erhalten, kannst du [hier](http://vr.eigenbaukombinat.de/) in die einzelnen digitalisierten Räume schauen **[Stand 2016!]**. Wer den kreativen Freiraum direkt erleben möchte, ist gern zu einem Rundgang im Eingenbaukombinat Halle e.V. direkt vor Ort eingeladen.
+Um einen räumlichen Eindruck zu erhalten, kannst du [hier](https://vr.eigenbaukombinat.de/) in die einzelnen digitalisierten Räume schauen **[Stand 2016!]**. Wer den kreativen Freiraum direkt erleben möchte, ist gern zu einem Rundgang im Eingenbaukombinat Halle e.V. direkt vor Ort eingeladen.
 
 
 

@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Ein ungewöhnliches Gewürzregal](http://quelovendan.com/especiero-tubos-ensayo-cientifico.html)
-	  * [VIDEO: Auszug eines Filmes von Ralph Steiner von 1930 über Zahnräder und Bewegung.](http:/https:/https://www.youtube.com/watch?v=mkQ2pXkYjRM)
-	  * [BILDER: Ein selbstgebautes, hübsches Stehpult](http:/https://www.holzwerken.net/Lesergalerie/Tischlern/Stehpult2)
+	  * [BILDER: Ein ungewöhnliches Gewürzregal](https://quelovendan.com/especiero-tubos-ensayo-cientifico.html)
+	  * [VIDEO: Auszug eines Filmes von Ralph Steiner von 1930 über Zahnräder und Bewegung.](https://www.youtube.com/watch?v=mkQ2pXkYjRM)
+	  * [BILDER: Ein selbstgebautes, hübsches Stehpult](https://www.holzwerken.net/Lesergalerie/Tischlern/Stehpult2)
 

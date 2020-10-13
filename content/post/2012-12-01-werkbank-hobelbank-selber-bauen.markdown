@@ -23,16 +23,16 @@ Benötigtes Material
 
 Sehenswerte Anregungen zum Selberbauen, hauptsächlich Videos, habe ich einmal exemplarisch hier versammelt:
 
-	  * [VIDEO: Build a cheap but sturdy workbench ](http:/https:/https://www.youtube.com/watch?v=lQWY7Pi4v-M)
-	  * [ARTIKEL: How to build a simple workbench](http:/https://www.octanepress.com/content/how-build-simple-workbench)
-	  * [VIDEO: Anregung "How to Build a Workbench In Only A Few Steps"](http:/https:/https://www.youtube.com/watch?v=4k2vGP2VSRI)
-	  * [VIDEO: How to Build a Workbench - Part 1](http:/https:/https://www.youtube.com/watch?v=ObvIbGkwEeg)
-	  * [VIDEO: The Roubo Workbench in Action ](http:/https:/https://www.youtube.com/watch?NR=1&feature=endscreen&v=QydDquSlwyI)
-	  * [VIDEO: Hobelbank & Maschinentisch von Guido Henn: Was diese Bank so alles kann!](http:/https:/https://www.youtube.com/watch?v=Cepg2DAkKQE)
+	  * [VIDEO: Build a cheap but sturdy workbench ](https://www.youtube.com/watch?v=lQWY7Pi4v-M)
+	  * [ARTIKEL: How to build a simple workbench](https://www.octanepress.com/content/how-build-simple-workbench)
+	  * [VIDEO: Anregung "How to Build a Workbench In Only A Few Steps"](https://www.youtube.com/watch?v=4k2vGP2VSRI)
+	  * [VIDEO: How to Build a Workbench - Part 1](https://www.youtube.com/watch?v=ObvIbGkwEeg)
+	  * [VIDEO: The Roubo Workbench in Action ](https://www.youtube.com/watch?NR=1&feature=endscreen&v=QydDquSlwyI)
+	  * [VIDEO: Hobelbank & Maschinentisch von Guido Henn: Was diese Bank so alles kann!](https://www.youtube.com/watch?v=Cepg2DAkKQE)
 
 Auch sind natürlich viele Bücher zum Thema geschrieben worden, einige der besten auf Englisch:
 
-	  * ["The Workbench: A Complete Guide to Creating Your Perfect Bench" von Lon Schleining](http:/https://www.feinewerkzeuge.de/buwerk.htm), oder
-	  * ["Workbenches: From Design & Theory to Construction & Use" von Christopher Schwarz](http:/https://www.feinewerkzeuge.de/buwerk.htm)
+	  * ["The Workbench: A Complete Guide to Creating Your Perfect Bench" von Lon Schleining](https://www.feinewerkzeuge.de/buwerk.htm), oder
+	  * ["Workbenches: From Design & Theory to Construction & Use" von Christopher Schwarz](https://www.feinewerkzeuge.de/buwerk.htm)
 
 

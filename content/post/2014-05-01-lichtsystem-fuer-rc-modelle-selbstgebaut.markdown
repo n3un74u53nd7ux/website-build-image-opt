@@ -18,7 +18,7 @@ Für meinen neuen Drifter wollte ich, wie sich das gehört, eine Beleuchtung ein
 ## Hardware
 
 
-Als Basis nehme ich einen "Arduino Pro Mini" (oder kompatibel, z.B. [Wattuino Pro Mini](http:/https://www.watterott.com/de/Wattuino-pro-mini-5V-16MHz) für 10€). Wichtig ist hierbei, dass es sich um die 5V-Variante handelt. Allerdings wird für den Pro Mini noch ein USB-Programmieradapter benötigt, der nochmal ca. 5€ kostet (jedoch im EBK selbstverständlich vorhanden ist).
+Als Basis nehme ich einen "Arduino Pro Mini" (oder kompatibel, z.B. [Wattuino Pro Mini](https://www.watterott.com/de/Wattuino-pro-mini-5V-16MHz) für 10€). Wichtig ist hierbei, dass es sich um die 5V-Variante handelt. Allerdings wird für den Pro Mini noch ein USB-Programmieradapter benötigt, der nochmal ca. 5€ kostet (jedoch im EBK selbstverständlich vorhanden ist).
 
 
 [![Arduino Pro Mini](/wp-content/uploads/2014/05/IMG_70382.jpg)
@@ -133,7 +133,7 @@ Pausen können mit der delay-Funktion eingefügt werden. Als Argument werden Mil
     delay(500)
 
 
-Den vollständigen Code gibt es bei [github](/github.com/Eigenbaukombinat/rclight).
+Den vollständigen Code gibt es bei [github](https://github.com/Eigenbaukombinat/rclight).
 
 
 ## Weiterentwicklung
@@ -156,6 +156,6 @@ Das Non-Plus-Ultra wäre natürlich die Integration eines SD-Karten-Lesers, dami
 
 Gesamtkosten: zwischen 10€ und 20€.
 
-<iframe src="//player.vimeo.com/video/93433151" allowfullscreen="" width="500" frameborder="0" height="282"></iframe>
+<iframe src="https://player.vimeo.com/video/93433151" allowfullscreen="" width="500" frameborder="0" height="282"></iframe>
 
-[RC LIGHT in Action](http://vimeo.com/93433151) from [Eigenbaukombinat](http://vimeo.com/eigenbaukombinat) on [Vimeo](/vimeo.com).
+[RC LIGHT in Action](https://vimeo.com/93433151) from [Eigenbaukombinat](https://vimeo.com/eigenbaukombinat) on [Vimeo](https://vimeo.com).

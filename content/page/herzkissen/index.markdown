@@ -62,7 +62,7 @@ url: /herzkissen/
 <td style="width: 20%; text-align: right;" >**INHALT**
 </td>
 
-<td style="text-align: left;" >Das Eigenbaukombinat engangiert sich am 25. Oktober für das [Herzkissenprojekt](http://sakg.de/spenden/herzkissenprojekt/) der Krebsgesellschaft Sachsen-Anhalt. Die Herzkissen werden Patientinnen nach einer Brustkrebsoperation übergeben, um diesen eine Linderung ihrer Wundschmerzen zu ermöglichen. Diese Kissen werden gemeinschaftlich genäht und auch ggf. mit einem persönlichen Genesungswunsch für die Patienten versehen.
+<td style="text-align: left;" >Das Eigenbaukombinat engangiert sich am 25. Oktober für das [Herzkissenprojekt](https://sakg.de/spenden/herzkissenprojekt/) der Krebsgesellschaft Sachsen-Anhalt. Die Herzkissen werden Patientinnen nach einer Brustkrebsoperation übergeben, um diesen eine Linderung ihrer Wundschmerzen zu ermöglichen. Diese Kissen werden gemeinschaftlich genäht und auch ggf. mit einem persönlichen Genesungswunsch für die Patienten versehen.
 
 An einem gemütlichen Nachmittag werden so Herzkissen entstehen. Zusätzlich werden einige kleine Kuscheltiere genäht, die verkauft werden können, um neues Material für zukünftige Nähaktionen zu erwerben.
 

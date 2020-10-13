@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Legosteine aus Holz](http:/https://www.fubiz.net/2013/02/13/wooden-lego-bricks/)
-	  * [BILDER: Eine sehr organisch geformte Anrichte](http://decoration-model.blogspot.de/2011/06/volumptuous-sideboard-woods-furnitures.html)
-	  * [BILDER: LED Lampen in Pilzform von Yukio Takano](http:/https://www.thisiscolossal.com/2013/02/led-mushroom-lights-by-yukio-takano/)
+	  * [BILDER: Legosteine aus Holz](https://www.fubiz.net/2013/02/13/wooden-lego-bricks/)
+	  * [BILDER: Eine sehr organisch geformte Anrichte](https://decoration-model.blogspot.de/2011/06/volumptuous-sideboard-woods-furnitures.html)
+	  * [BILDER: LED Lampen in Pilzform von Yukio Takano](https:/https://www.thisiscolossal.com/2013/02/led-mushroom-lights-by-yukio-takano/)
 

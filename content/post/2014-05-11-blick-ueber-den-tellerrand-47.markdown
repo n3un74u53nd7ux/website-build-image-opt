@@ -12,7 +12,7 @@ tags:
 ---
 
 
-	  * [VIDEO: Wir bauen einen kleinen Schuppen (mehrere Teile)](http:/https:/https://www.youtube.com/watch?v=8sC_CDCS66Y) auf Englisch, prima als Anregung
-	  * [ARTIKEL: Eine Kiste mit Schnappverbindungen für die CNC-Fräse.](http://americanwoodworker.com/blogs/randyjohnson/archive/2013/01/01/cnc-spring-joint-box.aspx)
-	  * [ARTIKEL: Sprachsynthese online, ziemlich beeindruckend](http:/https://www.acapela-group.com/voices/demo/)
+	  * [VIDEO: Wir bauen einen kleinen Schuppen (mehrere Teile)](https://www.youtube.com/watch?v=8sC_CDCS66Y) auf Englisch, prima als Anregung
+	  * [ARTIKEL: Eine Kiste mit Schnappverbindungen für die CNC-Fräse.](https://americanwoodworker.com/blogs/randyjohnson/archive/2013/01/01/cnc-spring-joint-box.aspx)
+	  * [ARTIKEL: Sprachsynthese online, ziemlich beeindruckend](https://www.acapela-group.com/voices/demo/)
 

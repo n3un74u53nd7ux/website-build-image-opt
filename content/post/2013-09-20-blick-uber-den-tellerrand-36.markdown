@@ -12,7 +12,7 @@ tags:
 ---
 
 
-	  * [BILDER: Schmuck aus Holz geschnitz, gebohrt, gesägt.](http:/https://www.holzwerken.net/Lesergalerie/Schnitzen/Schmuck)
-	  * [BILDER: Gedrechselte Stiftedose](http:/https://www.holzwerken.net/Lesergalerie/Drechseln/Stiftdose)
-	  * [ARTIKEL: Eine Kamera aus Beton selbstgebaut](http:/https://www.instructables.com/id/How-to-make-a-Concrete-Camera/?ALLSTEPS)
+	  * [BILDER: Schmuck aus Holz geschnitz, gebohrt, gesägt.](https://www.holzwerken.net/Lesergalerie/Schnitzen/Schmuck)
+	  * [BILDER: Gedrechselte Stiftedose](https://www.holzwerken.net/Lesergalerie/Drechseln/Stiftdose)
+	  * [ARTIKEL: Eine Kamera aus Beton selbstgebaut](https://www.instructables.com/id/How-to-make-a-Concrete-Camera/?ALLSTEPS)
 
