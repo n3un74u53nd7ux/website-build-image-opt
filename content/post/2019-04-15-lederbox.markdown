@@ -1,0 +1,212 @@
+---
+author: Jens.Koester
+date: 2019-04-15 09:30:56+00:00
+draft: false
+title: Lederbox
+type: post
+url: /lederbox/
+categories:
+- Fertige Projekte
+- Handarbeiten
+- Upcycling
+tags:
+- Leder
+- Prägen
+---
+
+
+
+
+Mein neuestes Projekt: Eine mit Leder bezogene Zigarrenschachtel mit eingeprägtem Schriftzug.  
+Mit diesem personalisierten Geschenk wollte ich mich mal wieder mit Leder beschäftigen.<!-- more -->
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9001.jpg" >}}
+{{< /gallery >}}
+
+
+
+
+
+
+
+
+Herhalten musste eine alte Jacke aus weichem Nappaleder. Eine Prägung sollte es auch geben, die ich aber auf Grund der Weichheit des Leders nicht auf traditionelle Weise punzieren wollte,  ich wollte einen anderen Weg gehen.  
+Die Zigarrenkiste wurde von allen Beschlägen befreit und mit 80er Schleifpapier aufgeraut.
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9002.jpg" >}}
+{{< /gallery >}}
+Prägestempel in Acrylglas
+
+
+
+
+
+
+
+Ich habe den Schriftzug für den Prägestempel aus 10mm Acrylglas gefräst.  
+Frästiefe 1mm. [CNC Fräse 3018](https://www.google.com/search?client=safari&rls=en&q=cnc+3018&ie=UTF-8&oe=UTF-8).  
+Da mir die Prägung bei Tests nicht tief genug war und das dünne Leder nicht genug hergab, habe ich damit experimentiert auf der anderen Seite des Leders eine im Holz eingefräste Vertiefung dem Stempel entgegenzusetzen.
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9003.jpg" >}}
+{{< /gallery >}}
+Testfräsung
+
+
+
+
+
+
+
+Dies ergab das gewünschte Ergebnis, so dass ich 4mm Sperrholz in Form des Deckels mit dem Schriftzug versah. Dazu wählte ich 0,8mm Frästiefe.  
+Das Leder habe ich dann mit Holzleim aufgeklebt und den Prägestempel durch das Leder in die Vertiefung gedrückt. Eine Schraubzwinge hat den nötigen Druck gebracht.  
+Dem Kleber 30 Minuten zum Abbinden gelassen, und fertig war die Prägung!
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9004.jpg" >}}
+{{< /gallery >}}
+
+
+
+
+
+
+
+
+Das nächste Mal könnte man die Außenkanten des Prägestempels noch mehr abrunden. 
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9005.jpg" >}}
+{{< /gallery >}}
+
+
+
+
+
+
+
+
+Die Sperrholzplatte habe ich auf den Deckel der Zigarrenkiste geklebt.  
+Das Leder wurde über die Kanten nach innen geschlagen und dort festgeleimt.
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9006.jpg" >}}
+{{< /gallery >}}
+
+
+
+
+
+
+
+
+Die Nägel an den Ecken helfen einem möglichen Verzug entgegen zu wirken. Mit einem scharfen Messer sind die Stöße des Leders auch recht sauber geworden.
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9007.jpg" >}}
+{{< /gallery >}}
+
+
+
+
+
+
+
+
+Der untere Teil der Zigarrenkiste wurde von mir auf dieselbe Weise mit Leder versehen. Die Innenfläche habe ich dann mit samtartigem Stoff ausgelegt.
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9008.jpg" >}}
+{{< /gallery >}}
+
+
+
+
+
+
+
+
+Scharniere und ein Verschluss aus Messing von einem großen chinesischen Versender sorgen für das nötige rustikale Äußere.
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9009.jpg" >}}
+{{< /gallery >}}
+
+
+
+
+
+
+
+
+Noch einmal mit Lederpflege behandeln und fertig ist das personalisierte Geschenk!
+
+
+
+
+
+
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2019/04/IMG_9010.jpg" >}}
+{{< /gallery >}}
+
+
+
+

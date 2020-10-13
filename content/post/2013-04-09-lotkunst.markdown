@@ -1,0 +1,28 @@
+---
+author: steffi
+date: 2013-04-09 09:10:53+00:00
+draft: false
+title: Lötkunst
+type: post
+url: /lotkunst/
+categories:
+- Fertige Projekte
+---
+
+_Der Fantasie sind keine Grenzen gesetzt._
+
+Mit Widerständen und Transistoren, Drähten und anderen Teilen entstehen Katzen, Musiker und andere tolle Kunstwerke. Alles was man dazu benötigt sind ein wenig Geduld und ruhige Händchen. Die Teile kann man sich entweder bei Conrad, oder im Internet kaufen oder von alten Platinen ablöten und wieder verwenden.
+
+<!-- more -->
+
+Zu den eigentlichen Bauteilen kommt dann meist noch etwas Draht und natürlich Lötzinn.
+
+[gallery link="file" ids="1924,1923,1922,1390,2067,2066,2070,2951,2953"]
+
+
+
+Der Zeitaufwand für meine Figuren betrug zwischen 20 Minuten und bis zu 3 Stunden ( "Der Klavierspieler"). Lochrasterplatten als Bauteile lassen sich super auf unserer Dekupiersäge zurecht sägen und können anschließend mit verbaut werden.
+
+Preislich ist jede Figur bei etwa 50 ct-3 Euro, je nachdem wo die Teile her kommen.
+
+

@@ -1,0 +1,123 @@
+baseurl = "https://eigenbaukombinat.de"
+DefaultContentLanguage = "de"
+#DefaultContentLanguage = "ja"
+title = "Eigenbau kombinat"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Makerspace, Hackerspace und Mitmachwerkstatt in Halle (Saale)"
+  mainSections = ["about", "post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "2 January 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = false
+  showRelatedPosts = true
+  hideAuthor = false
+  selfHosted = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+  src = "img/slider-1.jpg"
+  desc = "Keramik"
+[[Params.bigimg]]
+  src = "img/slider-2.jpg"
+  desc = "Projekte"
+[[Params.bigimg]]
+  src = "img/slider-3.jpg"
+  desc = "Hackspace"
+[[Params.bigimg]]
+  src = "img/slider-4.jpg"
+  desc = "Projekte"
+[[Params.bigimg]]
+  src = "img/slider-5.jpg"
+  desc = "Elektronik"
+[[Params.bigimg]]
+  src = "img/slider-6.jpg"
+  desc = "Hardware"
+[[Params.bigimg]]
+  src = "img/slider-7.jpg"
+  desc = "Handarbeitsbereich"
+[[Params.bigimg]]
+  src = "img/slider-8.jpg"
+  desc = "Siebdruckbereich"
+[[Params.bigimg]]
+  src = "img/slider-9.jpg"
+  desc = "Metallbereich"
+
+
+[Author]
+  name = ""
+  website = "https://eigenbaukombinat.de/"
+  email = "kontakt@eigenbaukombinat.de"
+  facebook = "Eigenbaukombinat"
+  github = "eigenbaukombinat"
+#  gitlab = "username"
+#  bitbucket = "username"
+  twitter = "ebkhalle"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+  instagram = "ebkhalle"
+  youtube = "channel/UCsfpJrx2csVoioxv6xrCqJA"
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+#  500px = "username"
+#  codepen = "username"
+  mastodon = "https://chaos.social/@eigenbaukombinat"
+#  kaggle = "username"
+#  weibo = "username"
+#  slack = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = "post/"
+    weight = 1
+
+[[menu.main]]
+    name = "Veranstaltung"
+    url = "/unsere-veranstaltungen/"
+    weight = 2
+
+[[menu.main]]
+    name = "Über uns"
+    url = "uber-uns/"
+    weight = 3
+
+[[menu.main]]
+    name = "Werkstatt"
+    url = "/werkstatt/"
+    weight = 4
+
+[[menu.main]]
+    name = "Matrix"
+    url = "/unser-neuer-chat-und-nachrichtenserver/"
+    weight = 5
+
+
+[[menu.main]]
+    name = "Impressum"
+    url = "impressum/"
+    weight = 6
