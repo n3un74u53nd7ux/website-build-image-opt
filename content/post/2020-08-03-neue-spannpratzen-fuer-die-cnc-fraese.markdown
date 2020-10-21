@@ -9,6 +9,7 @@ categories:
 - CNC-Fräse
 ---
 
+
 Unsere Holz-CNC-Fräse hat jetzt neue selbst entwickelte Spannpratzen zum fixieren des Werkstücks bekommen. Der Vorteil dieser Neuentwicklung ist, dass die Spannpratze nur noch aus einer Baugruppe besteht und mit wenig Kraft festgezogen werden kann. Die Kunststoffteile wurden einfach mit unserem Prusa MK2S 3D-Drucker gedruckt und die Schrauben und Muttern sind Normteile,  die in jedem Baumarkt erhältlich sind. Daher lassen sich die Spannpratzen einfach und günstig herstellen und reparieren.
 
 <!--more-->
