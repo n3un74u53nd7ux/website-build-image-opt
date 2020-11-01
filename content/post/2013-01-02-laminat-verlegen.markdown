@@ -15,6 +15,6 @@ Im Rahmen des Verlegens des Fußbodens in zwei Räumen hab ich geschaut, welche 
 
 
 
-	  * http://heimwerker-netzwerk.de/laminat-verlegen/
-	  * http:/https://www.doit-tv.de/renovieren_waende_und_boeden/bodenbelaege/laminat_selbst_verlegen_teil_1.html
+	  * https://heimwerker-netzwerk.de/laminat-verlegen/
+	  * https://www.doit-tv.de/renovieren_waende_und_boeden/bodenbelaege/laminat_selbst_verlegen_teil_1.html
 

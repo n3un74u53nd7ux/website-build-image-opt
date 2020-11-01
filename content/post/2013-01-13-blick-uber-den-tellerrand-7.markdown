@@ -10,8 +10,8 @@ categories:
 ---
 
 
-  * [ARTIKEL: Ein kleiner Tisch für Kinder, von Matthias Wandel](http://woodgears.ca/table/kids/)
-  * [VIDEO: Eine Kette aus Holzgliedern. Interessante Frässchablonen dabei!](http:/https:/https://www.youtube.com/watch?v=1pHCfXtRYCA)
-  * [BILDER: Interessante Möbelentwürfe von Bert Reul](http:/https://www.bertreul.de/Mobel/mobel.html)
+  * [ARTIKEL: Ein kleiner Tisch für Kinder, von Matthias Wandel](https://woodgears.ca/table/kids/)
+  * [VIDEO: Eine Kette aus Holzgliedern. Interessante Frässchablonen dabei!](https://www.youtube.com/watch?v=1pHCfXtRYCA)
+  * [BILDER: Interessante Möbelentwürfe von Bert Reul](https://www.bertreul.de/Mobel/mobel.html)
 
 

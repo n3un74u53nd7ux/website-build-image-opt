@@ -11,7 +11,7 @@ tags:
 - Foto
 ---
 
-Da wir die bei uns entstandene Lötkunst auch ansprechend fotografieren wollen, war es naheliegend einen kleinen Aufnahmetisch mit Hohlkehle zu bauen. Anregungen dafür holten wir uns in [im DSLR-Forum.](http:/https://www.dslr-forum.de/showthread.php?t=243367) <!-- more -->
+Da wir die bei uns entstandene Lötkunst auch ansprechend fotografieren wollen, war es naheliegend einen kleinen Aufnahmetisch mit Hohlkehle zu bauen. Anregungen dafür holten wir uns in [im DSLR-Forum.](https://www.dslr-forum.de/showthread.php?t=243367) <!-- more -->
 
 Dazu kauften wir im hela-Baumarkt den billigsten Holzklappbock, der rund 4 EUR kostet, sowie eine 3mm Hart-PVC-Platte in weiß, Größe 100x50cm für ca 11 EUR.
 
@@ -47,7 +47,7 @@ Nach dem Montieren der Scharniere kann die Platte dann einfach eingesteckt werde
 [caption id="attachment_1499" align="aligncenter" width="300"][![IMG_68011](/wp-content/uploads/2013/03/IMG_68011-300x200.jpg)
 ](/wp-content/uploads/2013/03/IMG_68011.jpg) Fertig![/caption]
 
-Als nächstes wollen wir noch eine Milchglasscheibe zum Durchblitzen ausprobieren, diese liegt preislich in 100x50cm [bei etwa 25 EUR inklusive Versand (z.B. plexihandel.de)](http://plexihandel.de/product_info.php?products_id=256). Falls uns dabei der Querträger des unteren Rahmens stört, werden wir ihn wohl wieder heraussägen müssen.
+Als nächstes wollen wir noch eine Milchglasscheibe zum Durchblitzen ausprobieren, diese liegt preislich in 100x50cm [bei etwa 25 EUR inklusive Versand (z.B. plexihandel.de)](https://plexihandel.de/product_info.php?products_id=256). Falls uns dabei der Querträger des unteren Rahmens stört, werden wir ihn wohl wieder heraussägen müssen.
 
 Der Einsatz von hochglänzenden Scheiben in schwarz oder weiß ist auch möglich, hat aber einen entscheidenden Nachteil: die Kratzempfindlichkeit. Auf der mattweißen PVC-Platte hingegen hat man nur gegen den allgegenwärtigen Staub anzukämpfen.
 

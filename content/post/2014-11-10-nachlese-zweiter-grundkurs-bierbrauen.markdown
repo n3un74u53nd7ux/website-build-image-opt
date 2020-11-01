@@ -17,6 +17,6 @@ Die Kursteilnehmer warteten schon ganz ungeduldig darauf, ihre mitgenommenen Fla
 
 [gallery link="file" ids="8326,8329,8325,8323,8328,8331,8327,8330"]
 
-Es gab diesmal einen "Old Speckled Hen"-Klon, also ein Bier, das sich geschmacklich an seinem Vorbild orientiert, welches vom Maskottchen [in einem kurzen Video hier](http:/https:/https://www.youtube.com/watch?v=kMk_rtdkSCA) beschrieben wird.
+Es gab diesmal einen "Old Speckled Hen"-Klon, also ein Bier, das sich geschmacklich an seinem Vorbild orientiert, welches vom Maskottchen [in einem kurzen Video hier](https://www.youtube.com/watch?v=kMk_rtdkSCA) beschrieben wird.
 
 Wer diesmal den Kurs verpasst hat und gerne selber mal ins Bierbrauen "reinschnuppern" möchte (inklusive Verkostung verschiedener Sorten): [Hier geht's zum nächsten Termin am 30. November](/grundkurs-bierbrauen/). Ihr könnt gern mit Euren Freunden kommen um gemeinsam einen gemütlichen Brautag im Kombinat zu erleben oder den Kurs als Geschenk getarnt weitergeben. ;)

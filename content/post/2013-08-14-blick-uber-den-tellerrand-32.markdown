@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Eine strickende Krake selbstgemacht](http:/https://www.dappertoad.com/2012/05/sir-reginald-wiggly.html)
-	  * [ARTIKEL: Eine Petzval-Linse bei Kickstarter](http:/https://www.kickstarter.com/projects/lomography/the-lomography-petzval-portrait-lens)
-	  * [VIDEO: The Man with the Gun - pressplayontape](http:/https:/https://www.youtube.com/watch?v=k41em4dr30g)
+	  * [BILDER: Eine strickende Krake selbstgemacht](https://www.dappertoad.com/2012/05/sir-reginald-wiggly.html)
+	  * [ARTIKEL: Eine Petzval-Linse bei Kickstarter](https://www.kickstarter.com/projects/lomography/the-lomography-petzval-portrait-lens)
+	  * [VIDEO: The Man with the Gun - pressplayontape](https://www.youtube.com/watch?v=k41em4dr30g)
 

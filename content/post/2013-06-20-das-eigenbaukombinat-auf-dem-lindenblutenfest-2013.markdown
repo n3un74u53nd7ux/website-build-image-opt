@@ -24,7 +24,7 @@ Auf dem Fest bieten wir Interessierten die Möglichkeit sich über unseren Verei
 
 Unser Stand wird am Samstag von 11 bis 19 und Sonntag von 10 bis 18 Uhr besetzt sein. Also nutzt die Chance und kommt vorbei!
 
-Weitere Informationen zum Fest unter: [http:/https://www.francke-halle.de/main/index2.php?cf=2_1_1_1](http:/https://www.francke-halle.de/main/index2.php?cf=2_1_1_1) und auf der [Facebook Seite der Franckeschen Stiftungen](https://www.facebook.com/pages/Franckesche-Stiftungen-zu-Halle/359779727961)
+Weitere Informationen zum Fest unter: [https://www.francke-halle.de/main/index2.php?cf=2_1_1_1](https://www.francke-halle.de/main/index2.php?cf=2_1_1_1) und auf der [Facebook Seite der Franckeschen Stiftungen](https://www.facebook.com/pages/Franckesche-Stiftungen-zu-Halle/359779727961)
 
 
 

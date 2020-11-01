@@ -22,4 +22,4 @@ Unser [Elektronik-Treffen](/elektronik-treffen/) findet übrigens regelmäßig a
 [![IMG_0262](/wp-content/uploads/2016/04/IMG_0262-300x225.jpg)
 ](/wp-content/uploads/2016/04/IMG_0262.jpg)
 
-PS: Wir danken an dieser Stelle der [Bürgerstiftung Halle](http:/https://www.buergerstiftung-halle.de/) für die Unterstützung bei der Anschaffung unseres Digitalspeicheroszilloskopes, das man ganz oben im Bild sehen kann, welches uns im Rahmen unserer [zweiwöchentlichen Reparaturklinik](/reparaturklinik/) bei der Fehlerdiagnose unterstützt!
+PS: Wir danken an dieser Stelle der [Bürgerstiftung Halle](https://www.buergerstiftung-halle.de/) für die Unterstützung bei der Anschaffung unseres Digitalspeicheroszilloskopes, das man ganz oben im Bild sehen kann, welches uns im Rahmen unserer [zweiwöchentlichen Reparaturklinik](/reparaturklinik/) bei der Fehlerdiagnose unterstützt!

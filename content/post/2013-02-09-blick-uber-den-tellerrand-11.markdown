@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Produktion eines Flightcases](http:/https:/https://www.youtube.com/watch?v=_FY-IhTRScw) Die Entstehung eines Transportgehäuses für Audioequipment durch alle Schritte von Planung bis Fertigstellung.
-	  * [ARTIKEL: Arcade Button MIDI Controller](http://technabob.com/blog/2011/08/25/arcade-button-midi-controller/) "A MIDI sequencer controller built with 64 arcade buttons [..] built by Travis Chen of Aristomatic."
-	  * [VIDEO: Der selbstgebaute, elektrische Multicopter rückt in greifbare Nähe!](http:/https:/https://www.youtube.com/watch?v=L75ESD9PBOw)
+	  * [VIDEO: Produktion eines Flightcases](https://www.youtube.com/watch?v=_FY-IhTRScw) Die Entstehung eines Transportgehäuses für Audioequipment durch alle Schritte von Planung bis Fertigstellung.
+	  * [ARTIKEL: Arcade Button MIDI Controller](https://technabob.com/blog/2011/08/25/arcade-button-midi-controller/) "A MIDI sequencer controller built with 64 arcade buttons [..] built by Travis Chen of Aristomatic."
+	  * [VIDEO: Der selbstgebaute, elektrische Multicopter rückt in greifbare Nähe!](https://www.youtube.com/watch?v=L75ESD9PBOw)
 

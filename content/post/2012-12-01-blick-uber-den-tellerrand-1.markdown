@@ -13,7 +13,7 @@ An dieser Stelle möchten wir euch künftig wöchentlich, jeden Sonntag, ein paa
 
 
 
-	  * [ARTIKEL: Die Beleuchtung inklusive Farbe in der Wohnung per Smartphone über WLAN steuern.](http:/https://www.spiegel.de/netzwelt/gadgets/philips-hue-im-test-a-866064.html)
-	  * [ARTIKEL: Ein interessantes, etwas anderes Laufrad, auch aus Halle, das FLIZ Bike](http://fliz-concept.blogspot.de/)
-	  * [VIDEO: Eine CNC-Fräse spielt den Imperial March.](http:/https:/https://www.youtube.com/watch?v=jAWF-qhh4pQ)
+	  * [ARTIKEL: Die Beleuchtung inklusive Farbe in der Wohnung per Smartphone über WLAN steuern.](https://www.spiegel.de/netzwelt/gadgets/philips-hue-im-test-a-866064.html)
+	  * [ARTIKEL: Ein interessantes, etwas anderes Laufrad, auch aus Halle, das FLIZ Bike](https://fliz-concept.blogspot.de/)
+	  * [VIDEO: Eine CNC-Fräse spielt den Imperial March.](https://www.youtube.com/watch?v=jAWF-qhh4pQ)
 

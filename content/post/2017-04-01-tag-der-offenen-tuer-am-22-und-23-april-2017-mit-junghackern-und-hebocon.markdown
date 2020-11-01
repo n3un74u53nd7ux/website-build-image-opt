@@ -17,7 +17,7 @@ Bereits zum 6. Mal fand vor einer Woche unser [Junghackertag](/live-vom-junghack
 <!-- more -->
 
 
-Im Mittelpunkt stehen diesmal die Junghacker. An verschiedenen Stationen können Kinder und Erwachsene die verschiedenen Angebote für Programmieranfänger (z.B. den [Calliope Mini](/calliope.cc), [Scratch](/scratch.mit.edu/) oder [Minecraft](http://computercraftedu.com/)) testen oder den Akteuren beim Arbeiten mit dem Mini-Computer [Raspberry Pi](https://www.raspberrypi.org/) oder dem Mikrocontroller [Arduino](https://www.arduino.cc/) über die Schultern schauen. Zusätzlich wird es ein kleines Vortragsprogramm zur Thematik geben:
+Im Mittelpunkt stehen diesmal die Junghacker. An verschiedenen Stationen können Kinder und Erwachsene die verschiedenen Angebote für Programmieranfänger (z.B. den [Calliope Mini](/calliope.cc), [Scratch](/scratch.mit.edu/) oder [Minecraft](https://computercraftedu.com/)) testen oder den Akteuren beim Arbeiten mit dem Mini-Computer [Raspberry Pi](https://www.raspberrypi.org/) oder dem Mikrocontroller [Arduino](https://www.arduino.cc/) über die Schultern schauen. Zusätzlich wird es ein kleines Vortragsprogramm zur Thematik geben:
 
 
 
@@ -26,7 +26,7 @@ Im Mittelpunkt stehen diesmal die Junghacker. An verschiedenen Stationen können
 Das Programm zum Tag der offenen Tür.[/caption]
 
 
-Als besonderes Highlight wartet eine "[Hebocon](https:/https://www.youtube.com/results?search_query=hebocon)" auf die Besucher. Hier werden kreative Schöpfungen aus Schrott gebastelt um dann gegen Ende des Tages in einem Schrottroboter-Sumo gegeneinander anzutreten. Dabei geht es nicht darum, möglichst ausgefeilte technische Apparate mit allerlei Sensorik und Intelligenz zu erschaffen, sondern einem Haufen Schrott (bestehend aus kaputtem Spielzeug, Flaschen, Kisten, Kehrblechen, Pappe, Motoren …) mit Hilfe von viel Heißkleber neues Leben einzuhauchen. Die Teilnahmebedingungen:
+Als besonderes Highlight wartet eine "[Hebocon](https://www.youtube.com/results?search_query=hebocon)" auf die Besucher. Hier werden kreative Schöpfungen aus Schrott gebastelt um dann gegen Ende des Tages in einem Schrottroboter-Sumo gegeneinander anzutreten. Dabei geht es nicht darum, möglichst ausgefeilte technische Apparate mit allerlei Sensorik und Intelligenz zu erschaffen, sondern einem Haufen Schrott (bestehend aus kaputtem Spielzeug, Flaschen, Kisten, Kehrblechen, Pappe, Motoren …) mit Hilfe von viel Heißkleber neues Leben einzuhauchen. Die Teilnahmebedingungen:
 
 
 

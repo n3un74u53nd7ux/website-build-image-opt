@@ -13,7 +13,7 @@ tags:
 - Spielzeug
 ---
 
-Es gibt viele verschiedene Varianten des Brettspieles Solitär ([siehe Wikipedia](http://de.wikipedia.org/wiki/Solit%C3%A4r_%28Brettspiel%29)). Die bekannteste ist die des englischen Standardbrettes als Kreuz mit 33 Feldern.![IMG_63012](/wp-content/uploads/2013/02/IMG_63012-300x225.jpg)
+Es gibt viele verschiedene Varianten des Brettspieles Solitär ([siehe Wikipedia](https://de.wikipedia.org/wiki/Solit%C3%A4r_%28Brettspiel%29)). Die bekannteste ist die des englischen Standardbrettes als Kreuz mit 33 Feldern.![IMG_63012](/wp-content/uploads/2013/02/IMG_63012-300x225.jpg)
 
 
 Aber auch die anderen Varianten wie Diamant und Pyramide haben ihren Reiz.![IMG_62996](/wp-content/uploads/2013/02/IMG_62996-300x225.jpg)

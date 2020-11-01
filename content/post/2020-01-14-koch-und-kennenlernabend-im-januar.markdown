@@ -36,7 +36,7 @@ Wir beginnen wie immer um 19 Uhr mit dem Kochen. Um besser planen zu können, tr
 
 
 
-[https:/https://dudle.inf.tu-dresden.de/5_fvCiGPcA/](https:/https://dudle.inf.tu-dresden.de/5_fvCiGPcA/)
+[https://dudle.inf.tu-dresden.de/5_fvCiGPcA/](https://dudle.inf.tu-dresden.de/5_fvCiGPcA/)
 
 
 

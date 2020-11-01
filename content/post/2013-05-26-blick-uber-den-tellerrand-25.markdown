@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Chris Hadfield singt "Space Oddity", im Weltall! (unbedingt anhören!](http:/https:/https://www.youtube.com/watch?v=KaOC9danxNo))
-	  * [VIDEO: Chris Hadfield zeigt, wie er von der ISS seine Fotos schießt.](http:/https:/https://www.youtube.com/watch?v=yFp9pndbSKM)
-	  * [ARTIKEL: Verbesserung eines 3-Wege Lautsprecher-Bausatzes mit gleichmäßigem Abstrahlverhalten](http://heissmann-acoustics.de/entwicklungsbericht-monacor-direct-ha-edition-teil-2/)
+	  * [VIDEO: Chris Hadfield singt "Space Oddity", im Weltall! (unbedingt anhören!](https://www.youtube.com/watch?v=KaOC9danxNo))
+	  * [VIDEO: Chris Hadfield zeigt, wie er von der ISS seine Fotos schießt.](https://www.youtube.com/watch?v=yFp9pndbSKM)
+	  * [ARTIKEL: Verbesserung eines 3-Wege Lautsprecher-Bausatzes mit gleichmäßigem Abstrahlverhalten](https://heissmann-acoustics.de/entwicklungsbericht-monacor-direct-ha-edition-teil-2/)
 

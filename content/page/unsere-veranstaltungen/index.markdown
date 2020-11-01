@@ -9,7 +9,7 @@ url: /unsere-veranstaltungen/
 
 <termin></termin>  
 
-Unsere Termine gibt es auch hier als [iCal](https:///kalender.eigenbaukombinat.de/public/public.ics)  
+Unsere Termine gibt es auch hier als [iCal](https://kalender.eigenbaukombinat.de/public/public.ics)  
   
 
 

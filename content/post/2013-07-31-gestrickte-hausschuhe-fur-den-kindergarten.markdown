@@ -11,7 +11,7 @@ tags:
 - Wolle
 ---
 
-Beim diesjährigen Wollefest in Leipzig ([http:/https://www.leipziger-wolle-fest.de/](http:/https://www.leipziger-wolle-fest.de/)) gab es wieder allerhand zu sehen und Geld zu lassen, wenn man mochte. Wer nicht da war: es gibt nächstes Jahr hoffentlich wieder eins. Ich habe mich zusammengerissen und im Wesentlichen auf die Bestellung von Kind Nummer 3 beschränkt: gelbe Wolle für Kindergarten-Hausschuhe. Da die Wolle an der Sohle bisher schnell kaputt gegangen ist, wurde diesmal Leder drunter genäht:
+Beim diesjährigen Wollefest in Leipzig ([https://www.leipziger-wolle-fest.de/](https://www.leipziger-wolle-fest.de/)) gab es wieder allerhand zu sehen und Geld zu lassen, wenn man mochte. Wer nicht da war: es gibt nächstes Jahr hoffentlich wieder eins. Ich habe mich zusammengerissen und im Wesentlichen auf die Bestellung von Kind Nummer 3 beschränkt: gelbe Wolle für Kindergarten-Hausschuhe. Da die Wolle an der Sohle bisher schnell kaputt gegangen ist, wurde diesmal Leder drunter genäht:
 
 <!-- more -->
 

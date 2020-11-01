@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [FOTOS: Cut Food. Essen halbiert fotografiert.](http:/https://www.ignant.de/2013/05/14/cut-food/)
-	  * [ARTIKEL: Monkey Light Pro: Der Fahrradspeichenbildschirm](http:/https://www.golem.de/news/monkey-light-pro-bildschirm-fuer-die-speichen-1305-99457.html)
-	  * [VIDEO: Ein Garagentoröffner, der auf eine Klopfsequenz reagiert.](http:/https:/https://www.youtube.com/watch?v=UJUKEvT8fMI)
+	  * [FOTOS: Cut Food. Essen halbiert fotografiert.](https://www.ignant.de/2013/05/14/cut-food/)
+	  * [ARTIKEL: Monkey Light Pro: Der Fahrradspeichenbildschirm](https://www.golem.de/news/monkey-light-pro-bildschirm-fuer-die-speichen-1305-99457.html)
+	  * [VIDEO: Ein Garagentoröffner, der auf eine Klopfsequenz reagiert.](https://www.youtube.com/watch?v=UJUKEvT8fMI)
 

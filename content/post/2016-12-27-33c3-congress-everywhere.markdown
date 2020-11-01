@@ -20,4 +20,4 @@ Wann genau wir was schauen, wird im Jabber-Chatraum [XMPP/Jabber: discuss@confe
 Vom 27. - 30.12. jeweils ab 18:00 Uhr.
 
 Infos zum 33C3:
-[http://events.ccc.de/](http://events.ccc.de/)
+[https://events.ccc.de/](https://events.ccc.de/)

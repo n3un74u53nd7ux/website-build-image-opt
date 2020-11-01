@@ -20,7 +20,7 @@ Die einzelnen Fünfecke beginnen als Sechsecke, weil die Krümmung sonst zu star
 
 
 
-	  1. Mache einen Fadenring (="magic loop", z.B. [hier](http://ribbelmonster.de/fadenring-haekeln-magischer-ring-flexibler-ring) erklärt, nicht erschrecken vor den Fingernägeln!) mit sechs Maschen.
+	  1. Mache einen Fadenring (="magic loop", z.B. [hier](https://ribbelmonster.de/fadenring-haekeln-magischer-ring-flexibler-ring) erklärt, nicht erschrecken vor den Fingernägeln!) mit sechs Maschen.
 	  2. Reihe: Verdopple jede Masche (=12 Maschen)
 	  3. Reihe: Verdopple jede zweite Masche (=18 Maschen)
 	  4. Reihe: Verdopple jede dritte Masche (=24 Maschen)

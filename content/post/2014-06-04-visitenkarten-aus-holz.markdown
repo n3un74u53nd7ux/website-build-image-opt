@@ -27,6 +27,6 @@ Für die fertigen Rohlinge fertigt man eine Vorlage für den Lasercutter im SVG-
 [![businesscard](/wp-content/uploads/2014/06/businesscard-1024x767.jpg)
 ](/wp-content/uploads/2014/06/businesscard.jpg)
 
-Da normale Windowsschriftarten nur als Kontur vorliegen, ist für eine gefüllte Schrift das Programm Inkscape mit zusätzlichem [hatch fill plugin](http://wiki.evilmadscientist.com/Hatch_fill) erforderlich. Dadurch steigt die Zeit auf dem Lasercutter auf rund 5 Minuten pro Visitenkarte.
+Da normale Windowsschriftarten nur als Kontur vorliegen, ist für eine gefüllte Schrift das Programm Inkscape mit zusätzlichem [hatch fill plugin](https://wiki.evilmadscientist.com/Hatch_fill) erforderlich. Dadurch steigt die Zeit auf dem Lasercutter auf rund 5 Minuten pro Visitenkarte.
 
 Insgesamt landet man bei zwei Euro pro Visitenkarte, wenn man etwas Zeit mitbringt und das bei uns bereits vorhandenes Wissen in die Umsetzung steckt. Wer jetzt unbedingt auch eine haben möchte: Ich habe noch zwei oder drei Rohlinge übrig. ;)

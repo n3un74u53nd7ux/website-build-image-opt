@@ -10,13 +10,13 @@ categories:
 - Verein
 ---
 
-Das Eigenbaukombinat richtet zusammen mit Terminal.21 e.V. sowie mit der HaliX und bcs kommunikationslösungen den nächsten [Linux Presentation Day](http:/https://www.linux-presentation-day.de/) in Halle aus. Auf dem Linux Presentation Day kann jeder, der Linux bisher kaum oder gar nicht kennt, einen Einblick in den Umgang mit dem Open-Source-Betriebssystem bekommen. Unterschiedliche Linux-Varianten werden in typischen Alltagssituationen vorgeführt und können ausprobiert werden.<!-- more -->
+Das Eigenbaukombinat richtet zusammen mit Terminal.21 e.V. sowie mit der HaliX und bcs kommunikationslösungen den nächsten [Linux Presentation Day](https://www.linux-presentation-day.de/) in Halle aus. Auf dem Linux Presentation Day kann jeder, der Linux bisher kaum oder gar nicht kennt, einen Einblick in den Umgang mit dem Open-Source-Betriebssystem bekommen. Unterschiedliche Linux-Varianten werden in typischen Alltagssituationen vorgeführt und können ausprobiert werden.<!-- more -->
 
 Die Veranstaltung wird am 14. November an zwei Standorten stattfinden.
 
 ** 14 bis 18 Uhr: [Eigenbaukombinat Halle e.V.](/anfahrt/) Julius-Ebeling-Str. 9**
 
-**10 bis 18 Uhr: [bcs kommunikationslösungen](http://halle.it/linux-presentation-day/) Harz 51 Haus 1**
+**10 bis 18 Uhr: [bcs kommunikationslösungen](https://halle.it/linux-presentation-day/) Harz 51 Haus 1**
 
 Das Ziel der kostenlosen Veranstaltung ist den Besuchern bei der Entscheidung zu helfen, ob sie Linux auch in Zukunft als Ersatz oder Ergänzung für ihr bisheriges Betriebssystem nutzen möchten.
 

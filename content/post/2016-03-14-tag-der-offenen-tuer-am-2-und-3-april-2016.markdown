@@ -15,7 +15,7 @@ Neugierig? Hereingeschaut! Am Samstag und Sonntag, den 2. und 3. April 2016 vera
 
 
 
-Mit mittlerweile rund 550 m² Fläche ist das Eigenbaukombinat innerhalb der letzten drei Jahre zu einer der größten [offenen Werkstätten Deutschlands](http:/https://www.offene-werkstaetten.org) herangewachsen. Hier können eigene Projekte aus den Bereichen Holz- und Metallbau, Elektronik, 3D-Druck, Fotografie, Modellbau bis hin zur Handarbeit mit alten und neuen Nähmaschinen umgesetzt werden.
+Mit mittlerweile rund 550 m² Fläche ist das Eigenbaukombinat innerhalb der letzten drei Jahre zu einer der größten [offenen Werkstätten Deutschlands](https://www.offene-werkstaetten.org) herangewachsen. Hier können eigene Projekte aus den Bereichen Holz- und Metallbau, Elektronik, 3D-Druck, Fotografie, Modellbau bis hin zur Handarbeit mit alten und neuen Nähmaschinen umgesetzt werden.
 
 
 

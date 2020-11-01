@@ -8,17 +8,13 @@ url: /werkstatt/
 ---
 
 
-[![EBK Grundriss](/wp-content/uploads/2019/10/EBK_Grundriss.png)
-](/wp-content/uploads/2019/10/EBK_Grundriss.png)
-
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2019/10/EBK_Grundriss.png" >}}
+{{< /gallery >}}
 
 
 
 Aktuell gibt es im Eigenbaukombinat auf ca. 700m² folgende Möglichkeiten:
-
-
-
-
 
   * Die **Holzwerkstatt** ist die am besten ausgestattete Werkstatt. Von der Bandsäge über die Lamellofräse bis zur Dekupiersäge findest du hier (fast) alles, was du zur Holzbearbeitung benötigst. Für diejenigen, die es moderner mögen, steht eine CNC-Fräse zur Verfügung.
   * Die **Metallwerkstatt** bietet neben einer Flex und zahlreichem Handwerkzeug auch eine CNC-Fräse für Aluminium sowie einen MIG-MAG-Schweißarbeitsplatz, eine Metallbandsäge und eine große Ständerbohrmaschine.
@@ -40,27 +36,20 @@ Aktuell gibt es im Eigenbaukombinat auf ca. 700m² folgende Möglichkeiten:
 
 Außerdem verfügen wir über viele weitere Werkzeuge und Maschinen, wie zum Beispiel einen Schneideplotter oder einen Emaillierofen, die in den verschiedenen Werkstätten untergebracht sind und auf ihren Einsatz warten.
 
-
-
-
-[gallery link="file" ids="12462,14055,13817,13828,13677,13503,10597"]
-
-
-
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/11/2016-02-11_0503_notaufnahme-e1509718794270.png" >}}
+  {{< figure link="/wp-content/uploads/2019/03/20190119_143243-e1552913893710.jpg" >}}
+  {{< figure link="/wp-content/uploads/2019/01/20190120_121051-e1549311783125.jpg" >}}
+  {{< figure link="/wp-content/uploads/2019/01/20190119_124025.jpg" >}}
+  {{< figure link="/wp-content/uploads/2018/11/OUUKE1903-e1542278723107.jpg" >}}
+  {{< figure link="/wp-content/uploads/2018/08/Holzwerkstatt.jpg" >}}
+  {{< figure link="/wp-content/uploads/2015/12/48_g.jpg" >}}
+{{< /gallery >}}
 
 Weitere Möglichkeiten wie Buchbinden sind in den Startlöchern und werden je nach personellen und finanziellen Möglichkeiten aufgebaut.
 
-
-
-
 Um einen räumlichen Eindruck zu erhalten, kannst du [hier](https://vr.eigenbaukombinat.de/) in die einzelnen digitalisierten Räume schauen **[Stand 2016!]**. Wer den kreativen Freiraum direkt erleben möchte, ist gern zu einem Rundgang im Eingenbaukombinat Halle e.V. direkt vor Ort eingeladen.
 
-
-
-
 Du möchtest uns weitere Werkzeuge und Maschinen spenden oder leihen? [Kontaktiere uns!](/sachspenden/)
-
-
-
 
 Interessiert? [Schau bei der nächsten Öffnungszeit einfach vorbei.](/oeffnungszeiten)

@@ -12,7 +12,7 @@ tags:
 - Schnappschüsse
 ---
 
-Wie schon im Artikel über [unsere Rampe für RC Cars](/schnelle-rampe-fur-rc-cars/) angekündigt waren ein paar von uns am 11.08. in Bruckdorf zum gemeinsamen RC-Autos kaputtfahren, mit den [Parkplatz Racern](http:/https://www.parkplatz-racer-halle.de/)[ Halle](http:/https://www.parkplatz-racer-halle.de/). Ca. 25 (oder waren es noch mehr?) Leute waren da und sind gemeinsam gefahren und geflogen.
+Wie schon im Artikel über [unsere Rampe für RC Cars](/schnelle-rampe-fur-rc-cars/) angekündigt waren ein paar von uns am 11.08. in Bruckdorf zum gemeinsamen RC-Autos kaputtfahren, mit den [Parkplatz Racern](https://www.parkplatz-racer-halle.de/)[ Halle](https://www.parkplatz-racer-halle.de/). Ca. 25 (oder waren es noch mehr?) Leute waren da und sind gemeinsam gefahren und geflogen.
 
 Ohne viele Worte gibt es einfach ein paar Bilder. :-) <!-- more -->
 

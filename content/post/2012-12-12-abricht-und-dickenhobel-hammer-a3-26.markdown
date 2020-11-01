@@ -9,13 +9,10 @@ categories:
 - Maschinen
 ---
 
-[WEBSEITE DES HERSTELLERS](http:/https://www.hammer-maschinen.de/de-de/produkte/abricht-dickenmaschinen/abricht-dicken-hobelmaschine-a3-26--260-mm.html)
+[WEBSEITE DES HERSTELLERS](https://www.hammer-maschinen.de/de-de/produkte/abricht-dickenmaschinen/abricht-dicken-hobelmaschine-a3-26--260-mm.html)
 
-[BEDIENUNGSANLEITUNG als PDF](http://maschinen.felder-gruppe.at/uploads/document/504010-901_01_1102_HA_BA_A3-26_A3-31_A3-41_GER_Lo.pdf)
+[BEDIENUNGSANLEITUNG als PDF](https://maschinen.felder-gruppe.at/uploads/document/504010-901_01_1102_HA_BA_A3-26_A3-31_A3-41_GER_Lo.pdf)
 
 LINKS
-
-
-
-	  * [VIDEO: Sicherheit geht vor!](http:/https:/https://www.youtube.com/watch?v=oupkmBRci3k)
+  * [VIDEO: Sicherheit geht vor!](https://www.youtube.com/watch?v=oupkmBRci3k)
 

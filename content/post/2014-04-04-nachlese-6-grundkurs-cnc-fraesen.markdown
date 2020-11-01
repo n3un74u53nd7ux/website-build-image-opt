@@ -34,4 +34,4 @@ Und so sieht es dann fertig zusammengebaut und verleimt aus und wartet jetzt auf
 [![IMG_2985](/wp-content/uploads/2014/04/IMG_2985-300x300.jpg)
 ](/wp-content/uploads/2014/04/IMG_2985.jpg)
 
-Für alle Nachbauer gibt es wie immer natürlich auch [die DXF-Datei](/wp-content/uploads/2014/04/windlicht.dxfhttp://) (Material 4mm, z.B. Birke Multiplex, 2mm Fräser). Und wer es ganz genau wissen will, wie man vom eigenen Entwurf zum gefrästen Ergebnis gelangt, dem sei unser regelmäßig stattfindender [Grundkurs CNC-Fräsen](/grundkurs-cnc-frasen/) empfohlen. ;)
+Für alle Nachbauer gibt es wie immer natürlich auch [die DXF-Datei](/wp-content/uploads/2014/04/windlicht.dxfhttps://) (Material 4mm, z.B. Birke Multiplex, 2mm Fräser). Und wer es ganz genau wissen will, wie man vom eigenen Entwurf zum gefrästen Ergebnis gelangt, dem sei unser regelmäßig stattfindender [Grundkurs CNC-Fräsen](/grundkurs-cnc-frasen/) empfohlen. ;)

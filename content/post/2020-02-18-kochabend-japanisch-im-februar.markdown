@@ -36,7 +36,7 @@ Wir werden ab 18 Uhr mit dem gemeinsamen Kochen beginnen.
 
 
 
-Damit wir wissen, wie viele teilnehmen wollen, tragt euch bitte zur Planung des Einkaufs bis Donnerstag Abend im [dudle](https:/https://dudle.inf.tu-dresden.de/miKonREd8Q/) ein. Danke. :)
+Damit wir wissen, wie viele teilnehmen wollen, tragt euch bitte zur Planung des Einkaufs bis Donnerstag Abend im [dudle](https://dudle.inf.tu-dresden.de/miKonREd8Q/) ein. Danke. :)
 
 
 

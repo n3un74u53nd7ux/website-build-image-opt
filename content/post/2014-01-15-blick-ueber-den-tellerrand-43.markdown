@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Achterbahn im Garten selbstgebaut, für $50!](http://imgur.com/gallery/2lFGW)
-	  * [SOFTWARE: Stühle einfach selbst entwerfen, fräsen und zusammenstecken.](http:/https://www.sketchchair.cc/download.php)
-	  * [ARTIKEL: Ein schon optisch beeindruckender Selbstbausubwoofer, viele Bilder!](http:/https://www.lautsprecherbau.de/Magazine/Lautsprecherbau-Magazin-2013/Ausgabe-September-2013/_Leserprojekt-Sub-zur-Top_8636,de,900999,7293)
+	  * [BILDER: Achterbahn im Garten selbstgebaut, für $50!](https://imgur.com/gallery/2lFGW)
+	  * [SOFTWARE: Stühle einfach selbst entwerfen, fräsen und zusammenstecken.](https://www.sketchchair.cc/download.php)
+	  * [ARTIKEL: Ein schon optisch beeindruckender Selbstbausubwoofer, viele Bilder!](https://www.lautsprecherbau.de/Magazine/Lautsprecherbau-Magazin-2013/Ausgabe-September-2013/_Leserprojekt-Sub-zur-Top_8636,de,900999,7293)
 

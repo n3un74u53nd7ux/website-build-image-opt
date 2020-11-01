@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Rolltreppenmax (danke an den Postillon!)](https:/https://www.youtube.com/watch?v=tcbB7EvjjuU)
-	  * [BILDER: Schneeflocken-Generator und verschiedene Umsetzungen](http:/https://www.evilmadscientist.com/2012/cnc-snowflake/)
-	  * [BILDER: Ein Wasserfarbenmalroboter](http://watercolorbot.com/)
+	  * [VIDEO: Rolltreppenmax (danke an den Postillon!)](https://www.youtube.com/watch?v=tcbB7EvjjuU)
+	  * [BILDER: Schneeflocken-Generator und verschiedene Umsetzungen](https://www.evilmadscientist.com/2012/cnc-snowflake/)
+	  * [BILDER: Ein Wasserfarbenmalroboter](https://watercolorbot.com/)
 

@@ -50,7 +50,7 @@ Jugend hackt in Halle - 2018 [CC BY 4.0 Lisa Krug (Jugend hackt)](https://creati
 
 Nachdem die Jugendlichen das ganze Wochenende und bis tief in die Nacht an ihren Projekten gearbeitet hatten, wurden die fertigen Projektergebnisse und Prototypen am Sonntag in einer öffentlichen Abschlusspräsentation in der Theatrale den Eltern und Geschwistern, interessierten Besucher*innen, wie auch per Livestream dem überregionalen Publikum vorgestellt.
 
-Die Aufzeichnung der Abschlusspräsentationen und unsere Videodoku zur Veranstaltung findet ihr auf unserem [YouTube-Kanal: Jugend hackt in Halle 2018](https:/https://www.youtube.com/playlist?list=PLQsLR7zBwcw1LCcsVBpJ61mStE9JwLRJ1).
+Die Aufzeichnung der Abschlusspräsentationen und unsere Videodoku zur Veranstaltung findet ihr auf unserem [YouTube-Kanal: Jugend hackt in Halle 2018](https://www.youtube.com/playlist?list=PLQsLR7zBwcw1LCcsVBpJ61mStE9JwLRJ1).
 
 
 ### 

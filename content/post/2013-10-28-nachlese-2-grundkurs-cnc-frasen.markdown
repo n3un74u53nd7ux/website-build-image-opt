@@ -15,7 +15,7 @@ tags:
 
 Damit die Motivation hoch bleibt und man auch hinterher ein Resultat in Händen hält, wähle ich ganz gern kleine und relativ leicht umsetzbare Projekte für meinen CNC-Kurs aus. Diesmal sollte es das Modell des Tetris-Regales sein, das wir bauen wollen.<!-- more -->
 
-Wir haben uns dafür anfangs für das Außenmaß auf ein Vielfaches von 40mm festgelegt. Jetzt müssen die einzelnen Teile so dimensioniert werden, dass die jeweils anderen dann auch darin Platz finden können. Dabei helfen uns eine Skizze und eine Tabelle, um zu ermitteln welche Einzelteile wir für die verschiedenen [Tetromino](http://en.wikipedia.org/wiki/Tetromino) (S,Z,I,O,T,L und J) benötigen:
+Wir haben uns dafür anfangs für das Außenmaß auf ein Vielfaches von 40mm festgelegt. Jetzt müssen die einzelnen Teile so dimensioniert werden, dass die jeweils anderen dann auch darin Platz finden können. Dabei helfen uns eine Skizze und eine Tabelle, um zu ermitteln welche Einzelteile wir für die verschiedenen [Tetromino](https://en.wikipedia.org/wiki/Tetromino) (S,Z,I,O,T,L und J) benötigen:
 
 [![tetris plan](/wp-content/uploads/2013/10/tetris-plan-300x224.jpg)
 ](/wp-content/uploads/2013/10/tetris-plan.jpg)

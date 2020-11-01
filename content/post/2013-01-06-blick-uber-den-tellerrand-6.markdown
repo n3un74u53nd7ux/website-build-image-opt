@@ -10,8 +10,8 @@ categories:
 ---
 
 
-  * [VIDEO: Ein Sicherheitsschloss aus Holz. ](http:/https:/https://www.youtube.com/watch?v=Q6NQNkeTHLc)
-  * [BILD: Ein kleiner LED Weihnachtsbaum](http://i.imgur.com/1AG1b.jpg)
-  * [VIDEO: Möbel aus Europaletten - MDR Einfach genial - 27.03.2012 ](http:/https:/https://www.youtube.com/watch?v=yZuTokgOUx0)
+  * [VIDEO: Ein Sicherheitsschloss aus Holz. ](https://www.youtube.com/watch?v=Q6NQNkeTHLc)
+  * [BILD: Ein kleiner LED Weihnachtsbaum](https://i.imgur.com/1AG1b.jpg)
+  * [VIDEO: Möbel aus Europaletten - MDR Einfach genial - 27.03.2012 ](https://www.youtube.com/watch?v=yZuTokgOUx0)
 
 

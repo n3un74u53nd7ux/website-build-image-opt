@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Eine alte Vakuumröhre als USB-Stick](http://technabob.com/blog/2013/02/18/vacuum-tube-flash-drives/) Steampunk-Style, verrückte Ideen gibt es!
-	  * [BILDER: 25 Do-it-yourself Regale](http:/https://www.buzzfeed.com/peggy/25-awesome-diy-ideas-for-bookshelves) Viele interessante Möglichkeiten ein etwa anderes Bücherregal zu bauen
-	  * [BILDER: Teller für Liebhaber semi-alter Videospiele](http:/https://www.moss.fm/post/43075014715/i-had-some-downtime-so-i-decided-to-make-myself-a)
+	  * [BILDER: Eine alte Vakuumröhre als USB-Stick](https://technabob.com/blog/2013/02/18/vacuum-tube-flash-drives/) Steampunk-Style, verrückte Ideen gibt es!
+	  * [BILDER: 25 Do-it-yourself Regale](https://www.buzzfeed.com/peggy/25-awesome-diy-ideas-for-bookshelves) Viele interessante Möglichkeiten ein etwa anderes Bücherregal zu bauen
+	  * [BILDER: Teller für Liebhaber semi-alter Videospiele](https://www.moss.fm/post/43075014715/i-had-some-downtime-so-i-decided-to-make-myself-a)
 

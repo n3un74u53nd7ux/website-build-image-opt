@@ -12,7 +12,7 @@ categories:
 
 
 
-Wie ihr ja sicherlich wisst, sind wir als Eigenbaukombinat schon seit langer Zeit Mitglied im ["Verbund der offenen Werkstätten"](https:///offene-werkstaetten.org). Jährlich gibt es ein sogenanntes Verbundtreffen, auf dem alle Mitglieder des Verbundes zusammenkommen können, und darüber möchte ich hier kurz berichten.
+Wie ihr ja sicherlich wisst, sind wir als Eigenbaukombinat schon seit langer Zeit Mitglied im ["Verbund der offenen Werkstätten"](https://offene-werkstaetten.org). Jährlich gibt es ein sogenanntes Verbundtreffen, auf dem alle Mitglieder des Verbundes zusammenkommen können, und darüber möchte ich hier kurz berichten.
 
 
 
@@ -646,7 +646,7 @@ Es war ein fantastisches Treffen, und ich hab so unglaublich viele offene, liebe
   * Micha vom [FabLab Kiel](https://fablab.sh/)
   * Daniel vom [Verstehbahnhof](https://verstehbahnhof.de/)
   * Jan vom [Konglomerat Dresden](https://konglomerat.org/)
-  * Fabian vom [FabLab Ruhr West](http://fablab.hochschule-ruhr-west.de/content/index_ger.html)
+  * Fabian vom [FabLab Ruhr West](https://fablab.hochschule-ruhr-west.de/content/index_ger.html)
   * Simona von [HammerTime](https://www.hammertimekassel.de/) in Kassel
   * Stefan und Martin vom [HobbyHimmel](https://hobbyhimmel.de/) in Stuttgart
   * Wanda, Pasqual, Britta, diverse Jonasse ... und alle die ich vergessen habe!

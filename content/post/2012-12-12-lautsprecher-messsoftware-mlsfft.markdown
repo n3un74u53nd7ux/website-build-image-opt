@@ -14,4 +14,4 @@ tags:
 
 Verschiedene Software zum Messen und Einstellen von Lautsprechern:
 
-http://forum.studiotips.com/viewtopic.php?t=151
+https://forum.studiotips.com/viewtopic.php?t=151

@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [ARTIKEL: Werkstattfotos anderer Werkstätten.](http:/https://www.woodworking.de/blog/)
-	  * [BILD: IKEA-Qualität, hier: Couchtisch.](http://i.imgur.com/qo0Yw.jpg)
-	  * [(leider entfernt)](http:/https://www.holzwerken.net/galerie_neu/600_Regal2.JPG)
+	  * [ARTIKEL: Werkstattfotos anderer Werkstätten.](https://www.woodworking.de/blog/)
+	  * [BILD: IKEA-Qualität, hier: Couchtisch.](https://i.imgur.com/qo0Yw.jpg)
+	  * [(leider entfernt)](https://www.holzwerken.net/galerie_neu/600_Regal2.JPG)
 

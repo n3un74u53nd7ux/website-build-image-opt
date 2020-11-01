@@ -15,7 +15,7 @@ Die Idee ein Tasche aus LKW Plane zu nähen ist nicht neu, kann jedoch meistens 
 
 Da man im Internet kaum Schnittmuster von derartigen Taschen findet, sollte man sich am besten auf diversen Internetseiten von Designern und Händlern inspirieren lassen und dann einfach loslegen. Fehlversuche sind zu verschmerzen, da das Material sehr günstig bei Ebay zu bekommen ist.
 
-Besonders geeignet sind gebrauchte LKW Planen, da diese in der Regel verschiedenste Aufdrucke und Flicken enthalten und die Tasche somit zu einem Unikat machen. Mit etwas Glück findet man passendes Material bei [http:/https://www.kunst-stoffe-berlin.de](http:/https://www.kunst-stoffe-berlin.de/). Ich entschied mich diesmal für Neuware, die bei Ebay etwa 5€/m² kostet.
+Besonders geeignet sind gebrauchte LKW Planen, da diese in der Regel verschiedenste Aufdrucke und Flicken enthalten und die Tasche somit zu einem Unikat machen. Mit etwas Glück findet man passendes Material bei [https://www.kunst-stoffe-berlin.de](https://www.kunst-stoffe-berlin.de/). Ich entschied mich diesmal für Neuware, die bei Ebay etwa 5€/m² kostet.
 
 Doch jetzt zu den Bildern, die für sich sprechen:
 

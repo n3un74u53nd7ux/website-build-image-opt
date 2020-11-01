@@ -25,13 +25,13 @@ Neben dem Selbermachen kümmern wir uns an diesem Tag von 13-18 Uhr um Geräte m
 
 Wenn Du einen Patienten für die Reparaturklinik hast, kannst Du Dich über unser Formular anmelden. Nur angemeldete Patienten können behandelt werden!
 
-[HIER ANMELDEN](http://form.jotformeu.com/form/41151605363345)
+[HIER ANMELDEN](https://form.jotformeu.com/form/41151605363345)
 
 Dadurch können wir vorab Rückfragen stellen, bereits Fehlersuche betreiben und einschätzen, ob wir Dir helfen können. Zusätzlich bekommst Du einen Termin und einen Betreuer zugewiesen, damit Du nicht warten musst und dann gleich loslegen kannst.
 
 Natürlich seid ihr alle eingeladen im Eigenbaukombinat vorbeizukommen, Euch dabei alle Neuerungen und Zuwächse der letzten Monate anzusehen, und Euch bei der Reparaturklinik vielleicht noch den einen oder anderen Trick abzuschauen.
 
-Wer selbst gern repariert darf natürlich dem "Team Reparaturklinik" (auch ohne Mitgliedschaft) beitreten und sich als Verstärkung direkt per Email bei uns melden: ![](http://kellerautomat.com/ebkmail/ebkmail.php?a=reparaturklinik)
+Wer selbst gern repariert darf natürlich dem "Team Reparaturklinik" (auch ohne Mitgliedschaft) beitreten und sich als Verstärkung direkt per Email bei uns melden: ![](https://kellerautomat.com/ebkmail/ebkmail.php?a=reparaturklinik)
 
 
 Hier eine Auswahl bisheriger Patienten:

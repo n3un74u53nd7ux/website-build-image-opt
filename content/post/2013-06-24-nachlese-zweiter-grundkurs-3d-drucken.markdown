@@ -20,7 +20,7 @@ Am 2.6.2013 war es soweit, der zweite [Grundkurs 3D-Drucken](/grundkurs-3d-druck
 [![Grundkurs3dDruckJuni2013-5](/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-5-150x150.jpg)
 ](/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-5.jpg)
 
-Und dann gab es noch einen sechsten Besucher: Hartmut. Hartmut ist das Maskottchen der [Technikschule clever inside](http://jfvnet.de/) - ein Hackerspace/Mitmachwerkstatt/Offene Werkstatt in [Lübbenau](http://maps.google.de/maps?q=L%C3%BCbbenau&um=1&ie=UTF-8&hq=&hnear=0x4708071e5a0d0121:0x42120465b5e24d0,L%C3%BCbbenau/Spreewald&gl=de&sa=X&ei=NrqrUZjXIM3HsgaVrYCwBQ&ved=0CKIBELYD). Ulrich und Frank waren so nett, Hartmut mitzubringen, damit auch er sich einen Eindruck vom 3D-Drucken machen kann. Wir hoffen, eventuell ein Projekt zusammen mit [clever inside](http://jfvnet.de/cleverinside/) machen zu können.
+Und dann gab es noch einen sechsten Besucher: Hartmut. Hartmut ist das Maskottchen der [Technikschule clever inside](https://jfvnet.de/) - ein Hackerspace/Mitmachwerkstatt/Offene Werkstatt in [Lübbenau](https://maps.google.de/maps?q=L%C3%BCbbenau&um=1&ie=UTF-8&hq=&hnear=0x4708071e5a0d0121:0x42120465b5e24d0,L%C3%BCbbenau/Spreewald&gl=de&sa=X&ei=NrqrUZjXIM3HsgaVrYCwBQ&ved=0CKIBELYD). Ulrich und Frank waren so nett, Hartmut mitzubringen, damit auch er sich einen Eindruck vom 3D-Drucken machen kann. Wir hoffen, eventuell ein Projekt zusammen mit [clever inside](https://jfvnet.de/cleverinside/) machen zu können.
 
 
 

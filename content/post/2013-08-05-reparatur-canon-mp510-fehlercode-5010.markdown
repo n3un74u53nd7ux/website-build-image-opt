@@ -13,7 +13,7 @@ tags:
 
 Der Drucker lässt sich nicht mehr benutzen, obwohl "nur" die Scaneinheit den Dienst versagt. Meldung beim Einschalten: Fehlercode 5010 und dazu blinkt er 22 mal.
 
-[Das Service Manual zum Canon MP510 lässt sich im Netz finden.](http:/https://www.scribd.com/doc/117083093/CANON-MP510-Service-Manual) Das Nachschlagen ergibt: "Scanner kann nicht auf die Startposition gesetzt werden."<!-- more -->
+[Das Service Manual zum Canon MP510 lässt sich im Netz finden.](https://www.scribd.com/doc/117083093/CANON-MP510-Service-Manual) Das Nachschlagen ergibt: "Scanner kann nicht auf die Startposition gesetzt werden."<!-- more -->
 
 Jetzt also Zerlegen nach Serviceanleitung, um nach der Elektronik/Mechanik des Scanners zu schauen. Vielleicht ist ja auch nur ein Stecker rausgerutscht. Dazu werden die linke und rechte Gehäuseabdeckung entfernt. Diese sind nur mit ein paar Schrauben gesichert. Links geht es schnell.[![IMG_0465](/wp-content/uploads/2013/07/IMG_0465-300x199.jpg)
 ](/wp-content/uploads/2013/07/IMG_0465.jpg)

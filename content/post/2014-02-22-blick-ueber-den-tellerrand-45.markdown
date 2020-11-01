@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Prototypo, ein parametrischer Schriftartenerzeuger](http:/https://www.prototypo.io/)
-	  * [ARTIKEL: DNA mit den Augen eines Programmierers gesehen](http://ds9a.nl/amazing-dna/?)
-	  * [ARTIKEL: OpenKnit -- eine DIY Strickmaschine](http://hackaday.com/2014/02/20/openknit-the-open-source-knitting-machine/)
+	  * [VIDEO: Prototypo, ein parametrischer Schriftartenerzeuger](https://www.prototypo.io/)
+	  * [ARTIKEL: DNA mit den Augen eines Programmierers gesehen](https://ds9a.nl/amazing-dna/?)
+	  * [ARTIKEL: OpenKnit -- eine DIY Strickmaschine](https://hackaday.com/2014/02/20/openknit-the-open-source-knitting-machine/)
 

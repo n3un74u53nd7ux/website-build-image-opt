@@ -13,9 +13,9 @@ tags:
 
 Inspirieren lass wir uns vom Modell von Bessey, das mit 400 EUR ein riesiges Loch in unser Budget schlagen würde:
 
-http:/https://www.feinewerkzeuge.de/zwingenwagenZW1.jpg
+https://www.feinewerkzeuge.de/zwingenwagenZW1.jpg
 
-http:/https://www.feinewerkzeuge.de/zwingenwagenZW1a.jpg
+https://www.feinewerkzeuge.de/zwingenwagenZW1a.jpg
 
 Kostenschätzung Eigenbau aus Holz:
 

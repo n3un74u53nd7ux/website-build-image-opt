@@ -13,7 +13,7 @@ tags:
 
 Schon seit mehreren Monaten findet regelmäßig jeden 2. Mittwoch im Monat um 19:30 Uhr das [Elektronik-Treffen](/elektronik-treffen/) im Eigenbaukombinat statt. Dabei treffen sich Elektronikkenner und -neulinge zum gemeinsamen Austausch über Themen von der Microcontrollerprogrammierung bis hin zum Amateurfunk. <!-- more -->
 
-Nächste Woche steht uns ein Highlight bevor: Unser Mitglied Wolfgang hat für das [Computerspielemuseum Berlin](http:/https://www.computerspielemuseum.de/) das Spiel [Pong](http:/https://www.pong-story.com/) nachgebaut. Pong wurde 1972 von Atari veröffentlicht und gilt als eines der ersten Computerspiele. 
+Nächste Woche steht uns ein Highlight bevor: Unser Mitglied Wolfgang hat für das [Computerspielemuseum Berlin](https://www.computerspielemuseum.de/) das Spiel [Pong](https://www.pong-story.com/) nachgebaut. Pong wurde 1972 von Atari veröffentlicht und gilt als eines der ersten Computerspiele. 
 
 Heute könnte man Pong mit einem einzigen Chip problemlos realisieren, aber Wolfgang suchte die Herausforderung und hat die Originalschaltung aus Bauteilen, wie es sie bereits 1972 gab, nachgebaut. Lediglich eine größere Änderung hat er vorgenommen: Die Logik wurde auf drei Boards aufgeteilt, die über einen Bus kommunizieren. Dies ermöglicht eine einfache Erweiterung zum Beispiel mit einem Microcontroller.
 

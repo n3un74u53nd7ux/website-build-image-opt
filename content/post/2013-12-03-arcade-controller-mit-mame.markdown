@@ -14,7 +14,7 @@ tags:
 - Spielzeug
 ---
 
-Endlich nähern wir uns der Fertigstellung unseres Arcadecontrollers für [MAME](http://mamedev.org). Aufgrund der aktuell grassierenden "Raspberri-Pi-itis" ergab sich noch eine Planänderung: Der Controller wird als Standalone-Gerät aufgebaut, und der Spielerechner in Form eines Raspis direkt ins Gehäuse integriert. Doch dazu später mehr. ;)<!-- more -->
+Endlich nähern wir uns der Fertigstellung unseres Arcadecontrollers für [MAME](https://mamedev.org). Aufgrund der aktuell grassierenden "Raspberri-Pi-itis" ergab sich noch eine Planänderung: Der Controller wird als Standalone-Gerät aufgebaut, und der Spielerechner in Form eines Raspis direkt ins Gehäuse integriert. Doch dazu später mehr. ;)<!-- more -->
 
 
 ### GEHÄUSE
@@ -23,7 +23,7 @@ Endlich nähern wir uns der Fertigstellung unseres Arcadecontrollers für [MAME]
 Nach ersten Überlegungen ([Teil 1](/arcade-cabinet-mit-mame-1/), [Teil 2](/arcade-cabinet-mit-mame-2/), ... ) und dem Bau von Prototypen
 
 [![IMG_1922_edit](/wp-content/uploads/2013/12/IMG_1922_edit-300x300.jpg)
-](/wp-content/uploads/2013/02/konsole1.png)erfolgte nochmals eine Anpassung der Anordnung der Knöpfe auf dem Controller. Beim Arcadeshop finden wir die erforderlichen [Maße der verwendeten Knöpfe](http:/https://www.arcadeshop.de/images/specs/arcade-pb-sl-data.gif) und [hier für die Joysticks.](http:/https://www.arcadeshop.de/images/specs/arcade-joyst-c-mount.gif)
+](/wp-content/uploads/2013/02/konsole1.png)erfolgte nochmals eine Anpassung der Anordnung der Knöpfe auf dem Controller. Beim Arcadeshop finden wir die erforderlichen [Maße der verwendeten Knöpfe](https://www.arcadeshop.de/images/specs/arcade-pb-sl-data.gif) und [hier für die Joysticks.](https://www.arcadeshop.de/images/specs/arcade-joyst-c-mount.gif)
 
 Außerdem wächst das Gehäuse nochmal auf 100x30cm, damit es mehr Ellenbogenfreiheit für Spieler 1 und 2 gibt und es erhält zudem eine um 5 Grad geneigte Oberseite. Dazu kommen links und rechts noch passende Seitenteile, damit er auch auf dem Couchtisch abgestellt, oder auf-den-Schoß genommen werden kann. Man könnte ihn aber auch später noch in ein Cabinet integrieren.
 Nach den ersten Skizzen und insgesamt zwei gebauten Test-Prototypen für die Knopfanordnung ergibt sich dann folgender Entwurf ([DXF-Datei mit allen Maßen und Lochdurchmessern hier](/wp-content/uploads/2013/12/mame-complete.dxf)):
@@ -106,7 +106,7 @@ Man nehme also:
 	  * Micro-USB Anschlusskabel, 5m --> 5 EUR
 	  * HDMI-Kabel, 5m --> 5 EUR
 
-Auf die SD-Karte spiele man dann das aktuelle [pimame-Image](http://pimame.org/), und natürlich Spiele, z.B. in Form von [ROM-Images frei verfügbarer Spiele](http:/https://www.mamedev.org/roms/).
+Auf die SD-Karte spiele man dann das aktuelle [pimame-Image](https://pimame.org/), und natürlich Spiele, z.B. in Form von [ROM-Images frei verfügbarer Spiele](https://www.mamedev.org/roms/).
 
 Um die letzten Leistungsreserven herauszukitzeln gibt es im pimame-Forum die Empfehlung, auf den Raspberry noch die passenden Kühlkörper aufzukleben und ihn moderat zu übertakten.
 Folgende Einstellungen werden dabei empfohlen:
@@ -132,7 +132,7 @@ Hinweis: Da ein Controller normalerweise über keine Tasten für ENTER, ESC oder
      START1 + UNTEN  == PAUSE
 
 
-Die komplette Aufstellung der Tastenkürzel für die I-PAC-Platine findet ihr auch [auf der Webseite von Ultimarc](http:/https://www.ultimarc.com/ipac2.html).
+Die komplette Aufstellung der Tastenkürzel für die I-PAC-Platine findet ihr auch [auf der Webseite von Ultimarc](https://www.ultimarc.com/ipac2.html).
 
 
 ### ERGEBNIS
@@ -143,4 +143,4 @@ Fertig! Jetzt geht's erstmal ans Zocken und Genießen.
 [![IMG_1918_edit](/wp-content/uploads/2013/12/IMG_1918_edit-1024x680.jpg)
 ](/wp-content/uploads/2013/12/IMG_1918_edit.jpg)Wer sich den Controller mal live anschauen möchte ist natürlich herzlich eingeladen, dies z.B. an einem Samstag [während der Öffnungszeiten](/oeffnungszeiten/) zu tun.
 
-Wer hingegen noch Anregungen für einen eigenen Controller oder ein komplettes Cabinet benötigt, findet hier als Anregung [eine Webseite mit vielen Bildern und Informationen rund um's Thema](http://wiki.laub-home.de/wiki/Projekt_Arcade_Cabinet).
+Wer hingegen noch Anregungen für einen eigenen Controller oder ein komplettes Cabinet benötigt, findet hier als Anregung [eine Webseite mit vielen Bildern und Informationen rund um's Thema](https://wiki.laub-home.de/wiki/Projekt_Arcade_Cabinet).

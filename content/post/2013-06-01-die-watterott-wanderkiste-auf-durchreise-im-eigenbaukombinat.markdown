@@ -13,19 +13,19 @@ tags:
 - Elektronik
 ---
 
-Diese Woche hatten wir eine große orangene Kiste zu Besuch im Eigenbaukombinat: Die Wanderkiste des Elektronikversenders [Watterott electronic](http:/https://www.watterott.com/). Die Idee hinter der Kiste ist einfach: Die Kiste wird von einem Fablab/Makerspace zum Nächsten gesendet. Jeder nimmt sich das heraus, was er brauchen kann, und füllt die Kiste im Gegenzug mit Teilen, die er nicht mehr braucht. Zwischendurch wird die Kiste immer wieder mit Kundenretouren und Gimmicks von Watterott angereichert.
+Diese Woche hatten wir eine große orangene Kiste zu Besuch im Eigenbaukombinat: Die Wanderkiste des Elektronikversenders [Watterott electronic](https://www.watterott.com/). Die Idee hinter der Kiste ist einfach: Die Kiste wird von einem Fablab/Makerspace zum Nächsten gesendet. Jeder nimmt sich das heraus, was er brauchen kann, und füllt die Kiste im Gegenzug mit Teilen, die er nicht mehr braucht. Zwischendurch wird die Kiste immer wieder mit Kundenretouren und Gimmicks von Watterott angereichert.
 
 <!-- more -->
 
-Nähere Informationen zur Idee: [http:/https://www.watterott.com/de/blog/Wanderkiste](http:/https://www.watterott.com/de/blog/Wanderkiste)
+Nähere Informationen zur Idee: [https://www.watterott.com/de/blog/Wanderkiste](https://www.watterott.com/de/blog/Wanderkiste)
 
 [![Watterott Wanderkiste](/wp-content/uploads/2013/05/963868_186578531498845_335396614_o-300x225.jpg)
 ](/wp-content/uploads/2013/05/963868_186578531498845_335396614_o.jpg)
 
-Leider hat die Kiste noch kein Logbuch, so wissen wir leider nicht, wo sie schon vorher war. Wir sind uns jedoch ziemlich sicher, dass sie schon mal zu Besuch im [Fablab München](http:/https://www.fablab-muenchen.de/) war. Wir sind gespannt ob die Kiste in ein paar Monaten noch einmal bei uns vorbeikommt und welche der von uns eingelegten Artikel dann noch darin sind.
+Leider hat die Kiste noch kein Logbuch, so wissen wir leider nicht, wo sie schon vorher war. Wir sind uns jedoch ziemlich sicher, dass sie schon mal zu Besuch im [Fablab München](https://www.fablab-muenchen.de/) war. Wir sind gespannt ob die Kiste in ein paar Monaten noch einmal bei uns vorbeikommt und welche der von uns eingelegten Artikel dann noch darin sind.
 
 
-**An dieser Stelle nochmal ein großes Dankeschön an [Watterott electronic](http:/https://www.watterott.com/)!**
+**An dieser Stelle nochmal ein großes Dankeschön an [Watterott electronic](https://www.watterott.com/)!**
 
 
  **Folgende Artikel haben wir aus der Kiste entnommen:**
@@ -48,7 +48,7 @@ Leider hat die Kiste noch kein Logbuch, so wissen wir leider nicht, wo sie schon
 	  * Soft PLA
 	  * AVR Programmer
 	  * Schrittmotor + Getriebe
-	  * [WINKDINGS ](http://wiki.fablab-muenchen.de/display/WIKI/Winkdings)Kit aus dem [Fablab München](http:/https://www.fablab-muenchen.de/)
+	  * [WINKDINGS ](https://wiki.fablab-muenchen.de/display/WIKI/Winkdings)Kit aus dem [Fablab München](https://www.fablab-muenchen.de/)
 
 
 

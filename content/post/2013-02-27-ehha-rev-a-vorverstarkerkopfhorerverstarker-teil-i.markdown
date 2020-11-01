@@ -26,7 +26,7 @@ Aber beginnen wir von vorn..
 
 **1. Der Verstärker selbst:**
 
-Der EHHA Rev. A ist ein Design von Alex Cavalli, alle Details, Schaltpläne usw. lassen sich über die Website http:/https://www.cavalliaudio.com abrufen, wenn man dort auf "DIY" klickt.
+Der EHHA Rev. A ist ein Design von Alex Cavalli, alle Details, Schaltpläne usw. lassen sich über die Website https://www.cavalliaudio.com abrufen, wenn man dort auf "DIY" klickt.
 
 Man kann beim Entwickler selbst nur die Platinen kaufen. Die Teile muss man sich entweder selbst zusammensuchen (gibt detaillierte Listen dafür) oder man ist faul wie ich und bestellt einfach an anderer Stelle einen Kit, der alles wichtige enthält.
 

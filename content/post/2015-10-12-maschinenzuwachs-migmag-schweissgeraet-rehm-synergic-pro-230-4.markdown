@@ -14,7 +14,7 @@ tags:
 
 Unsere Metallwerkstatt bekommt ein Schweißgerät! Und zwar ein richtig schönes, kräftiges und orangenes. Jetzt werden wir in den nächsten Wochen gemeinsam einen Schweißarbeitsplatz einrichten und alles vorbereiten, dass wir in Zukunft z.B. auch Lastenräder bauen können. Weitere Mitmacher sind willkommen!<!-- more -->
 
-Wir danken der [anstiftung](http://anstiftung.de) für die Unterstützung!
+Wir danken der [anstiftung](https://anstiftung.de) für die Unterstützung!
 
 [gallery columns="2" size="medium" link="file" ids="10382,10383,10384,10385"]
 

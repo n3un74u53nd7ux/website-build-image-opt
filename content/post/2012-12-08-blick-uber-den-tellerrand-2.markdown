@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [WEBSEITE: Ein interessantes Lochreihenbohrsystem für das Raster 32.](http://lochness32.de/)
-	  * [WEBSEITE: Ein Schrank mit Schubladen aus verschiedenen Holzarten.](http:/https://www.sixay.com/en/sixtematic-collector.php)
-	  * [ARTIKEL: Eine Hobelbank wird restauriert.](http:/https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/md/read/id/70876)
+	  * [WEBSEITE: Ein interessantes Lochreihenbohrsystem für das Raster 32.](https://lochness32.de/)
+	  * [WEBSEITE: Ein Schrank mit Schubladen aus verschiedenen Holzarten.](https://www.sixay.com/en/sixtematic-collector.php)
+	  * [ARTIKEL: Eine Hobelbank wird restauriert.](https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/md/read/id/70876)
 

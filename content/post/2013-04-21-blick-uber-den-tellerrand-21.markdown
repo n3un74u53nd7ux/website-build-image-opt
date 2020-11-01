@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Kunst aus Papier von Eiko Ojala.](http:/https://www.ploom.tv/)
-	  * [BILDER: Musikkassetten zu Lampen!](http:/https://www.fgideas.org/cassette-tapes-lamp-by-ooo-my-design)
-	  * [BILDER: Eine LEGO-Kamera](http:/https://www.flickr.com/photos/68364306@N03/6242320752/in/set-72157627712624125/)
+	  * [BILDER: Kunst aus Papier von Eiko Ojala.](https://www.ploom.tv/)
+	  * [BILDER: Musikkassetten zu Lampen!](https://www.fgideas.org/cassette-tapes-lamp-by-ooo-my-design)
+	  * [BILDER: Eine LEGO-Kamera](https://www.flickr.com/photos/68364306@N03/6242320752/in/set-72157627712624125/)
 

@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Verrückte Uhrenideen](http://timeguy.com/cradek/clocks)
-	  * [BILDER: Landschaftsfotografie im Mondlicht](http://kwerfeldein.de/2012/01/27/landschaftsfotografie-im-mondlicht/)
-	  * [BILDER: Steampunk-Versionen klassischer Holzbearbeitungswerkzeuge](http:/https://www.finewoodworking.com/item/109897/hand-tools-reinvented)
+	  * [BILDER: Verrückte Uhrenideen](https://timeguy.com/cradek/clocks)
+	  * [BILDER: Landschaftsfotografie im Mondlicht](https://kwerfeldein.de/2012/01/27/landschaftsfotografie-im-mondlicht/)
+	  * [BILDER: Steampunk-Versionen klassischer Holzbearbeitungswerkzeuge](https://www.finewoodworking.com/item/109897/hand-tools-reinvented)
 

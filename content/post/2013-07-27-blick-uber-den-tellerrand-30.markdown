@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Ein Tetrisschlips](http://boingboing.net/2013/07/23/led-tetris-tie.html)
-	  * [BILDER: Schneidebrettchen mit Laseraufdruck](http:/https://www.etsy.com/shop/ElysiumWoodworks)
-	  * [ARTIKEL: Bauplan für ein Zahlenschloss aus Holz](http://woodgears.ca/combolock/index.html)
+	  * [VIDEO: Ein Tetrisschlips](https://boingboing.net/2013/07/23/led-tetris-tie.html)
+	  * [BILDER: Schneidebrettchen mit Laseraufdruck](https://www.etsy.com/shop/ElysiumWoodworks)
+	  * [ARTIKEL: Bauplan für ein Zahlenschloss aus Holz](https://woodgears.ca/combolock/index.html)
 

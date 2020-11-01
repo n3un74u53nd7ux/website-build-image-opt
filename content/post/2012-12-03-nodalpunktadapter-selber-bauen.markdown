@@ -12,9 +12,6 @@ tags:
 ---
 
 **Anregungen**
-
-
-
-	  * http:/https://www.heinzhanka.com/tips_nodalpunktadapter.html
-	  * http:/https://www.kugelbild.de/nodalpunktadapter_k.php
+  * https://www.heinzhanka.com/tips_nodalpunktadapter.html
+  * https://www.kugelbild.de/nodalpunktadapter_k.php
 

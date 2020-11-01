@@ -12,7 +12,7 @@ tags:
 - Holz
 ---
 
-Was man doch schönes mal eben mit 28 Kassetten so machen kann. Die Vorlage war [diese Idee](http:/https://www.fgideas.org/cassette-tapes-lamp-by-ooo-my-design/) aus unserem [Blick über den Tellerrand 21](/blick-uber-den-tellerrand-21/), doch ich fand, für meinen Flur sollte es was längliches sein.<!-- more -->
+Was man doch schönes mal eben mit 28 Kassetten so machen kann. Die Vorlage war [diese Idee](https://www.fgideas.org/cassette-tapes-lamp-by-ooo-my-design/) aus unserem [Blick über den Tellerrand 21](/blick-uber-den-tellerrand-21/), doch ich fand, für meinen Flur sollte es was längliches sein.<!-- more -->
 
 
 

@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Die Tetrismusik mal anders.](http:/https:/https://www.youtube.com/watch?v=TnDIRr9C83w)
-	  * [BILDER: Stapelbare Beistelltische aus Ahornholz.](http:/https://www.holzwerken.net/Lesergalerie/Tischlern/Beistelltische-zur-Couch)
-	  * [ARTIKEL: Eine T-Shirt-Zusammenlegehilfe selbst gebaut.](http:/https://www.wikihow.com/Make-a-T-Shirt-Folder)
+	  * [VIDEO: Die Tetrismusik mal anders.](https://www.youtube.com/watch?v=TnDIRr9C83w)
+	  * [BILDER: Stapelbare Beistelltische aus Ahornholz.](https://www.holzwerken.net/Lesergalerie/Tischlern/Beistelltische-zur-Couch)
+	  * [ARTIKEL: Eine T-Shirt-Zusammenlegehilfe selbst gebaut.](https://www.wikihow.com/Make-a-T-Shirt-Folder)
 

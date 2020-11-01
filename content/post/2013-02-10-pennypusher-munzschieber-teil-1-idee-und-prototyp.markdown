@@ -14,7 +14,7 @@ tags:
 
 Ziel des Projektes ist es einen Pennypusher (auch bekannt als Coin Pusher oder Münzschieber) zu bauen. Die Dokumentation wird sich über mehrere Beiträge aufteilen. In diesem soll das Projekt erläutert werden.
 
-Für die, die sich unter einem Pennypusher nichts vorstellen können, hier ein kleiner link: [http://vimeo.com/29833767](http://vimeo.com/29833767)
+Für die, die sich unter einem Pennypusher nichts vorstellen können, hier ein kleiner link: [https://vimeo.com/29833767](https://vimeo.com/29833767)
 
 Das Projekt teilt sich in drei Teile:
 
@@ -47,7 +47,7 @@ Folgende Funktionen sollen realisiert werden:
 
 	  * LED Beleuchtung des Münzauffangs
 
-Gesteuert werden soll die gesamte Elektonik über einen Arduino Mikrocontroller (http://de.wikipedia.org/wiki/Arduino-Plattform)
+Gesteuert werden soll die gesamte Elektonik über einen Arduino Mikrocontroller (https://de.wikipedia.org/wiki/Arduino-Plattform)
 
 
 

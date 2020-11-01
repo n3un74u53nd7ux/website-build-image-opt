@@ -30,4 +30,4 @@ PS: Vielleicht schreibe ich mal einen Generator, der mir die Teile automatisch e
 
 Ansonsten liegt der Trick natürlich darin, dass die Löcher zur Kugel passen müssen. Und jene, durch die sie nicht durchgehen soll, minimal kleiner sind, damit man es optisch nicht unterscheiden kann. ;)
 
-Dem geneigten Leser sei es als Übung empfohlen, sich zuerst [an dieser kleineren Version](https:/https://www.bartlshop.de/product_info.php?language=de&info=p1124_Cubiforms_Cubical_Labyrinth.html) zu versuchen. Die habe ich auch (minimal geändert) gefräst. Die Datei dazu müsste ich aber erst heraussuchen.
+Dem geneigten Leser sei es als Übung empfohlen, sich zuerst [an dieser kleineren Version](https://www.bartlshop.de/product_info.php?language=de&info=p1124_Cubiforms_Cubical_Labyrinth.html) zu versuchen. Die habe ich auch (minimal geändert) gefräst. Die Datei dazu müsste ich aber erst heraussuchen.

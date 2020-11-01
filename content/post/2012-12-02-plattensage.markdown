@@ -28,12 +28,12 @@ Tischversionen, analog zum MFT
 
 
 
-	  * [Festool Multifunktionstisch MFT](http:/https://www.festool.de/Produkte/Seiten/Produktdetailansicht.aspx?pid=495315&name=Multifunktionstisch-MFT-3-MFT-3)
-	  * Multifunktionstisch von Guido Henn/Hiolzwerken #37/#38 (eine Umsetzung [gibt es hier anzuschauen](http:/https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/md/read/id/93504/sbj/multi-werkbank-nach-holzwerken-37/))
+	  * [Festool Multifunktionstisch MFT](https://www.festool.de/Produkte/Seiten/Produktdetailansicht.aspx?pid=495315&name=Multifunktionstisch-MFT-3-MFT-3)
+	  * Multifunktionstisch von Guido Henn/Hiolzwerken #37/#38 (eine Umsetzung [gibt es hier anzuschauen](https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/md/read/id/93504/sbj/multi-werkbank-nach-holzwerken-37/))
 
 Andere Anregungen für Umsetzungen, die teils deutlich aufwändiger sind, findet man hier:
 
-	  * [WidgetWorks Panel Saw](http:/https://www.widgetworksunlimited.com/Panel_Saw_Deluxe_Wall_Mount_Kit_p/ww-panel_saw-dwm.htm)
-	  * [Panel Saw aus ShopNotes #88](http:/https://www.shopnotes.com/issues/088/videos/the-ultimate-shop-built-panel-saw/)
-	  * [Holzplatten-Ständer vertikal aus FineWoodWorking](http:/https://www.finewoodworking.com/workshop/tip/build-your-own-panel-saw.aspx)
+	  * [WidgetWorks Panel Saw](https://www.widgetworksunlimited.com/Panel_Saw_Deluxe_Wall_Mount_Kit_p/ww-panel_saw-dwm.htm)
+	  * [Panel Saw aus ShopNotes #88](https://www.shopnotes.com/issues/088/videos/the-ultimate-shop-built-panel-saw/)
+	  * [Holzplatten-Ständer vertikal aus FineWoodWorking](https://www.finewoodworking.com/workshop/tip/build-your-own-panel-saw.aspx)
 

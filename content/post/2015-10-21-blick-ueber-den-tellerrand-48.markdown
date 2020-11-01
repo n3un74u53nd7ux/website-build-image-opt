@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * VIDEO: [Lego-Gummibärchen selbstgemacht](https:/https://www.youtube.com/watch?v=n3_dV-e4d9c)
-	  * VIDEO: [Bau Dir einen Batarang aus einem alten Sägeblatt](https:/https://www.youtube.com/watch?v=SkGIr2qUz-4)
-	  * VIDEO: [Ein essbarer Schwan](https:/https://www.youtube.com/watch?v=uLXEiMIiF5E)
+	  * VIDEO: [Lego-Gummibärchen selbstgemacht](https://www.youtube.com/watch?v=n3_dV-e4d9c)
+	  * VIDEO: [Bau Dir einen Batarang aus einem alten Sägeblatt](https://www.youtube.com/watch?v=SkGIr2qUz-4)
+	  * VIDEO: [Ein essbarer Schwan](https://www.youtube.com/watch?v=uLXEiMIiF5E)
 

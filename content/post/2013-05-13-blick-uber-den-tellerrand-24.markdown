@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Entstehungsvideo einer gedrechselten Schale](http:/https:/https://www.youtube.com/watch?v=qFFS9PsghCI)
-	  * [VIDEO: 2-stufige Wasserrakete](http:/https:/https://www.youtube.com/watch?v=0qzOzjRJpaU)
-	  * [VIDEO: Methanraketentest der NASA (Schon alt, aber gut! Vorher Lautsprecher und Subwoofer aufdrehen. :-))](http:/https:/https://www.youtube.com/watch?v=dumolLDfWw4)
+	  * [VIDEO: Entstehungsvideo einer gedrechselten Schale](https://www.youtube.com/watch?v=qFFS9PsghCI)
+	  * [VIDEO: 2-stufige Wasserrakete](https://www.youtube.com/watch?v=0qzOzjRJpaU)
+	  * [VIDEO: Methanraketentest der NASA (Schon alt, aber gut! Vorher Lautsprecher und Subwoofer aufdrehen. :-))](https://www.youtube.com/watch?v=dumolLDfWw4)
 

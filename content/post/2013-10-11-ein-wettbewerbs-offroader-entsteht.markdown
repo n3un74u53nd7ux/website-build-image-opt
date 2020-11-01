@@ -11,11 +11,11 @@ tags:
 - RC-Modellbau
 ---
 
-Damit wir uns einmal im Wettbewerb beweisen können, soll für den Lauf der [LRP Offroad Challenge](http:/https://www.lrp-offroad-challenge.com) im [Racing Center Leipzig](http:/https://www.rc-leipzig.com/) am 27. Oktober ein Offroad-Buggy entstehen.
+Damit wir uns einmal im Wettbewerb beweisen können, soll für den Lauf der [LRP Offroad Challenge](https://www.lrp-offroad-challenge.com) im [Racing Center Leipzig](https://www.rc-leipzig.com/) am 27. Oktober ein Offroad-Buggy entstehen.
 
 <!-- more -->
 
-Um erst einmal Rennluft zu schnuppern, soll ein kostengünstiges Auto für die Rookie Challenge aufgebaut werden. Das [Reglement](http:/https://www.lrp.cc/de/challenges/lrp-offroad-challenge/reglement/rookie-challenge/) ist offen verfügbar und auch einigermaßen knapp gehalten. Aufgewählt werden kann das Chassis aus zehn Modellen der Firmen HPI und LRP. Die Wahl fiel auf einen S10 Twister in Non-RTR Version, also ohne Elektronik und Motor. Dieses ist für ca. 50 EUR zu haben. Hinzu kommen noch der S10 Motor, ein Regler für Bürstenmotoren (A.I. Runner Reverse 2.0), ein HPI SF-1 Lenkservo und ein Empfänger. In Summe kostet das Fahrzeug knapp 110 EUR ohne Akku. Um Gewicht zu sparen setzen wir auch die bewährten LiPos ein.
+Um erst einmal Rennluft zu schnuppern, soll ein kostengünstiges Auto für die Rookie Challenge aufgebaut werden. Das [Reglement](https://www.lrp.cc/de/challenges/lrp-offroad-challenge/reglement/rookie-challenge/) ist offen verfügbar und auch einigermaßen knapp gehalten. Aufgewählt werden kann das Chassis aus zehn Modellen der Firmen HPI und LRP. Die Wahl fiel auf einen S10 Twister in Non-RTR Version, also ohne Elektronik und Motor. Dieses ist für ca. 50 EUR zu haben. Hinzu kommen noch der S10 Motor, ein Regler für Bürstenmotoren (A.I. Runner Reverse 2.0), ein HPI SF-1 Lenkservo und ein Empfänger. In Summe kostet das Fahrzeug knapp 110 EUR ohne Akku. Um Gewicht zu sparen setzen wir auch die bewährten LiPos ein.
 
 [![IMG_1359](/wp-content/uploads/2013/10/IMG_1359-1024x683.jpg)
 ](/wp-content/uploads/2013/10/IMG_1359.jpg)

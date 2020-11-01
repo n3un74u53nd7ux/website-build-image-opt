@@ -12,7 +12,7 @@ tags:
 ---
 
 
-	  * [BILDER: Verschiedene Selbstbau CNC-Fräsen im Überblick](http://blog.ponoko.com/2011/07/15/pricing-guide-to-diy-cnc-mill-and-router-kits/)
-	  * [PDF: Verschiedene "digitale" Holzverbindungen, insbesondere CNC-geeignet (SEHR INTERESSANT!)](http:/https://www.flexiblestream.org/Digital-Wood-Joints-001.php)
-	  * [BAUBERICHT: Rollschrank mit Stauraum für die Bohrmaschine](http:/https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/page/1/md/read/id/95789/sbj/projektvorstellung-rollschrank-viele-bilder/)
+	  * [BILDER: Verschiedene Selbstbau CNC-Fräsen im Überblick](https://blog.ponoko.com/2011/07/15/pricing-guide-to-diy-cnc-mill-and-router-kits/)
+	  * [PDF: Verschiedene "digitale" Holzverbindungen, insbesondere CNC-geeignet (SEHR INTERESSANT!)](https://www.flexiblestream.org/Digital-Wood-Joints-001.php)
+	  * [BAUBERICHT: Rollschrank mit Stauraum für die Bohrmaschine](https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/page/1/md/read/id/95789/sbj/projektvorstellung-rollschrank-viele-bilder/)
 

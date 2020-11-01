@@ -14,8 +14,6 @@ tags:
 
 **Tipps und Tricks**
 
-
-
-	  * Um Kleinteile auf der Oberseite sortieren zu können, ohne dass diese in den 20mm Löchern verschwinden habe ich im Baumarkt eine 3mm Dünn-MDF oder Hartfaserplatte zuschneiden lassen (1102mm x 718mm), die ich bei Bedarf einfach auf die Oberseite auflege.
-	  * [Stauraum unter einem MFT mit einem Schrank optimal nutzen](http://thewoodtinkerer.blogspot.de/2013/02/festool-mft3-unterschrank-teil-6.html)
+  * Um Kleinteile auf der Oberseite sortieren zu können, ohne dass diese in den 20mm Löchern verschwinden habe ich im Baumarkt eine 3mm Dünn-MDF oder Hartfaserplatte zuschneiden lassen (1102mm x 718mm), die ich bei Bedarf einfach auf die Oberseite auflege.
+  * [Stauraum unter einem MFT mit einem Schrank optimal nutzen](https://thewoodtinkerer.blogspot.de/2013/02/festool-mft3-unterschrank-teil-6.html)
 

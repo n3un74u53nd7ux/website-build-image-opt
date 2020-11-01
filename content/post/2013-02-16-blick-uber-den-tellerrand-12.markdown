@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [ARTIKEL: Alternatives Arbeitssystem](http:/https://www.taz.de/Alternatives-Arbeitssystem/!108355/) taz: "Weniger, lokaler und fröhlicher: Eine neue Form der Arbeit ist möglich, meint der Sozialphilosoph Frithjof Bergmann." Lesenswerter Artikel, der auch unseren Ansatz "mehr selber machen (können)" thematisiert.
-	  * [ARTIKEL: Focus stacking with Raspberry Pi](http://davidhunt.ie/?p=2826) Ein alter Flachbettscanner wird zur automatischen Makroschiene, um bei Macrofotos durch "stapeln" vieler Bilder mit leicht verschobenem Schärfepunkt eine größere Schärfentiefe zu erreichen.
-	  * [ARTIKEL: Widerstand ist zwecklos](http://hackedfrompieces.wordpress.com/2013/02/08/widerstand-ist-zwecklos/) Ein selbstgebauter Widerstandsmesser, der den gemessenen Widerstand als Widerstandsfarbcode anzeigt, und natürlich, als Widerstand geformt ist. :)
+	  * [ARTIKEL: Alternatives Arbeitssystem](https://www.taz.de/Alternatives-Arbeitssystem/!108355/) taz: "Weniger, lokaler und fröhlicher: Eine neue Form der Arbeit ist möglich, meint der Sozialphilosoph Frithjof Bergmann." Lesenswerter Artikel, der auch unseren Ansatz "mehr selber machen (können)" thematisiert.
+	  * [ARTIKEL: Focus stacking with Raspberry Pi](https://davidhunt.ie/?p=2826) Ein alter Flachbettscanner wird zur automatischen Makroschiene, um bei Macrofotos durch "stapeln" vieler Bilder mit leicht verschobenem Schärfepunkt eine größere Schärfentiefe zu erreichen.
+	  * [ARTIKEL: Widerstand ist zwecklos](https://hackedfrompieces.wordpress.com/2013/02/08/widerstand-ist-zwecklos/) Ein selbstgebauter Widerstandsmesser, der den gemessenen Widerstand als Widerstandsfarbcode anzeigt, und natürlich, als Widerstand geformt ist. :)
 

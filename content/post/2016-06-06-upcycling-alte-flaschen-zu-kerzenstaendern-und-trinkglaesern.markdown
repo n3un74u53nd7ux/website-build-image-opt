@@ -9,7 +9,7 @@ categories:
 - Veranstaltungen
 ---
 
-Am kommenden Sonntag, den 12. Juni 2016, bieten wir allen Interessenten den beliebten (und ständig ausgebuchten) Flaschenschneider-Kurs von André aus dem [Makerspace Leipzig](http://makerspace-leipzig.de) auch bei uns im [Eigenbaukombinat](/anfahrt/) an!
+Am kommenden Sonntag, den 12. Juni 2016, bieten wir allen Interessenten den beliebten (und ständig ausgebuchten) Flaschenschneider-Kurs von André aus dem [Makerspace Leipzig](https://makerspace-leipzig.de) auch bei uns im [Eigenbaukombinat](/anfahrt/) an!
 
 <!-- more -->
 

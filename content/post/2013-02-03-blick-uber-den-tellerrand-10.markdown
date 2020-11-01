@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [ARTIKEL: PC-Gehäuse in Holz](http://holznotizen.blogspot.de/2011/06/pc-kommoding-case-modding-in-holz.html)
-	  * [ARTIKEL: Kerzenständer](http://modellingperceptions.wordpress.com/2012/03/24/kerzenstander/)
-	  * [ARTIKEL: Schmuckkästchen](http://modellingperceptions.wordpress.com/2012/04/26/schmuckkastchen-teil-4-finish/)
+	  * [ARTIKEL: PC-Gehäuse in Holz](https://holznotizen.blogspot.de/2011/06/pc-kommoding-case-modding-in-holz.html)
+	  * [ARTIKEL: Kerzenständer](https://modellingperceptions.wordpress.com/2012/03/24/kerzenstander/)
+	  * [ARTIKEL: Schmuckkästchen](https://modellingperceptions.wordpress.com/2012/04/26/schmuckkastchen-teil-4-finish/)
 

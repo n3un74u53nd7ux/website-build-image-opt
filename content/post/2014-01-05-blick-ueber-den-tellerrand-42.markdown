@@ -12,7 +12,7 @@ tags:
 ---
 
 
-	  * [ARTIKEL: E-Basskorpus selbst gebaut](http:/https://www.jasonwolley.com/multiscale_bass_prototype.html)
-	  * [VIDEO: Der Mechanismus von Antikythera aus Lego Technic nachgebaut](http:/https:/https://www.youtube.com/watch?v=iYyRvd79KT4)
-	  * [ARTIKEL: Bau eines Sideboards aus Esche mit Braunkern](http:/https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/page/1/md/read/id/98308/sbj/sideboard/)
+	  * [ARTIKEL: E-Basskorpus selbst gebaut](https://www.jasonwolley.com/multiscale_bass_prototype.html)
+	  * [VIDEO: Der Mechanismus von Antikythera aus Lego Technic nachgebaut](https://www.youtube.com/watch?v=iYyRvd79KT4)
+	  * [ARTIKEL: Bau eines Sideboards aus Esche mit Braunkern](https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/page/1/md/read/id/98308/sbj/sideboard/)
 

@@ -11,7 +11,7 @@ categories:
 ---
 
 
-	  * ["Holzbearbeitungsmaschinen: Handhabung und sicheres Arbeiten" der ](http:/https://www.bghm.de/uploads/tx_ttproducts/datasheet/BG_96.18_01.pdf)["BG Holz und Metall"](http:/https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10) SEHR informatives und wichtiges Übersichtswerk über den korrekten Umgang mit diversen Holzbearbeitungsmaschinen. Pflichtlektüre, für alle die an Kappsäge, Abrichthobel und Co. arbeiten (wollen).
-	  * [Dazugehörige Plakate der "BG Holz und Metall" zur Holzbearbeitung](http:/https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10)
-	  * [Weitere Inhalte der Mediathek der ehemaligen HolzBG](http:/https://www.bghm.de/arbeitsschuetzer/praxishilfen/unterweisungshilfen.html)
+	  * ["Holzbearbeitungsmaschinen: Handhabung und sicheres Arbeiten" der ](https://www.bghm.de/uploads/tx_ttproducts/datasheet/BG_96.18_01.pdf)["BG Holz und Metall"](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10) SEHR informatives und wichtiges Übersichtswerk über den korrekten Umgang mit diversen Holzbearbeitungsmaschinen. Pflichtlektüre, für alle die an Kappsäge, Abrichthobel und Co. arbeiten (wollen).
+	  * [Dazugehörige Plakate der "BG Holz und Metall" zur Holzbearbeitung](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10)
+	  * [Weitere Inhalte der Mediathek der ehemaligen HolzBG](https://www.bghm.de/arbeitsschuetzer/praxishilfen/unterweisungshilfen.html)
 

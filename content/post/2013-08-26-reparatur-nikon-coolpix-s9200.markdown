@@ -14,7 +14,7 @@ tags:
 
 Und wieder mal ein reparaturbedürftiges Gerät im Eigenbaukombinat. Ein Hund ist auf Steffis Digitalkamera getreten - die Folge: Display mechanisch gebrochen. Es zeigt Streifen und den Bruch recht deutlich.
 
-Im Fotofachgeschäft will man 140 EUR für die Reparatur haben, zum Glück kostet uns das Ersatzdisplay nur 30 EUR ([LINK](http:/https://www.chip-tip.de/de/Nikon-Display-LCD/NIKON-COOLPIX-S9200-L810-DISPLAY-LCD-OHNE-BACKLIGHT)), leider gibt es für dieses Kameramodell keinerlei Anleitung zum Displaywechsel, und das im Netz kursierende Video vom Vorgänger ist leider nur bedingt nutzbar, da sich der AufAuseinanderbau der Kameras deutlich unterscheidet.
+Im Fotofachgeschäft will man 140 EUR für die Reparatur haben, zum Glück kostet uns das Ersatzdisplay nur 30 EUR ([LINK](https://www.chip-tip.de/de/Nikon-Display-LCD/NIKON-COOLPIX-S9200-L810-DISPLAY-LCD-OHNE-BACKLIGHT)), leider gibt es für dieses Kameramodell keinerlei Anleitung zum Displaywechsel, und das im Netz kursierende Video vom Vorgänger ist leider nur bedingt nutzbar, da sich der AufAuseinanderbau der Kameras deutlich unterscheidet.
 
 **Also hier Steffis kleine Anleitung für alle, die ebenfalls mal das Display tauschen wollen:**
 

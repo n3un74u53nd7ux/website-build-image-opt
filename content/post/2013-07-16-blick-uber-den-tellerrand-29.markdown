@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Unvergessliche Portraits](http:/https://www.incrediblethings.com/art-design/cannot-unsee-rubber-band-portraits/)
-	  * [BILDER: Eine hölzerne Kamera](http:/https://www.thisiscolossal.com/2013/05/put-down-the-iphone-and-pickup-an-ondu-wooden-pinhole-camera/)
-	  * [BILDER: Origami-Postkarten](http:/https://www.thisiscolossal.com/2011/08/birch-bird-cards/)
+	  * [BILDER: Unvergessliche Portraits](https://www.incrediblethings.com/art-design/cannot-unsee-rubber-band-portraits/)
+	  * [BILDER: Eine hölzerne Kamera](https://www.thisiscolossal.com/2013/05/put-down-the-iphone-and-pickup-an-ondu-wooden-pinhole-camera/)
+	  * [BILDER: Origami-Postkarten](https://www.thisiscolossal.com/2011/08/birch-bird-cards/)
 

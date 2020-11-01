@@ -16,6 +16,6 @@ Dazu vorerst hier ein paar Ideensammlungen.
 
 
 
-	  * VIDEO: Einen schönen Bohrtisch selber bauen: Drill Press Table - Part 1 [http:/https:/https://www.youtube.com/watch?v=U1GP_EgjA7M](http:/https:/https://www.youtube.com/watch?v=U1GP_EgjA7M)
-	  * BILD: Ein fertig käufliches Modell bei axminster, Bilder davon gibt es [hier](http:/https://www.axminster.co.uk/axminster-deluxe-pillar-drill-tables) und [hier](http:/https://www.axminster.co.uk/axminster-pillar-drill-table).
+	  * VIDEO: Einen schönen Bohrtisch selber bauen: Drill Press Table - Part 1 [https://www.youtube.com/watch?v=U1GP_EgjA7M](https://www.youtube.com/watch?v=U1GP_EgjA7M)
+	  * BILD: Ein fertig käufliches Modell bei axminster, Bilder davon gibt es [hier](https://www.axminster.co.uk/axminster-deluxe-pillar-drill-tables) und [hier](https://www.axminster.co.uk/axminster-pillar-drill-table).
 

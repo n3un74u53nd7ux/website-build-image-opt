@@ -69,7 +69,7 @@ Außerdem hat die Video-Gruppe hat eine kurze Dokumentation vom heutigen Tag ang
 
 
 
-Und hier noch die Links zu Thingiverse: [Low Poly Reindeer](https:/https://www.thingiverse.com/thing:2942688), [Infinity Heart](https:/https://www.thingiverse.com/thing:1310581), [Hydra Medaillon](https:/https://www.thingiverse.com/thing:27711)
+Und hier noch die Links zu Thingiverse: [Low Poly Reindeer](https://www.thingiverse.com/thing:2942688), [Infinity Heart](https://www.thingiverse.com/thing:1310581), [Hydra Medaillon](https://www.thingiverse.com/thing:27711)
 
 
 
@@ -77,7 +77,7 @@ Und hier noch die Links zu Thingiverse: [Low Poly Reindeer](https:/https://www.t
 
 
 
-Das kleine orangene Gameboy-artige Handheld ist ein meowbit von [kittenbot](https:/https://www.kittenbot.cc/).
+Das kleine orangene Gameboy-artige Handheld ist ein meowbit von [kittenbot](https://www.kittenbot.cc/).
 
 
 

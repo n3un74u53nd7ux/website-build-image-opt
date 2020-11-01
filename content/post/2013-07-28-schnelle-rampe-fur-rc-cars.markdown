@@ -13,7 +13,7 @@ tags:
 - RC-Modellbau
 ---
 
-In Vorbereitung auf das nächste Treffen der [Parkplatzracer Halle ](http:/https://www.parkplatz-racer-halle.de/)am [11.August ](http:/https://www.parkplatz-racer-halle.de/index.php/veranstaltungsorte/details/88-augusdrive)haben wir eine kleine Sprungschanze gebaut. Zunächst wurde aus 9mm Multiplex das Profil der Rampe auf der CNC gefräst, mit einem kleinen Ausschnitt aus der Unterseite zur Verstärkung mit einer Latte.
+In Vorbereitung auf das nächste Treffen der [Parkplatzracer Halle ](https://www.parkplatz-racer-halle.de/)am [11.August ](https://www.parkplatz-racer-halle.de/index.php/veranstaltungsorte/details/88-augusdrive)haben wir eine kleine Sprungschanze gebaut. Zunächst wurde aus 9mm Multiplex das Profil der Rampe auf der CNC gefräst, mit einem kleinen Ausschnitt aus der Unterseite zur Verstärkung mit einer Latte.
 
 <!-- more -->
 

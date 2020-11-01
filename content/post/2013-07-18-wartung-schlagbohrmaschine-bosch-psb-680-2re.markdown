@@ -11,7 +11,7 @@ tags:
 - Elektronik
 ---
 
-Die Maschine ist Baujahr 1998, hat also ihre Schuldigkeit getan. In letzter Zeit fällt sie durch starkes Bürstenfeuer auf. Also aufgeschraubt und nachgeschaut.<!-- more --> [Eine Explosionszeichnung gibt's hier](http:/https://www.mtmc.co.uk/Images/Products/52949/0603161503.GIF).[![IMG_67199](/wp-content/uploads/2012/12/IMG_67199-300x200.jpg)
+Die Maschine ist Baujahr 1998, hat also ihre Schuldigkeit getan. In letzter Zeit fällt sie durch starkes Bürstenfeuer auf. Also aufgeschraubt und nachgeschaut.<!-- more --> [Eine Explosionszeichnung gibt's hier](https://www.mtmc.co.uk/Images/Products/52949/0603161503.GIF).[![IMG_67199](/wp-content/uploads/2012/12/IMG_67199-300x200.jpg)
 ](/wp-content/uploads/2012/12/IMG_67199.jpg)
 
 

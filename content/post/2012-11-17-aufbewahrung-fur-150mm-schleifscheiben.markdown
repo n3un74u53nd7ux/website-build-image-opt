@@ -12,7 +12,7 @@ categories:
 Damit die passenden Schleifscheiben für den Exzenterschleifer immer schnell und einfach zugänglich sind, habe ich eine einfache Aufbewahrung gebaut.
 
 Hier die Skizze des Entwurfs [(Download als DXF)](/wp-content/uploads/2013/02/halterung-schleifscheiben-150mm.dxf). Die Schleifscheiben haben einen Durchmesser von 150 mm, mit einem Loch in der Mitte von 15mm Durchmesser. Um die 6 gebräuchlichsten Größen (40, 80, 120, 180, 240 und 400er Korn) aufzunehmen, benötigt man sechs Plätze. Die Größe der Scheiben, sowie etwas Abstand zueinander und zum Rand (oben und unten etwas mehr für die Beschriftung), ergeben dann Maße von 420x540 mm.
-Die 420 mm habe ich bewußt gewählt, da das die Standardbreite des [TROFAST-Aufbewahrungssystems](http:/https://www.ikea.com/de/de/catalog/products/S19873974/) von Ikea ist, das ich in der Werkstatt einsetze. 
+Die 420 mm habe ich bewußt gewählt, da das die Standardbreite des [TROFAST-Aufbewahrungssystems](https://www.ikea.com/de/de/catalog/products/S19873974/) von Ikea ist, das ich in der Werkstatt einsetze. 
 
 [![1](/wp-content/uploads/2013/02/11-300x257.png)
 ](/wp-content/uploads/2013/02/11.png)

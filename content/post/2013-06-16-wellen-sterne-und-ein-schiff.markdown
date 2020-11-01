@@ -14,7 +14,7 @@ tags:
 
 Handgemalte Bilder in hölzerne Fensterbilder verwandeln - mit etwas Know-how und einer CNC Fräse kein Problem!
 
-Ausgehend von Lydias Skizze auf Papier habe ich das Bild digitalisiert, mit [Gimp](http:/https://www.gimp.org/) etwas nachbearbeitet und gesäubert, und anschließend mit [Inkscape](http://inkscape.org) vektorisiert, damit man es fräsen kann.
+Ausgehend von Lydias Skizze auf Papier habe ich das Bild digitalisiert, mit [Gimp](https://www.gimp.org/) etwas nachbearbeitet und gesäubert, und anschließend mit [Inkscape](https://inkscape.org) vektorisiert, damit man es fräsen kann.
 
 Aus der Vektorskizze kann man dann die Pfade für die CNC-Fräse erstellen. Damit das ganze Bild noch etwas an Tiefe gewinnt, haben wir neben durchgefräsen Konturen auch halbdurchgefräste Flächen eingeplant. Dort bleibt von 4mm Pappelsperrholz etwa 1mm stehen. <!-- more -->
 

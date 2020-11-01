@@ -11,21 +11,15 @@ tags:
 - Software
 ---
 
-**QCAD und LibreCAD
-**Das einfach zu bedienende Program QCAD hat einen neuen, kostenlosen OpenSource-Ableger bekommen, er heißt LibreCAD. Hier die Links für alle Interessenten.
+**QCAD und LibreCAD**
+Das einfach zu bedienende Program QCAD hat einen neuen, kostenlosen OpenSource-Ableger bekommen, er heißt LibreCAD. Hier die Links für alle Interessenten.
+  * [Kommerzielle Version QCad 3.0 (32 EUR im Download)](https://qcad.org/de/)
+  * [Open-Source LibreCad 2.0 (gratis, aber ohne Tastenkürzelunterstützung)](https://librecad.org/cms/home.html)
 
-
-
-	  * [Kommerzielle Version QCad 3.0 (32 EUR im Download)](http://qcad.org/de/)
-	  * [Open-Source LibreCad 2.0 (gratis, aber ohne Tastenkürzelunterstützung)](http://librecad.org/cms/home.html)
-
-**Sketchup!
-**Das bekannte 3D-Zeichenprogramm von Google wurde zur Weiterentwicklung an die Firma Trimble ausgegliedert und ist ab sofort [hier herunterzuladen](http:/https://www.sketchup.com/).
+**Sketchup!**
+Das bekannte 3D-Zeichenprogramm von Google wurde zur Weiterentwicklung an die Firma Trimble ausgegliedert und ist ab sofort [hier herunterzuladen](https://www.sketchup.com/).
 
 Wer bereits anfangen möchte sich einzuarbeiten findet hier zwei gut gemachte Video-Tutorials der Zeitschrift Holzwerken:
-
-
-
-	  * [VIDEO Holzwerken](http:/https://www.holzwerken.net/HolzWerkenTV/SketchUp-CAD-Co/SketchUp-die-Grundlagen) "Sketchup - Die Grundlagen" (Teil 1)
-	  * [VIDEO Holzwerken](http:/https://www.holzwerken.net/HolzWerkenTV/SketchUp-CAD-Co/SketchUp-einfach-konstruieren) "Sketchup - Einfach konstruieren" (Teil 2)
+  * [VIDEO Holzwerken](https://www.holzwerken.net/HolzWerkenTV/SketchUp-CAD-Co/SketchUp-die-Grundlagen) "Sketchup - Die Grundlagen" (Teil 1)
+  * [VIDEO Holzwerken](https://www.holzwerken.net/HolzWerkenTV/SketchUp-CAD-Co/SketchUp-einfach-konstruieren) "Sketchup - Einfach konstruieren" (Teil 2)
 

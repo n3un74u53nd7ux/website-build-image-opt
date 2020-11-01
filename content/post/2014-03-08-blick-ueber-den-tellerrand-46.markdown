@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [BILDER: Stühle aus in und um Holz gegossenes Aluminium](http://blog.wanken.com/11639/wood-stools-cast-in-aluminum/)
-	  * [KOCHEN: Schnelle vegane Küche ohne Soja (Kochbuch) ](http:/https://www.freya.at/flippage/schnelle_vegane_kueche/)
-	  * [VIDEO: Ein Würfel im Würfel einfach selbstgemacht](http:/https:/https://www.youtube.com/watch?v=3Dgz3WLUAz0)
+	  * [BILDER: Stühle aus in und um Holz gegossenes Aluminium](https://blog.wanken.com/11639/wood-stools-cast-in-aluminum/)
+	  * [KOCHEN: Schnelle vegane Küche ohne Soja (Kochbuch) ](https://www.freya.at/flippage/schnelle_vegane_kueche/)
+	  * [VIDEO: Ein Würfel im Würfel einfach selbstgemacht](https://www.youtube.com/watch?v=3Dgz3WLUAz0)
 

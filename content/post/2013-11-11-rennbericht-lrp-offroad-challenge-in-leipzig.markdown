@@ -11,7 +11,7 @@ tags:
 - RC-Modellbau
 ---
 
-Nach dem erfolgreichen Aufbau meines [Buggys](/ein-wettbewerbs-offroader-entsteht/) sollte dieser nun endlich Rennluft schnuppern. Am 27. Oktober brach ich dann mit einer voll gepackte Kisten Material, Tisch und Stuhl auf in das [Racing Center Leipzig](http:/https://www.rc-leipzig.com). Vor Ort brauchte ich dann mein mitgebrachtes Mobiliar nicht und konnte meinen Schrauberplatz direkt neben der hauseigenen Driftstrecke aufbauen.
+Nach dem erfolgreichen Aufbau meines [Buggys](/ein-wettbewerbs-offroader-entsteht/) sollte dieser nun endlich Rennluft schnuppern. Am 27. Oktober brach ich dann mit einer voll gepackte Kisten Material, Tisch und Stuhl auf in das [Racing Center Leipzig](https://www.rc-leipzig.com). Vor Ort brauchte ich dann mein mitgebrachtes Mobiliar nicht und konnte meinen Schrauberplatz direkt neben der hauseigenen Driftstrecke aufbauen.
 
 <!-- more -->
 

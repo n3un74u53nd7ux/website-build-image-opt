@@ -9,8 +9,7 @@ categories:
 - Blick über den Tellerrand
 ---
 
-
-	  * [BILDER: Red Bull Illume Fotowettbewerb 2013 - Die Top 50 Bilder (ansehen!)](http:/https://www.redbullillume.com/gallery/final-images-2013/top-50.html)
-	  * [WEBSEITE: Leckere vegane Rezepte](http://veganolution.wordpress.com/)
-	  * [BILDER: Waschbecken aus Baum](http:/https://www.holzwerken.net/Lesergalerie/Tischlern/Waschbecken-Plumpsklo-Fensterbaenke)
+  * [BILDER: Red Bull Illume Fotowettbewerb 2013 - Die Top 50 Bilder (ansehen!)](https://www.redbullillume.com/gallery/final-images-2013/top-50.html)
+  * [WEBSEITE: Leckere vegane Rezepte](https://veganolution.wordpress.com/)
+  * [BILDER: Waschbecken aus Baum](https://www.holzwerken.net/Lesergalerie/Tischlern/Waschbecken-Plumpsklo-Fensterbaenke)
 

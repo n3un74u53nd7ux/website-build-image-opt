@@ -66,7 +66,7 @@ Ohne Arbeitszeit, die mich ja nichts kostet, liegt man bei ca. 30 Euro.
 
 ***UPDATE***
 
-Hier noch [die DXF-Datei zum Herunterladen](/wp-content/uploads/2013/08/kamishibai.dxf). Man kann sie z.B. mit [QCad](http:/https://www.qcad.org) öffnen.
+Hier noch [die DXF-Datei zum Herunterladen](/wp-content/uploads/2013/08/kamishibai.dxf). Man kann sie z.B. mit [QCad](https://www.qcad.org) öffnen.
 
 Ansonsten noch zwei Screenshots aus dieser Datei, damit man die Maße und den Aufbau noch etwas besser erkennen kann. Alle Maßangaben in Millimetern.
 

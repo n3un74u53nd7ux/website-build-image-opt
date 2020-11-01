@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [VIDEO: Ein selbstgebautes Lasergewehr](http:/https:/https://www.youtube.com/watch?v=yTnqamZJ97g)
-	  * [VIDEO: Lichtschwert selbstgemacht, mit 3W Laser](http:/https:/https://www.youtube.com/watch?v=96E0RfyL2Gc)
-	  * [VIDEO: Endlich, ein Quadcopter mit Rädern!](http://video.golem.de/wissenschaft/10831/quadrocopter-mit-raedern.html)
+	  * [VIDEO: Ein selbstgebautes Lasergewehr](https://www.youtube.com/watch?v=yTnqamZJ97g)
+	  * [VIDEO: Lichtschwert selbstgemacht, mit 3W Laser](https://www.youtube.com/watch?v=96E0RfyL2Gc)
+	  * [VIDEO: Endlich, ein Quadcopter mit Rädern!](https://video.golem.de/wissenschaft/10831/quadrocopter-mit-raedern.html)
 

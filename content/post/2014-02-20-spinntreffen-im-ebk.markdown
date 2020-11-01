@@ -16,5 +16,5 @@ Den einleitenden Witz über Spinner sparen wir uns und kommen gleich zum Thema: 
 [caption id="attachment_6512" align="aligncenter" width="300"][![Bunter Merino Kammzug](/wp-content/uploads/2014/02/spinnrad-300x199.jpg)
 ](/wp-content/uploads/2014/02/spinnrad.jpg) Bunter Merino-Kammzug[/caption]
 
-Bitte meldet euch unter ![](http://kellerautomat.com/ebkmail/ebkmail.php?a=vorstand)
+Bitte meldet euch unter ![](https://kellerautomat.com/ebkmail/ebkmail.php?a=vorstand)
 an, damit wir euch erreichen können, falls es Planänderungen geben sollte. Wer ein eigenes Spinnrad besitzt, darf es natürlich mitbringen.

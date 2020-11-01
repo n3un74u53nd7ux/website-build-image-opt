@@ -12,7 +12,7 @@ tags:
 - Spielzeug
 ---
 
-Das [originale Jenga](http://de.wikipedia.org/wiki/Jenga) besteht aus insgesamt 60 Jengasteinen mit den Maßen 2.5cm x 1cm x 7.5cm. Für unsere größere Version greifen wir auf Fichtenrahmenholz von 3.4cm x 5.4cm zurück, welches im Baumarkt erhältlich ist. Kurzerhand kaufte ich davon 6 Stück á 2 Meter ein und los ging's!<!-- more -->
+Das [originale Jenga](https://de.wikipedia.org/wiki/Jenga) besteht aus insgesamt 60 Jengasteinen mit den Maßen 2.5cm x 1cm x 7.5cm. Für unsere größere Version greifen wir auf Fichtenrahmenholz von 3.4cm x 5.4cm zurück, welches im Baumarkt erhältlich ist. Kurzerhand kaufte ich davon 6 Stück á 2 Meter ein und los ging's!<!-- more -->
 
 **PLAN**
 

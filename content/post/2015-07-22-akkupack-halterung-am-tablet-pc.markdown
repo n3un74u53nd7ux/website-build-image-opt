@@ -15,12 +15,10 @@ Für die Datenerfassung in der Natur, Orientierung im Gelände mit GPS und Dokum
 
 Nur gibt es kein Zeitfenster zum Laden des Tablets zwischendurch. Also musste das Akkupack irgendwie am Tablet befestigt werden. Die einfachste Möglichkeit: An beide Geräte Klettband kleben, schied wegen des Risikos, dass die Garantie erlischt, aus. Außerdem war der Bastler-Ergeiz geweckt.
 
-Mit [FreeCAD](http:/https://www.freecadweb.org/) - das Programm ist gewöhnungsbedürftig, aber nach kurzer Einführung gut nutzbar - konstruierte ich eine Umhüllung für das Akkupack in zwei Teilen:
+Mit [FreeCAD](https://www.freecadweb.org/) - das Programm ist gewöhnungsbedürftig, aber nach kurzer Einführung gut nutzbar - konstruierte ich eine Umhüllung für das Akkupack in zwei Teilen:
 
-
-
-	  * Boden mit Seitenwänden
-	  * Deckel
+  * Boden mit Seitenwänden
+  * Deckel
 
 [caption id="attachment_9858" align="aligncenter" width="300"][![Akkupack_Konstruktion_Boden_und_Wände](/wp-content/uploads/2015/07/Akkupack_Konstruktion_Boden_und_Wände-300x167.jpg)
 ](/wp-content/uploads/2015/07/Akkupack_Konstruktion_Boden_und_Wände.jpg) Konstruktionsskizze des Bodens mit Seitenwänden[/caption]
@@ -61,13 +59,10 @@ Beim Tablet gibt es keine aufwändige Konstruktion. Hier habe ich das Klettband 
 Nach mehreren Tagen in Nutzung hat sich die Konstruktion bewährt.
 
 Zur Verbesserung gibt es schon einige Ideen, die aber aus Gründen der Ressourcenschonung in Warteschleife liegen, da nicht zwingend nötig:
-
-
-
-	  * etwas dickere Wände, um Nuten und Federn druckbar zu machen oder eine andere Konstruktion zur seitlichen Fixierung beim Kleben
-	  * 2 bis 3 mm kürzer, damit der Akkupack durch den Gummi stabiler gehalten wird; momentan ist etwas Spiel
-	  * Öffnungen für Ladebuchse des Akkupacks und der eingebauten LED-Taschenlampe frei lassen (wurde aus Unsicherheit mit Blick auf die Stabilität in der vorliegenden Version vermieden)
-	  * Bessere Verteilung der Öffnungen im Deckel, damit der Druckschalter zur Ladeanzeige besser zugänglich wird und evtl. auch freilassen der länglichen LED zur Ladestandsanzeige
-	  * seitliche Öffnungen eher als Ellipsen formen und mit weniger Material bei den Stegen; das müßte zur Stabilität auch ausreichen, sieht gefälliger aus und reduziert das Material
-	  * seitlich kleine Klips als Halterungen für das Ladekabel und ein USB-Adapterkabel, welche immer mit dabei sein sollen
+  * etwas dickere Wände, um Nuten und Federn druckbar zu machen oder eine andere Konstruktion zur seitlichen Fixierung beim Kleben
+  * 2 bis 3 mm kürzer, damit der Akkupack durch den Gummi stabiler gehalten wird; momentan ist etwas Spiel
+  * Öffnungen für Ladebuchse des Akkupacks und der eingebauten LED-Taschenlampe frei lassen (wurde aus Unsicherheit mit Blick auf die Stabilität in der vorliegenden Version vermieden)
+  * Bessere Verteilung der Öffnungen im Deckel, damit der Druckschalter zur Ladeanzeige besser zugänglich wird und evtl. auch freilassen der länglichen LED zur Ladestandsanzeige
+  * seitliche Öffnungen eher als Ellipsen formen und mit weniger Material bei den Stegen; das müßte zur Stabilität auch ausreichen, sieht gefälliger aus und reduziert das Material
+  * seitlich kleine Klips als Halterungen für das Ladekabel und ein USB-Adapterkabel, welche immer mit dabei sein sollen
 

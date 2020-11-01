@@ -13,7 +13,7 @@ tags:
 
 Wir haben einen Ultimakerbausatz!
 
-Jetzt nur noch zusammenbauen, [hier der Link zur Anleitung.](http://wiki.ultimaker.com/Mechanics_build_guide)
+Jetzt nur noch zusammenbauen, [hier der Link zur Anleitung.](https://wiki.ultimaker.com/Mechanics_build_guide)
 
 Der Postmann bringt zwei Pakete aus Holland. Eine mit dem Ultimaker, eine mit weiteren Rollen PLA. Hier ein paar erste Impressionen vom Auspacken.
 

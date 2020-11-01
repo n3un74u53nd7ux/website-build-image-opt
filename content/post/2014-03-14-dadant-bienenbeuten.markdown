@@ -58,4 +58,4 @@ Mein komplettes Bauvorhaben wurde auch mit Bildern dokumentiert. Seht selbst:
 
 ** Testaufbau am Bienenstandort**[gallery columns="9" link="file" ids="6757,6756,6758,6759,6760,6761,6762,6763,6764,6765"]
 
-Interessiert euch das Thema Bienenhaltung näher? Ich plane bei der kommenden [TAAK - Tauschakademie](http:/https://www.taak-halle.de/) einen kleinen Einführungskurs in die Imkerei anzubieten.
+Interessiert euch das Thema Bienenhaltung näher? Ich plane bei der kommenden [TAAK - Tauschakademie](https://www.taak-halle.de/) einen kleinen Einführungskurs in die Imkerei anzubieten.

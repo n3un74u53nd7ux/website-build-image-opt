@@ -10,7 +10,7 @@ categories:
 ---
 
 
-	  * [ARTIKEL: Ein RaspberryPi Gehäuse aus Papier](http:/https://www.arbofaktur.de/blog/das-zen-x-paper-case-ist-da)
-	  * [ARTIKEL: Eine gestrickte Katze mit Hut mit Anleitung](http:/https://www.cats-and-hats.de/index.php/gratis)
-	  * [VIDEO: Intelligenter Fahrassistent](http://vimeo.com/72718945)
+	  * [ARTIKEL: Ein RaspberryPi Gehäuse aus Papier](https://www.arbofaktur.de/blog/das-zen-x-paper-case-ist-da)
+	  * [ARTIKEL: Eine gestrickte Katze mit Hut mit Anleitung](https://www.cats-and-hats.de/index.php/gratis)
+	  * [VIDEO: Intelligenter Fahrassistent](https://vimeo.com/72718945)
 

@@ -398,7 +398,7 @@ Und ausgedruckt dann so:
 
 
 
-Es gibt natürlich viele verschiedene Tools um Logos und ASCII aus Schriftarten zu erstellen, z.B. bei [pastojk.com](http://patorjk.com/software/taag/#p=display&f=Bloody&t=EIGENBAU%0A%20KOMBINAT). Dabei kommt dann zum Beispiel so etwas heraus.
+Es gibt natürlich viele verschiedene Tools um Logos und ASCII aus Schriftarten zu erstellen, z.B. bei [pastojk.com](https://patorjk.com/software/taag/#p=display&f=Bloody&t=EIGENBAU%0A%20KOMBINAT). Dabei kommt dann zum Beispiel so etwas heraus.
 
 
 

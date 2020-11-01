@@ -16,7 +16,7 @@ tags:
 
 
 
-Die erste und einzige offizielle Aufzeichnung der ChaosZone vom 36. Chaos Communication Congress. Bei [youtube](https:/https:/https://www.youtube.com/watch?v=_H-Keya6xB8) ansehen.
+Die erste und einzige offizielle Aufzeichnung der ChaosZone vom 36. Chaos Communication Congress. Bei [youtube](https://www.youtube.com/watch?v=_H-Keya6xB8) ansehen.
 
 
 

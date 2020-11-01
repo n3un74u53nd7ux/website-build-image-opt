@@ -11,9 +11,9 @@ tags:
 - Plotter
 ---
 
-Bewaffnet mit dem [Schneeflockengenerator ](http:/https://www.evilmadscientist.com/2008/vector-snowflake-application/)aus dem letzten [Blick über den Tellerrand](/blick-ueber-den-tellerrand-40/) habe ich mich direkt ans Plotten gewagt. Eine einfache Flocke ist schnell erzeugt und lässt sich problemlos in [Inkscape](http://inkscape.org) öffnen.<!-- more -->
+Bewaffnet mit dem [Schneeflockengenerator ](https://www.evilmadscientist.com/2008/vector-snowflake-application/)aus dem letzten [Blick über den Tellerrand](/blick-ueber-den-tellerrand-40/) habe ich mich direkt ans Plotten gewagt. Eine einfache Flocke ist schnell erzeugt und lässt sich problemlos in [Inkscape](https://inkscape.org) öffnen.<!-- more -->
 
-Damit wir auch ohne proprietäre Software plotten können, benutze ich [die aktuelle Entwicklerversion r12832 von Inkscape für Windows](http:/https://www.oss-marketplace.com/index.php/downloads-mainmenu-63/func-startdown/101/), in der bereits eine Erweiterung zur Plotteransteuerung via HPGL und DMPL integriert ist.
+Damit wir auch ohne proprietäre Software plotten können, benutze ich [die aktuelle Entwicklerversion r12832 von Inkscape für Windows](https://www.oss-marketplace.com/index.php/downloads-mainmenu-63/func-startdown/101/), in der bereits eine Erweiterung zur Plotteransteuerung via HPGL und DMPL integriert ist.
 
 Unser HELO Plotter bereitet uns noch ein paar Bauchschmerzen mit komplexeren Plots, einfache Formen und Schriftzüge funktionieren aber problemlos. Hier kurz im Überblick die Einstellungen für unseren Plotter. Im Wesentlichen habe ich alles erstmal auf den Standardeinstellungen belassen, einzig die Ausrichtung wird noch um 90° gedreht. Dann entspricht der am Plotter gesetzte Nullpunkt dem rechten unteren Ende der Graphik. Weitere Optimierungen von overcut etc. werden aber sicher noch folgen.
 

@@ -20,7 +20,7 @@ Der Tellerrand wird 50, juchu! Heute mit:
 
 
 
-  * einer [Nachttischlampe aus Holz + Epoxidharz](https:/https://www.youtube.com/watch?v=c7hVVr3riH0),
-  * der [Restauration eines alten Hammers](https:/https://www.youtube.com/watch?v=gZKosTZSfBA), und  
-  * einem [kleinen Nähprojekt für Zwischendurch](https:/https://www.youtube.com/watch?v=FH48LlZ2jE0).
+  * einer [Nachttischlampe aus Holz + Epoxidharz](https://www.youtube.com/watch?v=c7hVVr3riH0),
+  * der [Restauration eines alten Hammers](https://www.youtube.com/watch?v=gZKosTZSfBA), und  
+  * einem [kleinen Nähprojekt für Zwischendurch](https://www.youtube.com/watch?v=FH48LlZ2jE0).
 

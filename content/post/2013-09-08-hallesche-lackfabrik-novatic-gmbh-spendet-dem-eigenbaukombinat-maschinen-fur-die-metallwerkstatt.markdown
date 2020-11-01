@@ -17,7 +17,7 @@ tags:
 
 Neue Maschinen für unsere Metallwerkstatt!
 
-Die [Hallesche Lackfabrik novatic GmbH](http:/https://www.novatic.com/) hatte noch ein paar Metallbearbeitungsmaschinen übrig und hat sie uns kurzerhand gespendet. Hierfür möchten wir uns an dieser Stelle herzlich bedanken! Die Maschinen bilden einen entscheidenden Beitrag für den Aufbau unserer Metallwerkstatt.
+Die [Hallesche Lackfabrik novatic GmbH](https://www.novatic.com/) hatte noch ein paar Metallbearbeitungsmaschinen übrig und hat sie uns kurzerhand gespendet. Hierfür möchten wir uns an dieser Stelle herzlich bedanken! Die Maschinen bilden einen entscheidenden Beitrag für den Aufbau unserer Metallwerkstatt.
 
 ![novatix](/wp-content/uploads/2013/09/novatix.jpg)
 

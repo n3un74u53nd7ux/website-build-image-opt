@@ -14,13 +14,10 @@ tags:
 ---
 
 Nachwuchs! Wir begrüßen unsere Neuzugänge im Elektronikbereich:
-
-
-
-	  * 1 Stück HAMEG 30MHz 2-Kanal Oszilloskop HM303-4
-	  * 1 Stück HAMEG Doppel-Triple Power Supply HM8040
-	  * 2 Stück ESCORT Funktionsgenerator EGC 3230
-	  * 1 Stück Wentronic Goobay 20319 DF 17132 SB-3A LED-Netzteil
+  * 1 Stück HAMEG 30MHz 2-Kanal Oszilloskop HM303-4
+  * 1 Stück HAMEG Doppel-Triple Power Supply HM8040
+  * 2 Stück ESCORT Funktionsgenerator EGC 3230
+  * 1 Stück Wentronic Goobay 20319 DF 17132 SB-3A LED-Netzteil
 
 <!-- more -->
 

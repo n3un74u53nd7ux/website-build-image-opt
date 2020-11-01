@@ -14,7 +14,7 @@ tags:
 Gehäkelte Früchte wollte ich schon immer mal machen. Zum Glück brauchte unser Kindergarten gerade welche!
 <!-- more -->
 
-Anleitungen um verschiedenes Obst und Gemüse, aber auch Eis und Süßigkeiten zu häkeln, findet man zum Beispiel [hier](http:/https://www.garnstudio.com/lang/de/visoppskrift.php?d_nr=s23&d_id=62&lang=de) oder auch [hier](http:/https://www.garnstudio.com/search.php?lang=de&c=6).
+Anleitungen um verschiedenes Obst und Gemüse, aber auch Eis und Süßigkeiten zu häkeln, findet man zum Beispiel [hier](https://www.garnstudio.com/lang/de/visoppskrift.php?d_nr=s23&d_id=62&lang=de) oder auch [hier](https://www.garnstudio.com/search.php?lang=de&c=6).
 
 [![IMG_4261](/wp-content/uploads/2015/04/IMG_4261-300x300.jpg)
 ](/wp-content/uploads/2015/04/IMG_4261.jpg)

@@ -12,7 +12,7 @@ tags:
 - Spielzeug
 ---
 
-Ich war letztens mal wieder im Spielzeugladen und habe dabei ein interessantes Strategiespiel namens "[Lakota](http:/https://www.kosmos.de/produktdetail-1-1/lakota-1832/)" entdeckt. Das Ziel ist es, als erster alle eigenen Stäbchen auf dem Spielbrett zu verbauen. Da nur wenig Spielmaterial erforderlich ist, habe ich es kurzerhand selbst gebaut.<!-- more -->
+Ich war letztens mal wieder im Spielzeugladen und habe dabei ein interessantes Strategiespiel namens "[Lakota](https://www.kosmos.de/produktdetail-1-1/lakota-1832/)" entdeckt. Das Ziel ist es, als erster alle eigenen Stäbchen auf dem Spielbrett zu verbauen. Da nur wenig Spielmaterial erforderlich ist, habe ich es kurzerhand selbst gebaut.<!-- more -->
 
 **SPIELREGELN**
 
@@ -30,7 +30,7 @@ Wer zuerst alle Hölzchen abgelegt hat, gewinnt.
 
 **ABLEGEREGELN**
 
-Zu den Ablegeregeln kann man viel schreiben ([hier findet man auch die Original-Spielanleitung](http:/https://www.kosmos.de/produktdetail-1-1/lakota-1832/)), ich versuche mich kurzzufassen:
+Zu den Ablegeregeln kann man viel schreiben ([hier findet man auch die Original-Spielanleitung](https://www.kosmos.de/produktdetail-1-1/lakota-1832/)), ich versuche mich kurzzufassen:
 
 
 
