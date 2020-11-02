@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 **/wp-content/
 public/
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,4 +129,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
->>>>>>> b2a31d976d67ee2fcf84af23ec70eedb1857f10c
