@@ -45,9 +45,9 @@ Alle 3 Segmente verwendete ich ein spezielles Teil, was später die Lampenfassun
 
 Nach einigen Wochen waren nun endlich alle Teile gefräst und der Zusammenbau konnte abgeschlossen werden. Die letzte Verbindung zum vollständigen Torus war fummelig, konnte aber zu zweit bewerkstelligt werden. Danke nochmal an Dirk für die großartige Hilfe!
 
-<iframe src="/player.vimeo.com/video/213447050" allowfullscreen="allowfullscreen" height="480" frameborder="0" width="640"></iframe>
+<iframe src="https://player.vimeo.com/video/213447050" allowfullscreen="allowfullscreen" height="480" frameborder="0" width="640"></iframe>
 
-[torus](/vimeo.com/213447050) from [Daniel Havlik](/vimeo.com/user6544842) on [Vimeo](/vimeo.com).
+[torus](https://vimeo.com/213447050) from [Daniel Havlik](https://vimeo.com/user6544842) on [Vimeo](https://vimeo.com).
 
 Als Lampen wählte ich LED-Leuchtmittel mit G4-Stiftsockel. Die Stromführung wurde mit 5mm breitem Kupferklebeband ausgeführt, welches am obersten Segment von beiden Seiten um den Kompletten Torus herumgeführt wurde. An den Segmenten mit Lampenfassung dann nach unten abgezweigt und die auf ca. 1cm gekürzten Kabel der Lampenfassungen angelötet.
 
