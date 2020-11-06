@@ -69,7 +69,12 @@ categories:
  	  * Spielzeug
  	  * Kleidungsstücke (und anderes aus Stoff)
 
-[gallery link="file" ids="8219,8220,8221"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/09/IMG_0780.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/09/IMG_0783.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/09/IMG_0845.jpg" >}}
+{{< /gallery >}}
 
 Anmeldungen von Patienten werden per Email an [reparaturklinik@eigenbaukombinat.de](mailto:reparaturklinik@eigenbaukombinat.de?subject=Patientenanmeldung) entgegengenommen und am Tag der Reparaturklinik bevorzugt behandelt, da die Plätze begrenzt sind. Außerdem können wir so vorab Rückfragen stellen, Fehlersuche betreiben und einschätzen, ob wir Dir helfen können.
 </td>

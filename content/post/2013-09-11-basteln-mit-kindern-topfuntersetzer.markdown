@@ -32,7 +32,21 @@ Eine erste Version bauen wir in 16cm x 16cm Größe. Dazu benötigen wir insgesa
 
 Da Bilder mehr sagen als Worte, gleich die Galerie:
 
-[gallery link="file" ids="4794,4795,4796,4797,4798,4799,4800,4801,4802,4803,4804,4811"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/09/IMG_70816.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70818.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70829.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70839.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70840.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70841.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70843.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70845.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70884.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70888.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70900.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_70905.jpg" >}}
+{{< /gallery >}}
 
 **MATERIAL**
 

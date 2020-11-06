@@ -19,7 +19,18 @@ Besonders geeignet sind gebrauchte LKW Planen, da diese in der Regel verschieden
 
 Doch jetzt zu den Bildern, die für sich sprechen:
 
-[gallery ids="6259,6258,6260,6261,6263,6265,6256,6267,6271" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/12/IMG_9969.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9967.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9974.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9975.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9978.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9981.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9963.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9983.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/IMG_9987.jpg" >}}
+{{< /gallery >}}
 
 Die Materialkosten beliefen sich auf etwa 20 EUR. Ich habe insgesamt etwa 6 Stunden an der Tasche gearbeitet. Einsteiger brauchen wohl etwas länger, Profis schaffen es sicher auch in unter 2 Stunden. ;)
 

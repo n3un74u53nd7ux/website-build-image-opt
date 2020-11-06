@@ -18,4 +18,31 @@ Für alle Hobbyrennfahrer, und solche, die es noch werden wollen, haben Marco, C
 
 Wir freuen uns auf Euren Besuch, zahlreiche Gastfahrer aus Halle, Leipzig und Umgebung, Teilnehmer an den kommenden Veranstaltungen und Wettbewerben, und natürlich auch auf das eine oder andere (zukünftige) Mitglied, das die Strecke mit ausbauen und weiter verfeinern möchte. Aber jetzt lassen wir einfach die Bilder sprechen:
 
-[gallery link="file" ids="7140,7050,7051,7054,7053,7139,7138,7137,7136,7135,7134,7133,7132,7131,7130,7129,7127,7126,7125,7124,7123,7122,7121,7120,7119"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/05/IMG_71174_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70543_2.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70600.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70618.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70605_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71168_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71163_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71147_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71146_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71109_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71095_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71058_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71050_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71013_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_71009_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70987_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70962_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70959_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70941_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70923_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70915_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70877_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70850_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70824_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70797_std.jpg" >}}
+{{< /gallery >}}

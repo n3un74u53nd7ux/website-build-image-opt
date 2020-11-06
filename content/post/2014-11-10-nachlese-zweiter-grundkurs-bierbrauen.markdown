@@ -15,7 +15,17 @@ An einem schönen Sonntag im Oktober war es mal wieder soweit: Brautag im Eigenb
 
 Die Kursteilnehmer warteten schon ganz ungeduldig darauf, ihre mitgenommenen Flaschen verkosten zu dürfen. Jetzt ist das selbstgebraute Bier endlich fertig. Natürlich haben wir es uns nicht nehmen lassen die Flaschen mit einem passenden Etikett zu versehen. ;)
 
-[gallery link="file" ids="8326,8329,8325,8323,8328,8331,8327,8330"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/10/IMG_4205.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4225.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4223.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4234.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4229.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4232.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4216.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4211.jpg" >}}
+{{< /gallery >}}
 
 Es gab diesmal einen "Old Speckled Hen"-Klon, also ein Bier, das sich geschmacklich an seinem Vorbild orientiert, welches vom Maskottchen [in einem kurzen Video hier](https://www.youtube.com/watch?v=kMk_rtdkSCA) beschrieben wird.
 

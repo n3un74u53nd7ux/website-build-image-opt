@@ -11,7 +11,12 @@ categories:
 
 Der Ausbau schreitet voran: Dank vieler fleißiger Hände wurde in der letzten Woche grundiert, gemalert und geputzt. Jetzt nehmen die Räume langsam Gestalt an. Auch die Zwischenwand im künftigen Handarbeitsbereich wurde gesetzt. <!-- more -->Danach konnten wir dann direkt die Elektroverkabelung beginnen und die ersten Dosen an die Wand schrauben. Hier also die aktuellen Bilder aus der neuen Location in der Landsberger 3:
 
-[gallery link="file" ids="10571,10572,10567"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/11/IMG_0348_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_0347_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_0354_1.jpg" >}}
+{{< /gallery >}}
 
 Man sieht oben unsere Materialsammlung und -vorräte, wie die ersten Dosen entstehen und unten den künftigen Hauptraum vom Elektronikbereich mit rund 60m² nach dem ersten Anstrich. Die Fußbödenbeläge fehlen noch, folgen aber etwas später.
 
@@ -20,6 +25,10 @@ Man sieht oben unsere Materialsammlung und -vorräte, wie die ersten Dosen entst
 
 In den letzten beiden Fotos ist die Trockenbauwand im Handarbeitsbereich zu sehen und René beim Putzen des Bodens im neuen Fotostudio.
 
-[gallery link="file" ids="10570,10569"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/11/IMG_0349_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_0351_1.jpg" >}}
+{{< /gallery >}}
 
 Da sich das Eigenbaukombinat nur aus Spenden und Mitgliedsbeiträgen finanziert [freuen wir uns natürlich auch über DEINE Unterstützung](/unterstuetzen/)! :)

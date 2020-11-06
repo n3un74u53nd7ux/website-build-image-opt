@@ -15,4 +15,17 @@ Mal wieder haben sich ein paar Schnappschüsse und Projekte angesammelt, für di
 
 
 
-[gallery link="file" ids="2596,1863,3291,3292,3296,3294,3295,3297,3299,3300,3301"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/IMG_8544.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68235.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_1820-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_9942-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_69031.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_68605.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_68612.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_69050.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBKMIX-1.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBKMIX-1-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBKMIX-1-3.jpg" >}}
+{{< /gallery >}}

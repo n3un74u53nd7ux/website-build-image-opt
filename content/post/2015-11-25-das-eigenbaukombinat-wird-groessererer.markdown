@@ -14,18 +14,47 @@ Liebe Mitstreiter, Freunde, Förderer und Fans! **Das Eigenbaukombinat wächst**
 
 Doch bevor es an den Umzug geht gibt es noch einiges in den neuen Räumen vorzubereiten und mitzugestalten: Wände und Decken müssen erst vom Altanstrich und überstehenden Teilen befreit werden. Dann geht es ans Verputzen der Wände und das Verlegen von vielen hundert Metern an Strom- und Netzwerkkabeln. Hier ein paar Impressionen vom Baufortschritt:
 
-[gallery link="file" ids="10447,10320,10328,10438,10439,10440,10441,10560,10541"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/10/Raum_1_IMG_2355.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/image1.jpeg" >}}
+{{< figure link="/wp-content/uploads/2015/10/image9.jpeg" >}}
+{{< figure link="/wp-content/uploads/2015/10/wandkratzen2.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/wandkratzen1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/wandkratzen4.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/wandkratzen3.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_0269-e1448373406982.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_1606.jpg" >}}
+{{< /gallery >}}
 
 Es wurde fast ein Kilometer Netzwerkkabel verlegt:
 
-[gallery link="file" ids="10523,10522,10521,10536,10535"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/11/IMG_20150909_183642.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_20150909_183623.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/CIMG4099.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_1637.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_1635.jpg" >}}
+{{< /gallery >}}
 
 Im neuen Sozialraum gibt es dann auch eine Fußbodenheizung!
 
-[gallery link="file" ids="10520,10519,10518,10528,10529"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/11/CIMG4097.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/CIMG4095.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/CIMG4088.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_1657.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_1658.jpg" >}}
+{{< /gallery >}}
 
 Weiter geht es mit den Wänden und dem Estrich, und die restlichen Heizkörper sind jetzt auch schon drin:
 
-[gallery link="file" ids="10542,10540"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/11/IMG_1567.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/11/IMG_1653.jpg" >}}
+{{< /gallery >}}
 
 Wenn auch DU das Eigenbaukombinat bei Ausbau und Umzug unterstützen willst, freuen wir uns natürlich über [Deine Spende auf unser Konto](/unterstuetzen/) oder auch über Baumaterial, Werkzeuge und Co. und generell Ausstattung für unsere vielen Arbeitsbereiche. :)

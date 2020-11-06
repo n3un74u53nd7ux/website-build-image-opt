@@ -18,10 +18,60 @@ Die Pausen, bedingt durch die Raststufen des Malzsud- und Hopfenkochens wurden i
 
 Hier die Bilder zum Kurs:
 
-[gallery ids="11046,11047,11048,11049,11050,11051,11052,11053,11054,11055,11056,11057,11058,11059,11060,11061,11062,11063,11064,11065,11066,11067,11068,11069,11070,11071,11072,11073,11074,11075" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2016/04/001.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/002.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/003.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/004.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/005.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/006.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/007.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/008.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/009.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/010.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/011.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/012.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/013.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/014.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/015.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/016.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/017.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/018.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/019.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/020.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/021.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/022.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/023.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/024.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/025.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/026.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/027.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/028.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/029.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/030.jpg" >}}
+{{< /gallery >}}
 
 Vier Tage später folgte dann das Abfüllen des, dank der Hefe nun alkoholhaltigen, Bieres:
 
-[gallery ids="11083,11084,11085,11086,11087,11088,11089,11090,11091,11092,11093,11094,11095,11096,11097,11098" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2016/04/031.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/032.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/033.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/034.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/035.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/036.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/037.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/038.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/039.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/040.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/041.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/042.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/043.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/044.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/045.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/04/046.jpg" >}}
+{{< /gallery >}}
 
 Ihr habt Lust selbst einmal an einem Bierbraukurs teilzunehmen ([nächster Termin: Sonntag, 17. Juli 2016, Anmeldung per Email](/grundkurs-bierbrauen/)) oder sucht ein Event für den etwas anderen Betriebsausflug? Dann schreibt uns doch einfach eine Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de)

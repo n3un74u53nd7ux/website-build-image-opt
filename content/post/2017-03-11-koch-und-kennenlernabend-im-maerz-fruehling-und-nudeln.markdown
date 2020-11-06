@@ -18,7 +18,11 @@ tags:
 
 **Nachtrag: Bilder**
 
-[gallery link="file" ids="11800,11801"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/03/tmp_6093-DSC_01881776135364-e1489842114301.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/03/tmp_6093-DSC_01891820643585-e1489842275322.jpg" >}}
+{{< /gallery >}}
 
 Schaut man nach draußen, merkt man es: Der Frühling hält Einzug im Land. Und mit dem Frühling kommen auch die ein oder anderen frischen Kraute und Kräuter zum Vorschein.
 

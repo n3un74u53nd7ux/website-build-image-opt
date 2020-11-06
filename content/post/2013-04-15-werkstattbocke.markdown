@@ -22,22 +22,52 @@ Nach dem Entwurf der Böcke in QCad und Sketchup wurden alle Teile an der Kapps�
 
 Besonders mühsam war im Anschluss das Ausstämmen der Zapfenlöcher. Hierfür wurde zuerst grob vorgebohrt und anschließend mit Stechbeitel und Klüfpel möglichst passgenau nachgearbeitet. Besonders hilfreich war hierbei die Hinterzange der Hobelbank, mit der die entsprechenden Werkstücke fixiert werden konnten.
 
-[gallery link="file" columns="3" ids="1814,1808,1809,1805,1806,1810"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/03/DSC04433.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04427.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04428.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04424.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04425.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04429.jpg" >}}
+{{< /gallery >}}
 
 Die Stabilität der Böcke beruht neben einer Verleimung, auf der Spreizung der Zapfen. Die im Vorfeld gefertigten Hartholzkeile wurden hierzu in die Zapfenschlitze eingeschlagen und im Anschluss abgesägt und plan geschliffen.
 
-[gallery link="file" columns="2" ids="2297,2175"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/IMG_1047-1024x7681.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/IMG_1049.jpg" >}}
+{{< /gallery >}}
 
 Zur Befestigung der oberen Querlatten wurden Hartholzrundestäbe mit 8mm Durchmesser verwendet. Diese wurden, nach dem Vorbohren der Löcher am Bohrständer, eingeschlagen.
 
-[gallery link="file" columns="2" ids="2367,2365"]
-[gallery link="file" columns="3" ids="2366,2305,2303"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/DSC04474.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/DSC04471.jpg" >}}
+{{< /gallery >}}
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/DSC04473.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/2013-03-29_13-48-09_344.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/2013-03-29_13-48-02_343.jpg" >}}
+{{< /gallery >}}
 
 Zur Verleimung kamen die neuen Korpuszwingen von Bessey zum Einsatz. Die besonders großen Auflageplatten ermöglichen ein druckstellenfreies Spannen ohne zusätzliche Unterleghölzer.
 
-[gallery link="file" columns="2" ids="2369,2368"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/DSC04476.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/DSC04475.jpg" >}}
+{{< /gallery >}}
 
 Abschließend noch ein paar Fotos. Aufgenommen mithilfe unserer [Fotostudioausrüstung](/werkstatt/studio/).
-[gallery link="file" ids="2439,2444,2440"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/IMG_9807.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/IMG_9810_neu.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/IMG_9813.jpg" >}}
+{{< /gallery >}}
 
 

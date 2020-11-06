@@ -43,4 +43,14 @@ Die Dunkelkammer ist derzeit im Vorraum des [Fotostudios ](/werkstatt/studio/)un
 
 
 
-[gallery link="file" ids="3076,3077,3078,3079,3080,3081,3082,3083"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/05/DUKA-1.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/DUKA-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/DUKA-3.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/DUKA-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/DUKA-5.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/DUKA-6.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/DUKA-7.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/DUKA-8.jpg" >}}
+{{< /gallery >}}

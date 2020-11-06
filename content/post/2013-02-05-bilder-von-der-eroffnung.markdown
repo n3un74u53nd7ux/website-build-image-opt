@@ -11,4 +11,14 @@ categories:
 
 Anbei einige Impressionen von der Eröffnung am 19. Januar 2013.
 
-[gallery link="file" ids="918,917,916,915,914,913,912,911"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/02/IMG_2665.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_2660.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_2644.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_2635.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_2629.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_2627.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_2607.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_2585.jpg" >}}
+{{< /gallery >}}

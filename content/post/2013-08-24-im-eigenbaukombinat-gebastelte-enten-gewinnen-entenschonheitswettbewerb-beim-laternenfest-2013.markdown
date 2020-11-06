@@ -21,7 +21,19 @@ Beim Bau der Enten kamen viele unserer Maschinen (3D-Drucker, CNC-Fräse, Nähma
 
 <!-- more -->
 
-[gallery link="file" ids="4542,4539,4540,4541,4543,4544,4545,4546,4547,4538"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/08/Siegerenten-1619.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1606.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1608.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1615.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1626.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1628.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1635.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1639.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1648.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/Siegerenten-1600.jpg" >}}
+{{< /gallery >}}
 
 
 

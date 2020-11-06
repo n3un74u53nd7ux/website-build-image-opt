@@ -20,6 +20,22 @@ Dieses Mal gab es vegan und nichtvegane Varianten vom Flammkuchen. Auf einem Tei
 
 Der nächste Koch- und Kennenlernabend findet am 20.01.2017 statt.
 
-[gallery ids="11163,11166,11167,11168,11169,11171,11172,11173,11174,11176,11177,11178,11179,11180"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2016/05/IMG_1448.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1454.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1456.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1458.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1462.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1467.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1470.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1477.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1481.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1484.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1488.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1492.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1497.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/IMG_1498.jpg" >}}
+{{< /gallery >}}
 
 

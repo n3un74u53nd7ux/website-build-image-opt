@@ -19,7 +19,14 @@ Durch den gemeinsamen Einkauf im Holz-Großhandel lässt sich gegenüber dem Ein
 
 <!-- more -->
 
-[gallery link="file" ids="3530,3531,3532,3533,3534"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/06/IMG_0223.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0227.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0235.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0238.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0248.jpg" >}}
+{{< /gallery >}}
 
 
 

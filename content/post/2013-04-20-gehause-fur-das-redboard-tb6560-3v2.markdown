@@ -23,4 +23,9 @@ Hier sieht man alle Einzelteile, die kürzeren Front- und Rückseiten mit den Au
 
 Fertig gefräste Einzelteile und das Ergebnis nach dem Zusammenbauen:
 
-[gallery ids="2545,2546,2547" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/IMG_8534.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/IMG_8536.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/IMG_8538.jpg" >}}
+{{< /gallery >}}

@@ -18,7 +18,14 @@ Schließlich habe ich noch Garderobenhaken aus Edelstahl besorgt: lange für obe
 
 Den besonderen Reiz macht das Erhalten der natürlichen Eigenheiten der Holzbohlen aus: Astlöcher wurden nicht zugekittet, und Risse an den Enden der Bretter bewusst gestalterisch genutzt. Aber jetzt lassen wir die Bilder sprechen:
 
-[gallery link="file" ids="7630,7626,7627,7628,7629"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_3248.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_3238.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_3240.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_3241.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_3244.jpg" >}}
+{{< /gallery >}}
 
 
 

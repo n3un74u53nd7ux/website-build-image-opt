@@ -31,7 +31,14 @@ Heiß bedeutet dabei nicht kochend, sondern ich nahm das heißeste, was der Wass
 
 Ich füllte die Förmchen mit dem Gießharz, legte die Figuren vorsichtig mit einer Pinzette ein und füllte die Förmchen auf. Dabei entstanden leider noch mehr kleine Bläschen. Die Bläschen an der Oberfläche kann man entfernen in dem man kurz! mit einem Feuerzeug über die Oberfläche geht. Leider konnte ich so nicht alle entfernen. Auch waren einige Lufteinschlüsse in den milchigen Förmchen nicht gut sichtbar. Als Tipp in der Zukunft würde ich probieren, die Form auch in ein Wasserbad mit heißem Wasser zu geben.
 
-[gallery columns="5" ids="11933,11932,11931,11929,11936"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/04/DSC_0124a-e1491568804980.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/04/DSC_0121a.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/04/DSC_0119a-e1491568790665.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/04/DSC_0117a-e1491568750726.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/04/DSC_0118a-e1491568846294.jpg" >}}
+{{< /gallery >}}
 
 Theoretisch hätte ich erst eine untere Lage gießen müssen, auf der die Figuren dann liegen, damit die Unterseite nicht aus dem Harz raus schaut. Aber ich hatte Glück, unter den Figuren war bei mir, trotz des Gießens in einem Durchgang, eine dünne Schicht stehen geblieben.
 

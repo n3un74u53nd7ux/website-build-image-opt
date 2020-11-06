@@ -40,22 +40,123 @@ Der letzte Arbeitsschritt bestand im Behandeln der Beuten mit Leinölfirnis. Ach
 
 Mein komplettes Bauvorhaben wurde auch mit Bildern dokumentiert. Seht selbst:
 
-**Zuschnitt**[gallery columns="9" link="file" ids="6672,6673,6674,6676,6677,6675,6678"]
 
-**Flachboden**[gallery columns="9" link="file" ids="6682,6685,6684,6686,6683,6687,6688,6692,6691,6689,6690,6693,6694,6695,6696,6680,6681,6697"]
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_0400.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0404.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0406.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0416.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0419.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0414.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0421.jpg" >}}
+{{< /gallery >}}
 
-**Brutraumzarge**[gallery columns="9" link="file" ids="6702,6703,6704,6705,6707,6712,6706,6708,6709,6710,6711,6713,6714,6715"]
 
-**Absperrgitter**[gallery columns="9" link="file" ids="6717,6718,6719,6720"]
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_0500.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0616.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0615.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0621.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0502.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0647.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0655.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2575.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2571.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2387.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2389.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2576.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2577.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2580.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2584.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0454.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0456.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2585.jpg" >}}
+{{< /gallery >}}
 
-**Honigraumzarge**[gallery columns="9" link="file" ids="6722,6723,6724,6725,6726,6727,6728,6729,6731,6732,6730,6734,6735,6736"]
 
-**Innendeckel**[gallery columns="9" link="file" ids="6739,6740"]
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_0657.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0659.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0660.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1676.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2392.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2403.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2391.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2394.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2397.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2400.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2401.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2435.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2445.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2447.jpg" >}}
+{{< /gallery >}}
 
-**Fütterer**[gallery columns="9" link="file" ids="6741,6742,6743,6744,6748,6745,6746,6747,6749,6750"]
 
-**Außenanstrich** [gallery columns="9" link="file" ids="6754,6751,6752,6753"]
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_0749.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0753.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_0917.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1785.jpg" >}}
+{{< /gallery >}}
 
-** Testaufbau am Bienenstandort**[gallery columns="9" link="file" ids="6757,6756,6758,6759,6760,6761,6762,6763,6764,6765"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_1830.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1834.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1835.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1884.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1890.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1897.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1900.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1970.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2475.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2479.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2471.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2485.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2502.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2504.jpg" >}}
+{{< /gallery >}}
+
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_1787.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_1791.jpg" >}}
+{{< /gallery >}}
+
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_0933.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2298.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2302.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2306.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2349.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2342.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2346.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2347.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2587.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2588.jpg" >}}
+{{< /gallery >}}
+
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_2833.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2823.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2824.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2828.jpg" >}}
+{{< /gallery >}}
+
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/03/IMG_2849.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2847.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2852.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2857.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2858.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2859.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2860.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2861.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2863.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/TitelbildBeuten1.jpg" >}}
+{{< /gallery >}}
 
 Interessiert euch das Thema Bienenhaltung näher? Ich plane bei der kommenden [TAAK - Tauschakademie](https://www.taak-halle.de/) einen kleinen Einführungskurs in die Imkerei anzubieten.

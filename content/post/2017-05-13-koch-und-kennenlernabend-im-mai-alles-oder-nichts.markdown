@@ -23,21 +23,35 @@ Für den Koch- und Kennenlernabend im Mai, konkret am 19.5, haben wir uns diesma
 Wir hatten eine gute Mischung von Zutaten. Zum Glück haben nicht alle das gleiche mitgebracht.
 Das war der Berg Zutaten den wir hatten:
 
-[gallery columns="1" size="full" ids="12140"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/05/20170519_192041-e1495284615311.jpg" >}}
+{{< /gallery >}}
 
 Wir entschieden uns diese Zutaten für den Hauptgang zu verwenden.
 
 Es sollte eine Art Chili-Barbeque-Eintopf werden.
 
-[gallery columns="1" size="large" ids="12138"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/05/20170519_193705-e1495284586703.jpg" >}}
+{{< /gallery >}}
 
 Für den Nachtisch versuchten wir uns an einem Schoko-Kokos-Milchreis.
 
-[gallery columns="1" size="large" ids="12139"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/05/20170519_193628-e1495284600266.jpg" >}}
+{{< /gallery >}}
 
 Und so sah es dann fertig aus.
 
-[gallery ids="12137,12136,12135"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/05/20170519_203510-e1495284571572.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/20170519_203648-e1495284560461.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/20170519_211512-e1495284545726.jpg" >}}
+{{< /gallery >}}
 
 ...und gut geschmeckt hat es auch.
 

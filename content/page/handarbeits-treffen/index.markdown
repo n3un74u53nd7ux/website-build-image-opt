@@ -64,7 +64,15 @@ url: /handarbeits-treffen/
 
 <td style="text-align: left;" >Wir treffen uns zum Nähen, Stricken, Häkeln, Filzen und mehr im Kombinat. Anfänger und Fortgeschrittene sind gleichermaßen willkommen.
 
-[gallery ids="4335,4887,3558,3561,4069,4624" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/08/IMG_70651.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/DSCF5961.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_69222.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_69229.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/07/Haekelhut_kleiner.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_07251.jpg" >}}
+{{< /gallery >}}
 
 Fragen gerne per E-Mail an handarbeit@eigenbaukombinat.de
 </td>

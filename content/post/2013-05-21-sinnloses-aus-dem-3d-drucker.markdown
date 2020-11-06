@@ -19,4 +19,16 @@ Ich habe mal ein paar der Drucke die wir in letzter Zeit zu Demonstrationszwecke
 
 <!-- more -->
 
-[gallery link="file" ids="3046,3045,3044,3042,3041,3040,3039,3043,3047,3048"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-8.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-7.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-6.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-3.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-1.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-5.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-9.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/EBK-Ultimaker-10.jpg" >}}
+{{< /gallery >}}

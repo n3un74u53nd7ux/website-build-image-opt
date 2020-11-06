@@ -33,7 +33,20 @@ Ihr könnt Glas löten (ihr ahnt es - mit weihnachtlichen Motiven).
 
 Und falls ihr einfach nur mal vorbeikommen wollt, weil ihr immerschonmal vorbeikommen wolltet, aber euch noch der Anlass gefehlt hat - hier ist er (der Anlass): denn es wird auch Glühwein und selbstgemacht Plätzchen mit einem selbstge3D-druckten Plätzchenförmchen geben!
 
-[gallery ids="13645,13646,13644,13643,13642,13641,13640,13639,13638,13637,13636"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2018/11/IMG_20171210_021413_112-e1542279486558.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171210_204913_549-e1542279461829.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171209_232624_251-e1542279516370.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171209_210308_369-e1542279534884.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171209_200545_957-e1542279546157.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171209_175311_391-e1542279567604.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171206_003706_495-e1542279584149.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171206_003053_510-e1542279599381.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171206_003033_933-e1542279617897.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171203_160813_182a-e1542279638495.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/IMG_20171118_211421_382-e1542279652304.jpg" >}}
+{{< /gallery >}}
 
 Wenn ihr schon fest vorhabt, vorbei zu kommen und/oder noch Unterstützung bei der Erstellung von Vorlagen braucht, dann sagt uns bitte Bescheid, damit wir besser planen und euch gut unterstützen können: veranstaltungen@eigenbaukombinat.de
 

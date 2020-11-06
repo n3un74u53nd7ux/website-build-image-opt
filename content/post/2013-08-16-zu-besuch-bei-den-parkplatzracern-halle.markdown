@@ -16,7 +16,36 @@ Wie schon im Artikel über [unsere Rampe für RC Cars](/schnelle-rampe-fur-rc-ca
 
 Ohne viele Worte gibt es einfach ein paar Bilder. :-) <!-- more -->
 
-[gallery link="file" ids="4389,4390,4391,4392,4393,4394,4395,4396,4397,4398,4399,4400,4401,4402,4403,4404,4405,4406,4407,4408,4409,4410,4411,4412,4413,4414,4415"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/08/IMG_70542_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70543_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70544_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70548_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70549_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70550_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70551_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70553_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70555_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70556_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70561_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70565_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70573_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70579_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70590_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70591_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70593_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70596_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70597_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70601_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70605_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70606_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70614_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70615_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70618_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70620_std.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_70622_std.jpg" >}}
+{{< /gallery >}}
 
 Danke an Roberto für die schönen Fotos!
 

@@ -72,7 +72,16 @@ Von wegen Müll… In diesem Workshop zeigen wir Euch, was man alles aus alten G
 
 Nach dem “Köpfen” der Flaschen mit einem Flaschenschneider, Kerzen und Wasser könnt ihr die Objekte mittels einer Gravur noch individueller gestalten. Das erfordert zwar etwas Geschick, ist aber kein Hexenwerk.
 
-[gallery link="file" ids="11214,11215,11216,11217,11218,11219,11220"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2016/05/flasche1.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/flasche2.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/flasche4.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/flaschen_villa_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/flaschen_villa_2.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/flaschen_villa_3.jpg" >}}
+{{< figure link="/wp-content/uploads/2016/05/flaschen_villa_4.jpg" >}}
+{{< /gallery >}}
 </td>
 </tr>
 <tr >

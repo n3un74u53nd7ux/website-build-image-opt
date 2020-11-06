@@ -25,7 +25,15 @@ Damit die Konstruktion schnell geht (und weil mir die originalen Halter nicht
 
 Das Ergebnis gefällt mir besser als die originalen und stabiler ist es auch: 
 
-[gallery link="file" ids="1192,1187,1191,1189,1188,1190"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/02/X525-Motor-Mount.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/cop1-1096.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/cop1-1105.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/cop1-1099.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/cop1-1097.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/cop1-1102.jpg" >}}
+{{< /gallery >}}
 
 Wenn sich die Halter bewähren und wir eine Kühlung für die CNC Fräse gebaut haben, soll die Halterung auch nochmal aus Aluminium gefertigt werden.
 

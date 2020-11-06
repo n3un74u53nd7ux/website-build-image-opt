@@ -15,4 +15,28 @@ Das Feedback der Jugendlichen war ausschließlich positiv und sie sind jetzt bes
 
 [https://www.u18.org/bundestagswahl-2017/](https://www.u18.org/bundestagswahl-2017/)
 
-[gallery columns="3" link="file" ids="12316,12315,12314,12313,12312,12311,12310,12309,12308,12307,12306,12305,12304,12303,12302,12301,12300,12299,12298,12297,12296,12295" ]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/09/MG_7945.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7950.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7952.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7955.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7956.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7957.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7911.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7913.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7914.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7915.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7916.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7921.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7924.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7926.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7930.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7931.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7934.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7932.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7938.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7940.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7928.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_7942.jpg" >}}
+{{< /gallery >}}

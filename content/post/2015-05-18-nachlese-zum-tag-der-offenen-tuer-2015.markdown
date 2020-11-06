@@ -20,4 +20,30 @@ An dieser Stelle einen herzlichen Dank an alle Helfer sowie an alle bisherigen U
 
 
 
-[gallery link="file" ids="9476,9477,9478,9479,9480,9481,9482,9483,9484,9485,9486,9487,9488,9489,9490,9491,9492,9493,9494,9495,9496,9497,9498,9499"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/05/IMG_4459.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4466.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4469.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4470.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4472.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4473.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4481.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4486.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4491.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4502.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4504.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4509.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4518.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4522.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4526.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4527.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4530.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4532.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4533.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4538.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4539.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4540.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4541.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4544.jpg" >}}
+{{< /gallery >}}

@@ -67,7 +67,12 @@ categories:
 
 <td style="text-align: left;" >Im Hobbybrauer-Workshop erfahrt ihr, wie ihr Euch zu Hause mit ein wenig Ausrüstung und etwas Zeit euer eigenes Bier brauen könnt.Dabei geht es nicht nur um trockene Theorie - wir brauen an diesem Tag zusammen ein Bier und ihr erfahrt nebenbei Schritt für Schritt, wie ihr aus Gerstenmalz, Hopfen und Bierhefe euer eigenes, individuelles Bier brauen könnt.
 
-[gallery link="file" ids="7979,7997,7993"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/07/IMG_0876.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_0944.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_0933.jpg" >}}
+{{< /gallery >}}
 
 Gegen 13 Uhr, während einer langen Raststufe des Malzsudkochens, werden wir eine Verkostung von Biersorten und von selbstgebackenem Malzbrot vornehmen.
 
@@ -75,7 +80,12 @@ Gegen 16 Uhr werden wir während des Hopfenkochens gemeinsam essen, dabei etwas 
 
 Mit dem im Workshop erlangten Wissen könnt ihr dann zum Beispiel Euer Lieblingsbier aus dem Urlaub nachbrauen oder ein Bier für ein spezielle Gelegenheit, z. B. eine Hochzeit oder einen Geburtstag, ganz individuell selber herstellen.
 
-[gallery link="file" ids="7991,8002,8007"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/07/IMG_0930.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_0979.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_1013.jpg" >}}
+{{< /gallery >}}
 
 Das Mitbringen von ein bis zwei Flaschen seines Lieblingsbieres ist empfohlen, erstens um zu schauen wie man dieses nachbrauen kann, und zweitens natürlich auch um den Durst zu löschen, der beim Brauen unweigerlich aufkommen wird.
 

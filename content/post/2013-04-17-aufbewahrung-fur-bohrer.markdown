@@ -11,4 +11,8 @@ categories:
 
 Zur Aufbewahrung unserer Bohrer wurde die folgende Aufbewahrungsplatte gebaut. Der Vorteil zu herkömmlichen Bohrersortimentkästen besteht darin, dass mehrere Bohrer der gleichen Größe übersichtlich in einer Reihe hintereinander angeordnet und verstaut werden können. Die Maße der Aufbewahrungsplatte entspricht den Regalböden der IKEA Trofastregale.
 
-[gallery link="file" columns="2" ids="2228,2227"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/IMG_1036-1024x7681.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/IMG_1036-300x2251.jpg" >}}
+{{< /gallery >}}

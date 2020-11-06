@@ -69,7 +69,15 @@ Benötigtes Werkzeug steht für alle Teilnehmer zur Verfügung, kann aber auch g
 
 Auf den Bildern unten seht ihr ein paar meiner Kürbisse der letzten Jahre.
 
-[gallery link="file" ids="5244,5250,5249,5248,5247,5245"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/10/IMG_0945.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/SDC12748-klein.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/SDC12746-klein.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/DSCN1240-klein.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/kürbissen-3.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/Kürbis-nacht.jpg" >}}
+{{< /gallery >}}
 </td>
 </tr>
 <tr >

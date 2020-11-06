@@ -15,4 +15,14 @@ Ab sofort steht allen Mitgliedern des Vereins eine Industrietischfräse von Elek
 
 Vielen Dank an unser Vereinsmitglied Sebastian, der uns diese Fräse zur Verfügung stellt sowie allen, die beim Transport der Maschine geholfen haben.
 
-[gallery link="file" ids="6280,6281,6282,6283,6285,6284,6286,6287"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/01/IMG_2253.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/01/IMG_2256.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/01/IMG_2271.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/01/IMG_2272.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/01/IMG_2274.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/01/IMG_2273.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/01/IMG_2275.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/01/IMG_2278.jpg" >}}
+{{< /gallery >}}

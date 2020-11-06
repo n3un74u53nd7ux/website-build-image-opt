@@ -74,7 +74,16 @@ Wir vermitteln die Grundlagen des Lötens und bauen gemeinsam in gemütlicher Ru
 [![IMG_67959](/wp-content/uploads/2013/02/IMG_67959-300x300.jpg)
 ](/wp-content/uploads/2013/02/IMG_67959.jpg)
 
-[gallery link="file" ids="2953,2952,2951,2070,2069,1924,1922"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/ebk-1152.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/ebk-1146.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/ebk-1126.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68437.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68434.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/klavier.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/hund.jpg" >}}
+{{< /gallery >}}
 </td>
 </tr>
 <tr >

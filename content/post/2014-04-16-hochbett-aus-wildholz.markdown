@@ -18,4 +18,9 @@ Die Verbindungen wurden angeblattet und mit 8mm Schlossschrauben gesichert. Am a
 
 Das lichte Maß unter dem Bett ist 1,80m. Als Trägerplatte wurde eine 21mm Birkeschichtholzplatte verwendet.
 
-[gallery link="file" ids="6984,6983,6982"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/04/P1200768.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/04/P1200767.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/04/P1200769.jpg" >}}
+{{< /gallery >}}

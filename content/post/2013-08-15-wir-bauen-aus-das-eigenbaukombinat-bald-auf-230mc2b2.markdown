@@ -29,4 +29,14 @@ Wir freuen uns euch bald in den neuen Räumen begrüßen zu dürfen!
 
 Anbei noch ein paar aktuelle Impressionen, direkt von der Baustelle...
 
-[gallery link="file" ids="4311,4312,4313,4315,4316,4317,4318,4319"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/08/IMG_0729.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_0730.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_0731.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_0734.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_0735.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_0736.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_0738.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/08/IMG_0739.jpg" >}}
+{{< /gallery >}}

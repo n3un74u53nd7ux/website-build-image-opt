@@ -21,7 +21,12 @@ Das Gehäuse entstand an der CNC-Fräse. Die Leuchtflächen wurden von innen mit
 
 Den Deckel haben wir nicht verklebt, so bleibt er abnehmbar und die Lampe zeichnet dann wunderschöne psychedelische Farbmuster an die Decke.
 
-[gallery ids="8659,8657,8658" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/01/IMG_84059.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/01/IMG_84045.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/01/IMG_84054.jpg" >}}
+{{< /gallery >}}
 
 Das MDR Fernsehen hat den Bau der Lampe begleitet. [Im Archiv der Sendung "Donnerwetter" ist der Beitrag vom 29. Januar nach Ende der Sendung abrufbar.](https://www.mdr.de/donnerwetter/index.html)
 

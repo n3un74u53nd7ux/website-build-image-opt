@@ -26,6 +26,21 @@ Hier in Bildern ein paar Ausschnitte:
 	  * der berühmte orangene DDR-Handmixer, wo nur die Motorkohlen gangbar gemacht werden mussten (fixed)
 	  * ein altes Röhrenradio aus den 50ern oder 60ern (kaputt)
 
-[gallery link="file" ids="8382,8383,8373,8377,8380,8381,8378,8374,8379,8375,8371,8376,8372"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/10/IMG_2982.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2988.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2945.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2960.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2968.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2971.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2963.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2947.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2965.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2949.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2938.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2955.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2942.jpg" >}}
+{{< /gallery >}}
 
 Wir freuen uns schon auf die nächste Reparaturklinik im Januar und suchen noch Unterstützer und Mitreparierer.

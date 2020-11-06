@@ -26,7 +26,11 @@ Damit man in Zukunft auch sieht, wieviel die anderen schon reingeworfen haben, b
 
 Dank weiterer [Experimente mit Bastlerglas](/bastlerglas-frasen-versuch-nr-3-4-und-5/) (Polystyrol)  gibt es jetzt auch eine Spendenbox mit Sichtfront:
 
-[gallery ids="3784,3785" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/06/IMG_0382.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0375.jpg" >}}
+{{< /gallery >}}
 
 Als nächstes könnte man ja noch eine komplett transparente bauen... aber ich hab jetzt erstmal davon genug. ;)
 

@@ -19,7 +19,12 @@ Zuerst sollte man sich überlegen, [![](/wp-content/uploads/2017/05/DSC_0097-e14
 
 Als nächstes legt man den Stoff über die Gefäße und schneidet ihn bei Bedarf auf die passende Länge zurecht.
 
-[gallery ids="12092,12094,12093"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/05/DSC_0098-e1495141387736.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/DSC_0100-e1495141421637.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/DSC_0099-e1495141456310.jpg" >}}
+{{< /gallery >}}
 
 Ich habe mich für ein altes kaputtes Baumwollbettlaken und ein altes Handtuch entschieden. Mir war bei der Auswahl wichtig, dass die Materialien wirklich schon alt und kaputt sind und keine andere Verwendung mehr gefunden hätten.
 
@@ -31,10 +36,20 @@ Ich habe mich für ein altes kaputtes Baumwollbettlaken und ein altes Handtuch e
 
 Im ersten Schritt habe ich Wasser mit nur wenig Zement drin angerührt (noch wässrige Konsistenz) und die Stoffe darin kurz getaucht und dann ausgewrungen. Im nächsten Schritt habe ich solange Zement unter das Gemisch gerührt, bis eine breiige Konsistenz erreicht wurde. Aber genau das war der Fehler; denn beim Zementanrühren sollte man beachten, dass man erst das Pulver nimmt und dann nach und nach Wasser zu gibt und nicht anders rum, da es sonst Klümpchen gibt.
 
-[gallery ids="12096,12098,12097"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/05/DSC_0103-e1495142185438.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/DSC_0105-e1495142280229.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/DSC_0104-e1495142227191.jpg" >}}
+{{< /gallery >}}
 Ich habe versucht den Beton mit Farbpigmenten einzufärben. Dabei musste ich feststellen, dass Zement viel Farbe schluckt. Daher habe ich die restliche Masse dann mit Wasser wieder dünnflüssiger gemacht, stark eingefärbt und dann darüber laufen lassen.
 
-[gallery ids="12101,12099,12100"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/05/DSC_0109-e1495142393856.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/DSC_0107-e1495142321420.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/05/DSC_0108-e1495142118468.jpg" >}}
+{{< /gallery >}}
 
 Fazit: Ich bin für Prototypen recht zufrieden. Nur das mit den Klümpchen ärgert mich noch.
 Das hohe Pflanzgefäß mit Betttuch scheint etwas elastisch. Mal schauen, wie sich das auswirkt, wenn es mit Erde gefüllt wird.

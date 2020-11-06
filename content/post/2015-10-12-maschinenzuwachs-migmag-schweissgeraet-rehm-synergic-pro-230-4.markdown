@@ -16,7 +16,13 @@ Unsere Metallwerkstatt bekommt ein Schweißgerät! Und zwar ein richtig schönes
 
 Wir danken der [anstiftung](https://anstiftung.de) für die Unterstützung!
 
-[gallery columns="2" size="medium" link="file" ids="10382,10383,10384,10385"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/10/image5_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/IMG_0203_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/IMG_0214_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/IMG_0216_1.jpg" >}}
+{{< /gallery >}}
 
 Wir ihr seht müssen wir noch etwas üben. ;)
 

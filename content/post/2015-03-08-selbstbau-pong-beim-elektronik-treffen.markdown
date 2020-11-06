@@ -19,4 +19,8 @@ Heute könnte man Pong mit einem einzigen Chip problemlos realisieren, aber Wolf
 
 Wolfgang hat glücklicherweise zwei Stück hergestellt. Wer also Lust hat, Pong nicht nur zu spielen, sondern auch die Funktionsweise kennenzulernen, muss nicht nach Berlin fahren und ist herzlich eingeladen, beim [Elektronik-Treffen](/elektronik-treffen/) am **Mittwoch, den 11. März, um 19:30 Uhr** im Eigenbaukombinat vorbeizuschauen! Die Teilnahme ist kostenlos und es ist keine Anmeldung notwendig.
 
-[gallery link="file" ids="8837,8836"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/03/SDC14061.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/03/ctrl.jpg" >}}
+{{< /gallery >}}

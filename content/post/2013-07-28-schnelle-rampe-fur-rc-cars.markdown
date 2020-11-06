@@ -36,4 +36,10 @@ Der Belag und die Bodenplatte wurde mit der Tauchsäge aus 4mm Industriesperrhol
 [![Druckluftnageln](/wp-content/uploads/2013/07/IMG_0639-300x200.jpg)
 ](/wp-content/uploads/2013/07/IMG_0639.jpg)Das Endresultat kann sich sehen lassen, und wurde auch sogleich ausgiebig gestestet.
 
-[gallery link="file" columns="2" ids="4219,4220,4221,4222"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/07/RC-Rampe-1515-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/07/RC-Rampe-1516-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/07/RC-Rampe-1583-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/07/RC-Rampe-1525.jpg" >}}
+{{< /gallery >}}

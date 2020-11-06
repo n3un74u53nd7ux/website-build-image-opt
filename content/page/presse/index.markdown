@@ -28,4 +28,26 @@ Sollten Sie Fragen haben oder weitere Informationen benötigen, so setzen Sie si
 
 
 
-[gallery ids="8658,8521,8502,8374,8328,8054,7897,7889,7792,7414,7413,7412,7411,7410,7409,7408,7407,7406,7405,7382"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/01/IMG_84054.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/11/cookiecutter.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/11/IMG_1518.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2947.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4229.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3587.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_3325_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_3307_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_0391.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/naehenbastelnhandarbeit.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/modellbaulasercutter.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/metall.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/kinoundkueche.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/holz2.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/holz1.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/fotostudio.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/elektronik3d.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/dunkelkammer.jpg" >}}
+{{< figure link="/wp-content/uploads/2012/12/3ddruck.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_0782_1.jpg" >}}
+{{< /gallery >}}

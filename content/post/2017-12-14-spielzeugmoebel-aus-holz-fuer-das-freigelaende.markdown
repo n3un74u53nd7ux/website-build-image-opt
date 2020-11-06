@@ -84,7 +84,85 @@ Der ausgehärtete Lack verträgt laut Angaben des Herstellers Temperaturen von -
 Die Aufnahmen oben zeigen den Wasser- Test im Freien, es regnete
 dauerhaft.
 
-[gallery columns="2" ids="12733,12732,12731,12728,12727,12722,12718,12719,12714,12713,12711,12707,12708,12709,12710,12706,12705,12704,12703,12699,12700,12701,12702,12698,12697,12696,12695,12691,12692,12693,12694,12687,12688,12689,12690,12686,12685,12684,12683,12679,12681,12682,12678,12677,12676,12671,12672,12674,12670,12666,12664,12663,12662,12661,12659,12658,12657,12655,12653,12650,12649,12648,12647,12644,12643,12641,12640,12639,12638,12637,12636,12635,12634,12633,12632,12631"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/12/PICT4749.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4748.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4747.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4744.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4743.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4738.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4734.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4735.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4730.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4729.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4727.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4723.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4724.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4725.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4726.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4722.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4721.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4720.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4719.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4715.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4716.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4717.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4718.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4714.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4713.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4712.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4711.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4707.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4708.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4709.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4710.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4703.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4704.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4705.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4706.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4702.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4701.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4700.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4699.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4695.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4697.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4698.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4694.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4693.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4692.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4687.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4688.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4690.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4686.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4682.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4680.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4679.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4678.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4677.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4675.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4674.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4673.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4671.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4669.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4666.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4665.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4664.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4663.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4660.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4659.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4657.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4656.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4655.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4654.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4653.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4652.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4651.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4650.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4649.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4648.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4647.jpg" >}}
+{{< /gallery >}}
 
 
 
