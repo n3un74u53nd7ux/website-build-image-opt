@@ -30,4 +30,13 @@ Anhand der Modelle wurde das Slicen mit Cura sowie die relevanten Druckparameter
 
 Wir hoffen, dass alle Teilnehmer Spaß am Kurs hatten. Wer auch mal in das Designen und Drucken von 3D-Modellen hereinschnuppern möchte, dem sei empfohlen, sich für den nächsten [Grundkurs 3D-Drucken](/grundkurs-3d-drucken/) anzumelden. Die Ankündigung erfolgt wie immer über unsere [Termine-Seite](/aktuelle-termine/).
 
-[gallery link="file" ids="3379,3378,3377,3376,3375,3374,3373"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-7.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-6.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-5.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-3.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/Grundkurs3dDruckJuni2013-1.jpg" >}}
+{{< /gallery >}}

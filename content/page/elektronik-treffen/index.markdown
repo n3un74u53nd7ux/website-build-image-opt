@@ -68,7 +68,12 @@ Dann bist du beim Elektronik-Treffen genau richtig! In lockerer Runde treffen si
 
 Gäste und Besucher sind herzlich willkommen!
 
-[gallery link="file" ids="7058,3219,7061"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/05/IMG_70382.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/Wanderkiste-1.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/05/IMG_70391.jpg" >}}
+{{< /gallery >}}
 
 Fragen per E-Mail an unsere [Mailingliste](https://lists.eigenbaukombinat.de/listinfo/diskussion).
 </td>

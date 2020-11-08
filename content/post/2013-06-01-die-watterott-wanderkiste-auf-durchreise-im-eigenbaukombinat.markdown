@@ -30,7 +30,12 @@ Leider hat die Kiste noch kein Logbuch, so wissen wir leider nicht, wo sie schon
 
  **Folgende Artikel haben wir aus der Kiste entnommen:**
 
-[gallery link="file" ids="3219,3220,3221"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/05/Wanderkiste-1.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/Wanderkiste-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/Wanderkiste-3.jpg" >}}
+{{< /gallery >}}
 
 
 
@@ -54,7 +59,15 @@ Leider hat die Kiste noch kein Logbuch, so wissen wir leider nicht, wo sie schon
 
 **Folgende Artikel haben wir in die Kiste gepackt:**
 
-[gallery link="file" ids="3324,3311,3312,3223,3224,3313"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/06/EBKMIX-1-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/EBKMIX-1.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/EBKMIX-2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/Wanderkiste-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/Wanderkiste-5.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/EBKMIX-3.jpg" >}}
+{{< /gallery >}}
 
 
 

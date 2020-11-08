@@ -16,7 +16,18 @@ Das Eigenbaukombinat und der vom [Terminal.21 e.V.](https://www.terminal21.de) b
 
 Zahlreiche Angebote für Jung und Alt laden dabei zum Mitmachen ein: Neben 3D-gedruckten Schlüsselanhängern mit dem eigenen Namen, einer  Buttonmaschine und dem Riesen-Jenga gibt es einen Nachbau des Computerspieleklassikers PONG zum Selberspielen. Natürlich werden auch die in den letzten Monaten hier fertiggestellten Projekte vorgestellt.
 
-[gallery link="file" ids="8837,9382,9244,8051,7898,6927,6763,5231,9257"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/03/SDC14061.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4437_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/04/IMG_4392.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3566.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_3326_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/04/IMG_2985.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/03/IMG_2861.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/09/IMG_71213.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/04/IMG_4393.jpg" >}}
+{{< /gallery >}}
 
 Im Eigenbaukombinat können Tüftler, Künstler und Bastler ihre eigenen
 Ideen realisieren. Ob Holz, Metall, Elektronik, 3D-Druck, Handarbeiten, Fotografie, Computertechnik oder Datensicherheit und -schutz: für alle ist etwas dabei.

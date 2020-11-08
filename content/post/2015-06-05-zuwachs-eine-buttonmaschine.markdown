@@ -14,6 +14,11 @@ Es kam, wie es kommen musste: Nachdem wir erfahren hatten, dass man mit einer Bu
 
 Zum Glück lief uns zeitnah dieses hübsche Modell über den Weg, welches ab sofort im Eigenbaukombinat zur Verfügung steht. Einen "kleinen" Vorrat an nötigem Verbrauchsmaterial haben wir natürlich auch dazubestellt. ;)
 
-[gallery link="file" ids="9382,9384,9383"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/05/IMG_4437_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4440_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/05/IMG_4438_1.jpg" >}}
+{{< /gallery >}}
 
 Wer sie in Aktion erleben möchte, kann gern [zu unserem 2-wöchentlichen Handarbeits-Treffen](/wolle-treffen/) vorbeischauen, das nächste mal am Montag, 15. Juni 2015 ab 18 Uhr.

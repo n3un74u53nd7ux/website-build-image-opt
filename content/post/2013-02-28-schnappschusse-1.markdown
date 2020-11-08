@@ -11,4 +11,12 @@ categories:
 
 Hier ein paar Schnappschüsse aus aktuellen Projekten.
 
-[gallery link="file" ids="1388,1391,1390,1295,1209,1381"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/02/IMG_67952.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_67960.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_67959.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/ebk-1091.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/mame_IMG_67766.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_67946.jpg" >}}
+{{< /gallery >}}

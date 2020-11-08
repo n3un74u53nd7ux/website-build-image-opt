@@ -26,7 +26,12 @@ Der Gehäuserahmen wurde mit Tauch- und Kappsäge zugeschnitten und mit Lamello 
 
 
 Vorder- und Rückseite wurden auf der CNC-Fräse gefertigt. Einige Aussparungen für Schalter und Anschlüsse mussten mit der Standbohrmaschine und Stechbeitel nachgearbeitet werden.
-[gallery link="file" ids="1295,1626,1122"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/02/ebk-1091.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68104.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/2013-02-06_23-35-54_301.jpg" >}}
+{{< /gallery >}}
 
 
 
@@ -42,7 +47,14 @@ Nach dem Aufleimen und bündig Fräsen der Front, wurden alle Kanten und Ecken a
 
 
 
-Der letztes Schritt bestand im Zusammenlöten und Einbauen der Elektronikteile.[gallery link="file" ids="1800,1801,1802,1803,1804"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/03/DSC04415.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04417.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04421.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04422.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/DSC04423.jpg" >}}
+{{< /gallery >}}
 
 **Kosten:** ca. 70€
 **Zeitaufwand:** ca. 30h Stunden

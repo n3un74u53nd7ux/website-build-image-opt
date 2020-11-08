@@ -25,7 +25,12 @@ Anmeldungen von Patienten werden per Email an [reparaturklinik@eigenbaukombinat.
 
 Du hast schon Erfahrung und kannst anderen beim Reparieren helfen? Dann [werde Arzt im Reparaturklinik-Team!](mailto:reparaturklinik@eigenbaukombinat.de?subject=Arzt für die Reparaturklinik) Nach unserer patentierten 2-Minuten-Intensivschulung kannst Du auch schon die ersten Totenscheine ausfüllen. Kittel, Namensschilder und Handschuhe werden Dir selbstverständlich gestellt. Prestige, Ansehen und ewige Dankbarkeit der "Angehörigen" gibt es gratis dazu. ;)
 
-[gallery link="file" ids="8219,8220,8221"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/09/IMG_0780.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/09/IMG_0783.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/09/IMG_0845.jpg" >}}
+{{< /gallery >}}
 
 **BISHERIGE ANMELDUNGEN**
 <table >

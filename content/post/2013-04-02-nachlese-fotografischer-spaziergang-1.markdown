@@ -15,6 +15,24 @@ Die gezogenen Begriffe für den fotografischen Spaziergang waren: rund, umfangre
 
 Ansonsten war es kalt, **SEHR** kalt. Wir wagten uns trotzdem raus. Hier die Ausbeute:
 
-[gallery link="file" ids="1873,1874,1871,1869,1880,1881,1951,1950,1949,1948,1947,1946,2082,2081,2079,2080"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/03/IMG_68266.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68268.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68264.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68260.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68284.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68286.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/fotowalk_img-3008.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/fotowalk_img-3006.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/fotowalk_img-3001.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/fotowalk_img-2999.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/fotowalk_img-2995.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/fotowalk_img-2989.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/ebk-1388.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/ebk-1384.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/ebk-1373.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/ebk-1379.jpg" >}}
+{{< /gallery >}}
 
 Wer seine Fotos noch beisteuern möchte: bitte direkt im WordPress hochladen, oder einfach per Email an mich.

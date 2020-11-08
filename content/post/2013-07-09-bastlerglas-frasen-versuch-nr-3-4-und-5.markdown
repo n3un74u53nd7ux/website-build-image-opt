@@ -33,7 +33,11 @@ Hier das traurige Ergebnis:
 
 Und noch der Fräser im Vorher/Nachher Vergleich:
 
-[gallery columns="3" ids="3770,3772" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/06/IMG_0353.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0356.jpg" >}}
+{{< /gallery >}}
 
 Wo ist der Gasbrenner, ich muss einen Fräser säubern... ;)
 Der nächste Versuch erfolgt dann mit Bastlerglas als Opferunterlage, auch das brachte keinen Erfolg. Der Fräser scheint immer noch zu warm zu werden. Also vom Pfropfen befreit und mit neuen Parametern frisch ans Werk:

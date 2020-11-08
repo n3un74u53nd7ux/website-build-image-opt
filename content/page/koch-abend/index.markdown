@@ -67,7 +67,13 @@ Im Idealfall meldet ihr Euch für das kochen an, damit die Mengen geplant werden
 
 Fragen per E-Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de)
 
-[gallery link="file" ids="9757,9756,9759,9758"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/06/IMG_84492.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/06/IMG_84489.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/06/IMG_84504.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/06/IMG_84496.jpg" >}}
+{{< /gallery >}}
 </td>
 </tr>
 </tbody>

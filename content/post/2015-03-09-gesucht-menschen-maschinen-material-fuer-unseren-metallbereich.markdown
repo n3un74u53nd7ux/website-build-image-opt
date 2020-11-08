@@ -53,4 +53,11 @@ Bitte verbreite diesen Aufruf weiter - jeder Kontakt hilft uns!
 
 
 
-[gallery link="file" ids="8860,8861,8864,8862,8863"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/03/IMG_9874_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/03/IMG_9886_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/03/IMG_9897_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/03/IMG_9894_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/03/IMG_9895_1.jpg" >}}
+{{< /gallery >}}

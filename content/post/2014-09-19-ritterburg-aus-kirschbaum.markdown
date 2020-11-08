@@ -25,7 +25,25 @@ Die fertigen Ritterburgen können in Kisten aus 10 mm Multiplex verstaut werden.
 
 Und nun die Fotos:
 
-[gallery link="file" ids="8044,8055,8056,8057,8058,8059,8053,8051,8052,8045,8046,8050,8047,8048,8049,8054"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/08/IMG_3403.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3597.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3598.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3599.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3600.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3601.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3577.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3566.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3575.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3408.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3421.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3552.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3436.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3539.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3544.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/08/IMG_3587.jpg" >}}
+{{< /gallery >}}
 
 **Material & Kosten**
 

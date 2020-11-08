@@ -16,6 +16,19 @@ Am 18.09.2015 fand wieder einer unserer regelmäßigen [Kochabende](/koch-abend/
 
 Die Pfirsiche stammen aus Jeremys Garten. David und Jeremy hatten die Rezeptidee, haben die Zutaten geerntet und gekauft. Zusammen mit weiteren Mitgliedern wurde alles zubereitet und am Ende natürlich auch genüsslich verzehrt. ;)
 
-[gallery ids="10141,10139,10135,10138,10137,10136,10144,10140,10145,10142,10146" link="file"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2015/09/IMG_0025.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0021.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0009.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0017.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0016.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0014.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0028.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0023.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0029.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0026.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/09/IMG_0032.jpg" >}}
+{{< /gallery >}}
 
 

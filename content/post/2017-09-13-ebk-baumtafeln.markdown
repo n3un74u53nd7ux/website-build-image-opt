@@ -20,4 +20,12 @@ Gestern wurden bei uns an der CNC-Fräse Tafeln zur Beschriftung von Obstbäumen
 
 <!-- more -->
 
-[gallery link="file" ids="12349,12348,12347,12346,12345,12344"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/09/MG_8002.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_8007.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_8011.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_8016.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_8018.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/09/MG_8019.jpg" >}}
+{{< /gallery >}}

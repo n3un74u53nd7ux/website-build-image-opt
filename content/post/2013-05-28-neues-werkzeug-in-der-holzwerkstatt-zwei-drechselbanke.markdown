@@ -33,6 +33,11 @@ Ein paar Drechseleisen und eine Planscheibe sind auch schon da. Wer jedoch noch 
 
 Erste Ergebnisse gibt es auch schon:
 
-[gallery link="file" ids="3142,3141,3097"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/05/IMG_1921-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_1906-4.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/05/IMG_9052.jpg" >}}
+{{< /gallery >}}
 
 Wen dürfen wir in den nächsten Tagen zum drechseln begrüßen?

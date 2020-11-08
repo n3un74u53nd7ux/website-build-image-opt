@@ -21,4 +21,18 @@ Bei den verwendeten Materialien war uns wichtig nur Holzabfälle/-reste zu verwe
 
 Ein paar Eindrücke des Workshops könnt ihr nachfolgend in Bildergalerie ansehen.
 
-[gallery ids="13672,13677,13676,13675,13679,13674,13678,13673,13670,13671,13669,13668"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2018/11/ILODE5871-e1542278627767.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/OUUKE1903-e1542278723107.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/NORUE8687-e1542278735395.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/LIAFE0437-e1542278750428.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/VVIGE6633-e1542278690578.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/KGYCE4074-e1542278657981.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/PMAQE6577-e1542278704373.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/KERIE1260-e1542278640185.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/EWIJE6795-e1542278577301.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/HRFYE6171-e1542278593109.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DHFXE4667-e1542278556514.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/CHFEE4185-e1542278524136.jpg" >}}
+{{< /gallery >}}

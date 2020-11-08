@@ -11,7 +11,11 @@ tags:
 - Foto
 ---
 
-[gallery ids="2154, 2153" link=file]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/04/IMG_68462.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/IMG_68464.jpg" >}}
+{{< /gallery >}}
 
 Unsere neuen Fotohintergründe sind da. Wer mitbauen (und mitausprobieren) will ist natürlich herzlich eingeladen. ;)
 

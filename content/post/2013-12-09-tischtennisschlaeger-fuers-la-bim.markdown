@@ -13,7 +13,15 @@ Jeden Donnerstag findet im La Bim das "Tischtennis und Kicker Café" statt. Da d
 
 Die Rohlinge haben wir auf der CNC Fräse erstellt und anschließend mit dem Lasercutter graviert. Nach dem Verleimen der Griffe habe ich die Griffkanten noch an der Tischfräse abgerundet. Eine Endbehandlung mit Hartwachsöl soll das Holz vor Feuchtigkeit schützen.
 
-[gallery link="file" ids="5886,5887,5888,5890,5891,5889"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/11/IMG_1799.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/11/IMG_1801.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/11/IMG_1829.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/11/IMG_1879.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/11/IMG_1880.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/11/IMG_1875.jpg" >}}
+{{< /gallery >}}
 
 Viel Spaß damit!
 

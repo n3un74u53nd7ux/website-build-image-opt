@@ -21,6 +21,11 @@ Kurze Anprobe: Die entsprechende Seite der Gewindefeile passt.
 
 Die Enden der Gewindefeile dienen dann dazu, Innengewinde nachzuarbeiten. Jedenfalls: wer mal eine braucht: Sie liegt bei uns in der Metallwerkstatt. ;)
 
-[gallery link="file" ids="8264,8284,8285"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/10/IMG_4185.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/2014-10-09_IMG_1295.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/2014-10-09_IMG_1286.jpg" >}}
+{{< /gallery >}}
 
 

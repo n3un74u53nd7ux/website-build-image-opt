@@ -17,7 +17,18 @@ Mit Widerständen und Transistoren, Drähten und anderen Teilen entstehen Katzen
 
 Zu den eigentlichen Bauteilen kommt dann meist noch etwas Draht und natürlich Lötzinn.
 
-[gallery link="file" ids="1924,1923,1922,1390,2067,2066,2070,2951,2953"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/03/klavier.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/Klavier2.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/hund.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/02/IMG_67959.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68432.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68431.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/03/IMG_68437.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/ebk-1126.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/04/ebk-1152.jpg" >}}
+{{< /gallery >}}
 
 
 

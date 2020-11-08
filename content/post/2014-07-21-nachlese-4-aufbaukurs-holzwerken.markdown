@@ -17,42 +17,100 @@ Beim letzten [Aufbaukurs Holzwerken](/aufbaukurs-holzwerken/) hat Hardy fleißig
 
 Auftrennen und Besäumen der Bohle:
 
-[gallery link="file" ids="7734,7735,7736,7737,7738,7739,7740"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_4268.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4269.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4270.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4271.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4272.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4273.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4274.jpg" >}}
+{{< /gallery >}}
 
 
 
 Auftrennen auf der Bandsäge:
 
-[gallery link="file" ids="7741,7742,7744,7745,7746,7748,7750"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_4275.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4276.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4282.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4283.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4284.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4287.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4289.jpg" >}}
+{{< /gallery >}}
 
 
 
 Aushobeln der Bretter:
 
-[gallery link="file" ids="7751,7752,7753,7754,7755,7756,7757,7758"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_4293.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4294.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4295.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4298.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4300.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4301.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4302.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4303.jpg" >}}
+{{< /gallery >}}
 
 
 
 Konturenschneiden auf der Bandsäge nach Wechsel auf das 6mm breite Bandsägeblatt:
 
-[gallery link="file" ids="7759,7760,7761,7762,7763,7764,7765,7766,7767"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_4304.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4305.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4306.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4309.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4313.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4314.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4315.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4318.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4319.jpg" >}}
+{{< /gallery >}}
 
 
 
 Abrunden der Ecken auf dem Tellerschleifer und Abrunden der Kanten auf der Tischoberfräse:
 
-[gallery link="file" ids="7768,7769,7770,7771,7772,7773"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_4320.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4321.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4322.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4323.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4324.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4325.jpg" >}}
+{{< /gallery >}}
 
 
 
 Finalschliff mit dem Exzenterschleifer:
 
-[gallery link="file" ids="7774,7775,7776"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_4326.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4327.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4329.jpg" >}}
+{{< /gallery >}}
 
 
 
 Oberflächenbehandlung mit Hartwachsöl und Präsentieren des Ergebnisses:
 
-[gallery link="file" ids="7777,7778,7779,7780"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/06/IMG_4330.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4332.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4337.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_4338.jpg" >}}
+{{< /gallery >}}
 
 Danke an Hardy für die Fotos! :)

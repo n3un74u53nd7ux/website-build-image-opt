@@ -107,7 +107,21 @@ url: /aufbaukurs-holzwerken/
  	  * [Nachlese vom 11.10.2015](/nachlese-6-aufbaukurs-holzwerken/)
  	  * [Nachlese vom 09.11.2018](/nachlese-6-aufbaukurs-holzwerken/)
 
-[gallery link="file" columns="4" ids="6107,6106,13704,13699,13694,13692,13689,13687,13686,13503,10374,10361"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/12/bild6.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/12/bild5.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DSCN3155-e1542802227324.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DSCN3181-e1542802449718.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DSCN3174-e1542802482425.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DSCN3172-e1543418540539.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DSCN3164-e1542802514885.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DSCN3160-e1542802525668.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/11/DSCN3158-e1542802530202.jpg" >}}
+{{< figure link="/wp-content/uploads/2018/08/Holzwerkstatt.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/IMG_5488.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/10/IMG_5467.jpg" >}}
+{{< /gallery >}}
 </td>
 </tr>
 </tbody>

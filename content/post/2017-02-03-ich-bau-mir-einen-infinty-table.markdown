@@ -65,7 +65,11 @@ Der Arduino Microcontroller steuert den LED Streifen und braucht 5V Strom via Mi
 
 Beim Plan die Kabel zu verlegen, fiel auf dass, wenn es hübsch sein soll, ich durch den Spiegel durch muss. Zum Glück gab es zuvor einen Flaschenscheidenworkshop im EBK und ich wusste wie man Glas mit einem Dremel (handlichen Rotationswerkzeug) mit speziellen Diamandaufsätzen bearbeiten kann. Da ich aber trotzdem den Spiegel nicht kaputt machen wollte, habe ich zuvor an einer Glasflasche getestet.
 
-[gallery ids="11670,11671"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/01/DSC_0114-e1486211981341.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0115-e1486211999959.jpg" >}}
+{{< /gallery >}}
 
 Die Leisten habe ich weil es schnell gehen musste und die Dübelfräsen für die kleinen Leisten zu groß waren, einfach zusammen getackert. Das ist nicht schön aber erfüllt seinen Zweck.
 [![](/wp-content/uploads/2017/01/DSC_0124-300x169.jpg)
@@ -78,7 +82,13 @@ Die Leisten habe ich weil es schnell gehen musste und die Dübelfräsen für die
 Für das weitere Vorgehen mussten jetzt erst Mal die ersten Schichten übereinander gelegt werden.
 Tisch                           Holzplatte                Spiegel                     Leisten
 
-[gallery columns="4" ids="11674,11675,11676,11677"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/01/DSC_0125-e1486212022918.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0126-e1486212031773.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0127-e1486212039361.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0128-e1486212049356.jpg" >}}
+{{< /gallery >}}
 
 Dann konnten wir das Kabel durch den Spiegel ziehen.
 
@@ -87,11 +97,20 @@ Dann konnten wir das Kabel durch den Spiegel ziehen.
 
 Anschließend mussten die Kabel vom Netzteil und vom Microcontroller an den LED Streifen gelötet werden.
 
-[gallery columns="2" ids="11679,11680"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/01/DSC_0134-e1486212073268.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0135-e1486212082924.jpg" >}}
+{{< /gallery >}}
 
 Als nächstes konnte ich den LED Streifen einkleben.
 
-[gallery ids="11681,11682,11683"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/01/DSC_0136-e1486212092197.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0137-e1486212103371.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0138-e1486212112612.jpg" >}}
+{{< /gallery >}}
 
 Damit die Glasplatte nicht auf den Holzleisten rutscht, habe ich Klebepunkte dazwischen platziert.
 
@@ -105,11 +124,19 @@ Die Kabel wurden alle zusammen in einer Plastikbox verstaut, damit sie nicht so 
 
 Letzter Test vorm finalen Zusammensetzen.
 
-[gallery ids="11686,11687"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/01/DSC_0141-e1486212157198.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0142-e1486212168923.jpg" >}}
+{{< /gallery >}}
 
 Und fertig...
 
-[gallery ids="11692,11693"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/01/DSC_0151-e1486212179842.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/01/DSC_0153-e1486212383219.jpg" >}}
+{{< /gallery >}}
 
 
 ###### Was noch besser werden kann

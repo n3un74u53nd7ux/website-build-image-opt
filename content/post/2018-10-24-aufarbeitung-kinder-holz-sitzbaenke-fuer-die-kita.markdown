@@ -184,4 +184,14 @@ Diese Schäden haben wir ausgeglichen, dass nicht der ganze Zeitaufwand ausschla
 Nach folgenden sind die Fotoaufnahmen der Endergebnisse zu sehen. 
 
 
-[gallery ids="13054,13066,13065,13044,13042,13043,13041,13040"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2017/12/PICT4954-2-e1543416927253.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4942-2-e1543416938709.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4943-2-e1543416952432.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4964-1-e1543416969702.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4966-1-e1543416982714.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4965-1-e1543416999457.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4967-1-e1543417015219.jpg" >}}
+{{< figure link="/wp-content/uploads/2017/12/PICT4968-1-e1543417031981.jpg" >}}
+{{< /gallery >}}

@@ -19,10 +19,23 @@ Bereits am Sonntag gab es im Eigenbaukombinat nur noch ein Thema (und Geruch): K
 
 Entstanden sind nach langem Schneiden, Kratzen, Schälen und Aushöhlen super schön-schaurige Halloweenexemplare, die nur noch darauf warten heute Abend ihr Innerstes leuchten zu lassen.
 
-[gallery link="file" ids="5568,5567,5566,5564,5565"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/10/IMG_1600.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/IMG_1597.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/IMG_1596.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/IMG_1591.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/IMG_1595.jpg" >}}
+{{< /gallery >}}
 
 
 
 Seht selbst welche tollen Werke entstanden sind!
 
-[gallery link="file" ids="5554,5553,5552,5551"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/10/CRW_1625.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/CRW_1618.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/CRW_1616.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/10/CRW_1611.jpg" >}}
+{{< /gallery >}}

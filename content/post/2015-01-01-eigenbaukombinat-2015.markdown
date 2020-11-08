@@ -15,4 +15,15 @@ Wir freuen uns auf Wochen und Monate voller Wunder, Lernen und Staunen. Und wer 
 
 Kommt doch einfach mal zu unserem [Elektroniktreffen](/elektronik-treffen/), besucht unsere [Kurse und Veranstaltungen](/aktuelle-termine/), oder schaut während der [Öffnungszeiten](/oeffnungszeiten/) bei uns vorbei.
 
-[gallery link="file" ids="8382,8497,7792,8030,8362,8480,8372,7906,7898"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2014/10/IMG_2982.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/11/IMG_1490.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/06/IMG_0391.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_1905b.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_4942_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/11/IMG_1445b.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/10/IMG_2942.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_3300_1.jpg" >}}
+{{< figure link="/wp-content/uploads/2014/07/IMG_3326_1.jpg" >}}
+{{< /gallery >}}

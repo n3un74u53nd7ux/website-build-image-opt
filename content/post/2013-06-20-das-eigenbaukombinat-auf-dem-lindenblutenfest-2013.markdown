@@ -32,4 +32,11 @@ Weitere Informationen zum Fest unter: [https://www.francke-halle.de/main/index2.
 
 Hier noch ein paar Impressionen von den Vorbereitungen:
 
-[gallery link="file" ids="3492,3493,3491,3480,3479"]
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/wp-content/uploads/2013/06/IMG_9233.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_9234.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_9231.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0081.jpg" >}}
+{{< figure link="/wp-content/uploads/2013/06/IMG_0044.jpg" >}}
+{{< /gallery >}}
