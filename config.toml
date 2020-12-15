@@ -1,7 +1,7 @@
 baseurl = "https://eigenbaukombinat.de"
 DefaultContentLanguage = "de"
 #DefaultContentLanguage = "ja"
-title = "Eigenbau kombinat"
+title = "Eigenbau​kombinat"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
