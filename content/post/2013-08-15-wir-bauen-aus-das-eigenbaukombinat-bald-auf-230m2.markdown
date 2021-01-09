@@ -4,7 +4,7 @@ date: 2013-08-15 05:42:51+00:00
 draft: false
 title: Wir bauen aus - das Eigenbaukombinat bald auf 230m²
 type: post
-url: /wir-bauen-aus-das-eigenbaukombinat-bald-auf-230m%c2%b2/
+url: /wir-bauen-aus-das-eigenbaukombinat-bald-auf-230m2/
 categories:
 - Laufende Projekte
 - Verein
