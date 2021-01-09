@@ -13,6 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [Params]
   subtitle = "Makerspace, Hackerspace und Mitmachwerkstatt in Halle (Saale)"
   mainSections = ["about", "post","posts"]
